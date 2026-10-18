@@ -2,6 +2,7 @@
 from bisect import bisect_left
 from datetime import datetime, timedelta
 import json
+import argparse
 from zoneinfo import ZoneInfo
 from simulate_wind import ROOT, DATA, load_weather, route_actions, attempt
 
@@ -40,7 +41,12 @@ def solve(start_day, days, terminal):
 
 
 def main():
-    cfg=json.loads((DATA/'simulation-config.json').read_text()); zone=ZoneInfo(cfg['local_timezone'])
+    parser=argparse.ArgumentParser()
+    parser.add_argument('--all-directions', action='store_true', help='Run the 360-degree wind scenario')
+    args=parser.parse_args()
+    config_name='simulation-config-360.json' if args.all_directions else 'simulation-config.json'
+    output_name='adaptive-results-360.json' if args.all_directions else 'adaptive-results.json'
+    cfg=json.loads((DATA/config_name).read_text()); zone=ZoneInfo(cfg['local_timezone'])
     plan=json.loads((ROOT/'data/phase1/route-plan.json').read_text())
     sampling=json.loads((DATA/'sampling.json').read_text())
     extra=json.loads((DATA/'hotel-network.json').read_text())
@@ -81,7 +87,8 @@ def main():
                 diagnostics.append(dict(year=year,direction=direction,daily_cap_km=cap,first_departure_days=[(first+timedelta(days=i)).date().isoformat() for i,day in enumerate(days) if day[0]]))
             print(year,direction,'done',flush=True)
     output=dict(assumptions=dict(departure_grid_minutes=5,day_local='09:00–17:00',minimum_land_pause_minutes=25,daily_caps_km=[50,75,125],overnight_hotel_ids=sorted(hotel_ids),strategy='All reachable hotel states; earliest completion, otherwise maximum progress by 31 October; fewest riding days as tie break'),runs=results,diagnostics=diagnostics,leg_windows=leg_windows)
-    (DATA/'adaptive-results.json').write_text(json.dumps(output,ensure_ascii=False,indent=2)+'\n')
+    output['config']=cfg
+    (DATA/output_name).write_text(json.dumps(output,ensure_ascii=False,indent=2)+'\n')
     for cap in [50,75,125]:
         for direction in ['ccw','cw']:
             rows=[r for r in results if r['daily_cap_km']==cap and r['direction']==direction]

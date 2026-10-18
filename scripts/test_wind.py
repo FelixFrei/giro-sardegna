@@ -19,6 +19,13 @@ class WindTests(unittest.TestCase):
         self.assertTrue(compatible(u,v,90,CFG)[0])
         self.assertTrue(compatible(u,v,270,CFG)[0])
 
+    def test_full_circle_keeps_speed_filter(self):
+        cfg=json.loads((ROOT/'data/phase2/simulation-config-360.json').read_text())
+        for wind in range(0,360,15):
+            for course in range(0,360,15):
+                for speed,expected in [(14.9,False),(15,True),(20,True),(25,True),(25.1,False)]:
+                    self.assertEqual(compatible(*components(speed,wind),course,cfg)[0],expected)
+
     def test_speed_boundaries(self):
         for speed,result in [(14.9,False),(15,True),(25,True),(25.1,False)]:
             self.assertEqual(compatible(*components(speed,270),90,CFG)[0],result)
