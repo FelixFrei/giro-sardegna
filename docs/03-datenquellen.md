@@ -24,7 +24,7 @@ Die tatsächlich verwendete kleine Abfrage steht in [check_sources.py](../script
 - Im geprüften Katalog: 359 FeatureTypes. Für diese Planung unter anderem relevant: `dbu:dbgt_10k_22_v05_04_linea_costa_marina` (Küstenlinie) und `dbu:campi_dunari_sist_spiaggia` (Dünen-/Strandsysteme).
 - Grenze: GetCapabilities bestätigt nur das veröffentlichte Angebot, nicht Vollständigkeit, Alter oder Eignung jedes Layers. Vor Nutzung CRS/Achsenreihenfolge, Erhebungsdatum, Metadaten und Nutzungsbedingungen des konkreten Layers prüfen.
 
-Der Abruf der Küstengeometrie und ihre Eignung für Wasserwege sind noch zu prüfen. WFS liefert Vektordaten; ein WMS-Kartenbild ist kein Ersatz für vermessbare Wege oder konkrete Landepunkte.
+Die Küstengeometrie wurde für das dokumentierte Wasserwegmodell abgerufen; siehe [Methodik](09-methodik-und-daten.md). WFS liefert Vektordaten; ein WMS-Kartenbild ist kein Ersatz für vermessbare Wege oder konkrete Landepunkte.
 
 ## Q03 — EMODnet Bathymetry
 
@@ -39,7 +39,7 @@ Der Abruf der Küstengeometrie und ihre Eignung für Wasserwege sind noch zu pr�
 
 Konkrete Hotels und Verkaufsstellen zunächst über Geodaten finden, dann mit ihrer eigenen Website bzw. einer geeigneten direkten Quelle abgleichen. Name, Lage und Strandbezug erfassen. Fusswege anhand von Weggeometrien bestimmen; Routingdienste oder OSM-Wege können dabei helfen.
 
-Hotelkandidaten sind inzwischen namentlich recherchiert; siehe [Steckbriefe](05-landeplaetze-index.md) und [Quellenregister](10-quellenregister.md). Es wurden keine Betriebe kontaktiert. Tatsächliche Fusswege sind teilweise noch offen. Saisonöffnung und Zimmerverfügbarkeit werden nicht recherchiert. Eine allgemeine Hotel-API ist für die erste Phase nicht erforderlich; falls später eine genutzt wird, Zugang, Kosten und Nutzungsbedingungen getrennt prüfen.
+Hotelkandidaten sind inzwischen namentlich recherchiert; siehe [Steckbriefe](05-landeplaetze-index.md) und [Quellenregister](10-quellenregister.md). Es wurden keine Betriebe kontaktiert. Entfernungsangaben werden von den Anbietern übernommen. Saisonöffnung und Zimmerverfügbarkeit werden nicht recherchiert. Eine allgemeine Hotel-API ist für die erste Phase nicht erforderlich; falls später eine genutzt wird, Zugang, Kosten und Nutzungsbedingungen getrennt prüfen.
 
 ## Q05 — Open-Meteo Historical Weather API, für Phase 2
 

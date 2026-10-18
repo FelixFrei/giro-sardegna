@@ -6,14 +6,14 @@ Stand: 18.10.2026 · vorläufiger Routenentwurf
 
 | Abschnitt | Wasserweg | Fahrt bei 25 km/h | Funktion am Ende |
 |---|---:|---:|---|
-| [La Cinta – Südende](../landeplaetze/la-cinta.md) → [Porto Istana](../landeplaetze/porto-istana.md) | 19.4 km | 0:46 h | Pause 20–30 min; Rast; G offen; Ü offen |
-| [Porto Istana](../landeplaetze/porto-istana.md) → [Cala Sassari](../landeplaetze/cala-sassari.md) | 13.1 km | 0:31 h | Pause 20–30 min; Rast + G*; Ü offen |
-| [Cala Sassari](../landeplaetze/cala-sassari.md) → [Liscia Ruja](../landeplaetze/liscia-ruja.md) | 21.9 km | 0:53 h | Pause 20–30 min; Rast; G offen; Ü offen |
-| [Liscia Ruja](../landeplaetze/liscia-ruja.md) → [Baja Sardinia – Cala Battistoni](../landeplaetze/baja-sardinia.md) | 17.5 km | 0:42 h | Hotelziel; Rast + G* + Ü* |
+| [La Cinta – Südende](../landeplaetze/la-cinta.md) → [Porto Istana](../landeplaetze/porto-istana.md) | 19.4 km | 0:46 h | Pause 20–30 min; Rast |
+| [Porto Istana](../landeplaetze/porto-istana.md) → [Cala Sassari](../landeplaetze/cala-sassari.md) | 13.1 km | 0:31 h | Pause 20–30 min; Rast + Getränke |
+| [Cala Sassari](../landeplaetze/cala-sassari.md) → [Liscia Ruja](../landeplaetze/liscia-ruja.md) | 21.9 km | 0:53 h | Pause 20–30 min; Rast |
+| [Liscia Ruja](../landeplaetze/liscia-ruja.md) → [Baja Sardinia – Cala Battistoni](../landeplaetze/baja-sardinia.md) | 17.5 km | 0:42 h | Hotelziel; Rast + Getränke + Hotel |
 
 ## Übernachtung und Versorgung
 
-Hotelkandidat: [Club Hotel Baja Sardinia](https://www.bajahotels.it/en/hotels/club-hotel/hotel.html); der Fusswegstatus steht im [Landeplatzblatt](../landeplaetze/baja-sardinia.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote und noch ungeklärte Wege stehen in den verlinkten Steckbriefen. Versorgungslücken dürfen nicht als zugesicherte Einkaufsmöglichkeit gerechnet werden.
+Hotelkandidat: [Club Hotel Baja Sardinia](https://www.bajahotels.it/en/hotels/club-hotel/hotel.html); weitere Angaben stehen im [Landeplatzblatt](../landeplaetze/baja-sardinia.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote stehen in den verlinkten Steckbriefen.
 
 ## Passage und Alternativen
 
@@ -21,7 +21,7 @@ Grösster Abstand von modelliertem Land: etwa **2.8 km** (Stichprobe alle 100 m)
 
 Geometrische Reihenfolge: [La Cinta – Südende](../landeplaetze/la-cinta.md) → [Porto Istana](../landeplaetze/porto-istana.md) → [Cala Sassari](../landeplaetze/cala-sassari.md) → [Liscia Ruja](../landeplaetze/liscia-ruja.md) → [Baja Sardinia – Cala Battistoni](../landeplaetze/baja-sardinia.md).
 
-Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps. Ihre technische Eignung und Versorgung sind separat zu prüfen. Bei ungeeignetem nächsten Landeplatz am zuletzt geeigneten Strand bleiben; Rückfahrt nur bei passender Wind-/Wellenlage einplanen. Die Luftlinie ist keine Ausweichroute.
+Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps.
 
 Zwischen Start und Ziel wurde auf dieser Passage kein zusätzlicher Hotelkandidat mit ausreichend konkreter Strandnähe zugeordnet. Die Pausenstrände sind deshalb keine zugesicherten Nachtziele.
 
@@ -29,4 +29,4 @@ Zwischen Start und Ziel wurde auf dieser Passage kein zusätzlicher Hotelkandida
 
 Eigene geodätische Berechnung aus dem [amtlichen Küstendatensatz und dokumentierten Modell](../docs/09-methodik-und-daten.md). Quellen für Strände, Gastronomie und Hotels stehen in den oben verlinkten Einzelblättern. Keine historische Windprüfung in Phase 1.
 
-[Alle Varianten](../docs/06-routenvarianten.md) · [Offene Prüfungen](../docs/07-offene-pruefungen.md)
+[Alle Varianten](../docs/06-routenvarianten.md)

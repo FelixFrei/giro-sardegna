@@ -2,36 +2,27 @@
 
 Stand: 18.10.2026 · ID: `rena-majori` · Gemeinde: Aglientu
 
-**Rast; G offen; Ü offen.** `G*` und `Ü*` sind belegte Versorgungsangebote mit noch vorläufiger Zuordnung zum Landepunkt. Keine Quelle belegt hier das Fehlen von Versorgung; deshalb wird kein Ort vorschnell als „nur Rast“ eingestuft.
+**Rast** · Planungsentwurf
 
-## Landepunkt und technische Bewertung
+## Lage und Strand
 
-- Vorläufiger Küstenpunkt WGS84: **41.17393, 9.17129** (Breite, Länge). [Kartenansicht](https://www.openstreetmap.org/?mlat=41.17393&mlon=9.17129#map=16/41.17393/9.17129).
-- Herkunft: Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.
-- Verschiebung des Referenzpunkts zur modellierten Küste: 46 m. Route liegt am Stopp rechnerisch weitere 100 m entfernt. Diese Projektion bestätigt weder Sand am exakten Punkt noch einen freien Ein-/Ausstieg.
-- Strandmerkmale / Prüfhinweis: Feiner Sand, Granitfelsen und Bachmündungen teilen den Strand; Startkorridor zwischen Felsen offen. Strandbeschreibung aus Quelle 1, technische Folgerungen sind eigene Planungsannahmen.
-- **Landung: B.** Als bedingter Strandkandidat bei ruhigem Ufer und freiem Ausstieg; keine wetterunabhängige Freigabe.
-- **Wiederstart: ?.** Mastlänge, ausreichend tiefer freier Korridor, nutzbare Breite und lokale Anströmung sind nicht belegt. Keine Tiefenangabe in Metern wird erfunden.
-- Offene Seeseite ungefähr **W**; geografische Einordnung, kein geeigneter Windsektor. Wind-von-Richtung und Fahrkurs sind getrennte Grössen. Auflandiger Seegang kann Landen erschweren, ablandiger oder abgeschatteter Wind den Wiederstart.
-- Quantifizierte Shorebreak-, Böen- und Strömungsgrenzen: unbekannt. Lokale Strömungen sind ausser bei ausdrücklich beschriebenen Merkmalen nicht bewertet.
+- Küstenreferenz WGS84: **41.17393, 9.17129** (Breite, Länge). [Kartenansicht](https://www.openstreetmap.org/?mlat=41.17393&mlon=9.17129#map=16/41.17393/9.17129).
+- Feiner Sand, Granitfelsen und Bachmündungen teilen den Strand;
+- Seeseite ungefähr **W** (geografische Einordnung).
 
-## Rast und Versorgung
+## Getränke und Verpflegung
 
-Rast auf dem Strand ist als Planungskandidat vorgesehen, abhängig von tatsächlich freier Ablagefläche und Uferbedingungen. Materialablagefläche, Schatten, WC und Dusche am konkreten Punkt: nicht durchgehend erhoben. Trinkwasser-Nachfüllstelle: **unbekannt**; ein Barangebot ist kein Trinkwasserbrunnen.
-
-Keine einzelne Verkaufsstelle mit passendem Fussweg nachgewiesen. Regionale Hinweise auf Gastronomie ersetzen diese Zuordnung nicht; Getränkekauf und Essen bleiben **unbekannt**.
+Keine Verkaufsstelle in dieser Recherche erfasst.
 
 ## Übernachtung
 
-Kein namentlich geprüfter Hotelkandidat in der festgelegten Fussweggrenze. Das bedeutet **unbekannt**, nicht „kein Hotel vorhanden“.
+Kein Hotel in dieser Recherche erfasst.
 
-Zielgrenze: möglichst höchstens 500 m, maximal 1 km Fussweg. Wo nur eine Entfernungsangabe des Betriebs vorliegt, ist sie ausdrücklich keine eigene Fusswegmessung. Stufen und Umwege am gewählten Ausstieg sind noch nicht durchgehend erfasst. Öffnung und Zimmerverfügbarkeit wurden nicht geprüft.
+Entfernungsangaben stammen, soweit vorhanden, vom Anbieter.
 
-## Nachbarstopps und Rückzug
+## Nachbarstopps
 
 Gegen den Uhrzeigersinn: vorher [Rena Bianca](../landeplaetze/rena-bianca.md) (13.5 km), danach [Vignola Mare](../landeplaetze/vignola-mare-aglientu.md) (10.5 km). Im Uhrzeigersinn vertauscht. Wasserweg einschliesslich geometrischem Anlandezuschlag; keine Luftlinie.
-
-Die Nachbarstrände sind Alternativen im Plan, keine jederzeit nutzbaren Notausstiege. Rückweg, Kommunikation und Erreichbarkeit externer Hilfe sind nicht örtlich verifiziert. Für die Entscheidung über die nächste Passage siehe die [offenen Prüfungen](../docs/07-offene-pruefungen.md).
 
 ## Quellen
 

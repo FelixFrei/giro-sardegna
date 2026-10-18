@@ -6,14 +6,14 @@ Stand: 18.10.2026 · vorläufiger Routenentwurf
 
 | Abschnitt | Wasserweg | Fahrt bei 25 km/h | Funktion am Ende |
 |---|---:|---:|---|
-| [Bosa Marina](../landeplaetze/bosa-marina.md) → [Alghero – Lido San Giovanni](../landeplaetze/lido-di-san-giovanni.md) | 38.0 km | 1:31 h | Pause 20–30 min; Rast; G offen; Ü offen |
-| [Alghero – Lido San Giovanni](../landeplaetze/lido-di-san-giovanni.md) → [Porto Conte – Hotel Portoconte](../landeplaetze/porto-conte.md) | 15.5 km | 0:37 h | Pause 20–30 min; Rast + G* + Ü* |
-| [Porto Conte – Hotel Portoconte](../landeplaetze/porto-conte.md) → [Argentiera](../landeplaetze/argentiera.md) | 37.0 km | 1:29 h | Pause 20–30 min; Rast; G offen; Ü offen |
-| [Argentiera](../landeplaetze/argentiera.md) → [La Pelosa – Roccaruja](../landeplaetze/la-pelosa.md) | 28.2 km | 1:08 h | Hotelziel; Rast; G offen + Ü* |
+| [Bosa Marina](../landeplaetze/bosa-marina.md) → [Alghero – Lido San Giovanni](../landeplaetze/lido-di-san-giovanni.md) | 38.0 km | 1:31 h | Pause 20–30 min; Rast |
+| [Alghero – Lido San Giovanni](../landeplaetze/lido-di-san-giovanni.md) → [Porto Conte – Hotel Portoconte](../landeplaetze/porto-conte.md) | 15.5 km | 0:37 h | Pause 20–30 min; Rast + Getränke + Hotel |
+| [Porto Conte – Hotel Portoconte](../landeplaetze/porto-conte.md) → [Argentiera](../landeplaetze/argentiera.md) | 37.0 km | 1:29 h | Pause 20–30 min; Rast |
+| [Argentiera](../landeplaetze/argentiera.md) → [La Pelosa – Roccaruja](../landeplaetze/la-pelosa.md) | 28.2 km | 1:08 h | Hotelziel; Rast + Hotel |
 
 ## Übernachtung und Versorgung
 
-Hotelkandidat: [Club Esse Roccaruja](https://www.clubesse.it/strutture/hotel-roccaruja-stintino/); der Fusswegstatus steht im [Landeplatzblatt](../landeplaetze/la-pelosa.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote und noch ungeklärte Wege stehen in den verlinkten Steckbriefen. Versorgungslücken dürfen nicht als zugesicherte Einkaufsmöglichkeit gerechnet werden.
+Hotelkandidat: [Club Esse Roccaruja](https://www.clubesse.it/strutture/hotel-roccaruja-stintino/); weitere Angaben stehen im [Landeplatzblatt](../landeplaetze/la-pelosa.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote stehen in den verlinkten Steckbriefen.
 
 ## Passage und Alternativen
 
@@ -21,7 +21,7 @@ Grösster Abstand von modelliertem Land: etwa **4.1 km** (Stichprobe alle 100 m)
 
 Geometrische Reihenfolge: [Bosa Marina](../landeplaetze/bosa-marina.md) → [Alghero – Lido San Giovanni](../landeplaetze/lido-di-san-giovanni.md) → [Le Bombarde](../landeplaetze/le-bombarde.md) → [Porto Conte – Hotel Portoconte](../landeplaetze/porto-conte.md) → [Mugoni](../landeplaetze/mugoni.md) → [Porto Ferro](../landeplaetze/porto-ferro.md) → [Argentiera](../landeplaetze/argentiera.md) → [La Pelosa – Roccaruja](../landeplaetze/la-pelosa.md).
 
-Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps. Ihre technische Eignung und Versorgung sind separat zu prüfen. Bei ungeeignetem nächsten Landeplatz am zuletzt geeigneten Strand bleiben; Rückfahrt nur bei passender Wind-/Wellenlage einplanen. Die Luftlinie ist keine Ausweichroute.
+Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps.
 
 Frühere Hotelkandidaten auf dieser Passage: [Porto Conte – Hotel Portoconte](../landeplaetze/porto-conte.md). Eine vorgezogene Übernachtung erfordert eine neue Aufteilung der Folgetage.
 
@@ -29,4 +29,4 @@ Frühere Hotelkandidaten auf dieser Passage: [Porto Conte – Hotel Portoconte](
 
 Eigene geodätische Berechnung aus dem [amtlichen Küstendatensatz und dokumentierten Modell](../docs/09-methodik-und-daten.md). Quellen für Strände, Gastronomie und Hotels stehen in den oben verlinkten Einzelblättern. Keine historische Windprüfung in Phase 1.
 
-[Alle Varianten](../docs/06-routenvarianten.md) · [Offene Prüfungen](../docs/07-offene-pruefungen.md)
+[Alle Varianten](../docs/06-routenvarianten.md)

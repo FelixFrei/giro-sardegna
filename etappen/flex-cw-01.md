@@ -6,13 +6,13 @@ Stand: 18.10.2026 · vorläufiger Routenentwurf
 
 | Abschnitt | Wasserweg | Fahrt bei 25 km/h | Funktion am Ende |
 |---|---:|---:|---|
-| [Poetto – Nautilus](../landeplaetze/poetto.md) → [Nora](../landeplaetze/nora.md) | 27.5 km | 1:06 h | Pause 20–30 min; Rast; G offen; Ü offen |
-| [Nora](../landeplaetze/nora.md) → [Santa Margherita di Pula](../landeplaetze/santa-margherita-di-pula.md) | 11.5 km | 0:28 h | Pause 20–30 min; Rast; G offen; Ü offen |
-| [Santa Margherita di Pula](../landeplaetze/santa-margherita-di-pula.md) → [Su Giudeu – Chia](../landeplaetze/su-giudeu.md) | 7.7 km | 0:19 h | Hotelziel; Rast + G* + Ü* |
+| [Poetto – Nautilus](../landeplaetze/poetto.md) → [Nora](../landeplaetze/nora.md) | 27.5 km | 1:06 h | Pause 20–30 min; Rast |
+| [Nora](../landeplaetze/nora.md) → [Santa Margherita di Pula](../landeplaetze/santa-margherita-di-pula.md) | 11.5 km | 0:28 h | Pause 20–30 min; Rast |
+| [Santa Margherita di Pula](../landeplaetze/santa-margherita-di-pula.md) → [Su Giudeu – Chia](../landeplaetze/su-giudeu.md) | 7.7 km | 0:19 h | Hotelziel; Rast + Getränke + Hotel |
 
 ## Übernachtung und Versorgung
 
-Hotelkandidat: [Hotel Su Giudeu](https://hotelsugiudeu.it/); der Fusswegstatus steht im [Landeplatzblatt](../landeplaetze/su-giudeu.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote und noch ungeklärte Wege stehen in den verlinkten Steckbriefen. Versorgungslücken dürfen nicht als zugesicherte Einkaufsmöglichkeit gerechnet werden.
+Hotelkandidat: [Hotel Su Giudeu](https://hotelsugiudeu.it/); weitere Angaben stehen im [Landeplatzblatt](../landeplaetze/su-giudeu.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote stehen in den verlinkten Steckbriefen.
 
 ## Passage und Alternativen
 
@@ -20,7 +20,7 @@ Grösster Abstand von modelliertem Land: etwa **8.3 km** (Stichprobe alle 100 m)
 
 Geometrische Reihenfolge: [Poetto – Nautilus](../landeplaetze/poetto.md) → [Nora](../landeplaetze/nora.md) → [Santa Margherita di Pula](../landeplaetze/santa-margherita-di-pula.md) → [Su Giudeu – Chia](../landeplaetze/su-giudeu.md).
 
-Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps. Ihre technische Eignung und Versorgung sind separat zu prüfen. Bei ungeeignetem nächsten Landeplatz am zuletzt geeigneten Strand bleiben; Rückfahrt nur bei passender Wind-/Wellenlage einplanen. Die Luftlinie ist keine Ausweichroute.
+Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps.
 
 Zwischen Start und Ziel wurde auf dieser Passage kein zusätzlicher Hotelkandidat mit ausreichend konkreter Strandnähe zugeordnet. Die Pausenstrände sind deshalb keine zugesicherten Nachtziele.
 
@@ -28,4 +28,4 @@ Zwischen Start und Ziel wurde auf dieser Passage kein zusätzlicher Hotelkandida
 
 Eigene geodätische Berechnung aus dem [amtlichen Küstendatensatz und dokumentierten Modell](../docs/09-methodik-und-daten.md). Quellen für Strände, Gastronomie und Hotels stehen in den oben verlinkten Einzelblättern. Keine historische Windprüfung in Phase 1.
 
-[Alle Varianten](../docs/06-routenvarianten.md) · [Offene Prüfungen](../docs/07-offene-pruefungen.md)
+[Alle Varianten](../docs/06-routenvarianten.md)

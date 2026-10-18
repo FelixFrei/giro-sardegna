@@ -6,14 +6,14 @@ Stand: 18.10.2026 · vorläufiger Routenentwurf
 
 | Abschnitt | Wasserweg | Fahrt bei 25 km/h | Funktion am Ende |
 |---|---:|---:|---|
-| [Bosa Marina](../landeplaetze/bosa-marina.md) → [Putzu Idu](../landeplaetze/putzu-idu.md) | 37.4 km | 1:30 h | Pause 20–30 min; Rast; G offen; Ü offen |
-| [Putzu Idu](../landeplaetze/putzu-idu.md) → [Torre Grande – Lido Beach](../landeplaetze/torregrande.md) | 30.1 km | 1:12 h | Pause 20–30 min; Rast + G* + Ü* |
-| [Torre Grande – Lido Beach](../landeplaetze/torregrande.md) → [Torre dei Corsari](../landeplaetze/torre-dei-corsari.md) | 26.5 km | 1:04 h | Pause 20–30 min; Rast; G offen; Ü offen |
-| [Torre dei Corsari](../landeplaetze/torre-dei-corsari.md) → [Piscinas – Costa Verde](../landeplaetze/piscinas-costa-verde.md) | 16.8 km | 0:40 h | Hotelziel; Rast + G* + Ü* |
+| [Bosa Marina](../landeplaetze/bosa-marina.md) → [Putzu Idu](../landeplaetze/putzu-idu.md) | 37.4 km | 1:30 h | Pause 20–30 min; Rast |
+| [Putzu Idu](../landeplaetze/putzu-idu.md) → [Torre Grande – Lido Beach](../landeplaetze/torregrande.md) | 30.1 km | 1:12 h | Pause 20–30 min; Rast + Getränke + Hotel |
+| [Torre Grande – Lido Beach](../landeplaetze/torregrande.md) → [Torre dei Corsari](../landeplaetze/torre-dei-corsari.md) | 26.5 km | 1:04 h | Pause 20–30 min; Rast |
+| [Torre dei Corsari](../landeplaetze/torre-dei-corsari.md) → [Piscinas – Costa Verde](../landeplaetze/piscinas-costa-verde.md) | 16.8 km | 0:40 h | Hotelziel; Rast + Getränke + Hotel |
 
 ## Übernachtung und Versorgung
 
-Hotelkandidat: [Le Dune Piscinas](https://www.ledunepiscinas.com/); der Fusswegstatus steht im [Landeplatzblatt](../landeplaetze/piscinas-costa-verde.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote und noch ungeklärte Wege stehen in den verlinkten Steckbriefen. Versorgungslücken dürfen nicht als zugesicherte Einkaufsmöglichkeit gerechnet werden.
+Hotelkandidat: [Le Dune Piscinas](https://www.ledunepiscinas.com/); weitere Angaben stehen im [Landeplatzblatt](../landeplaetze/piscinas-costa-verde.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote stehen in den verlinkten Steckbriefen.
 
 ## Passage und Alternativen
 
@@ -21,7 +21,7 @@ Grösster Abstand von modelliertem Land: etwa **5.4 km** (Stichprobe alle 100 m)
 
 Geometrische Reihenfolge: [Bosa Marina](../landeplaetze/bosa-marina.md) → [Santa Caterina di Pittinuri](../landeplaetze/santa-caterina-di-pittinuri.md) → [Putzu Idu](../landeplaetze/putzu-idu.md) → [San Giovanni di Sinis – Weststrand](../landeplaetze/san-giovanni-di-sinis.md) → [Torre Grande – Lido Beach](../landeplaetze/torregrande.md) → [Torre dei Corsari](../landeplaetze/torre-dei-corsari.md) → [Marina di Arbus – Gutturu e Flumini](../landeplaetze/marina-di-arbus.md) → [Piscinas – Costa Verde](../landeplaetze/piscinas-costa-verde.md).
 
-Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps. Ihre technische Eignung und Versorgung sind separat zu prüfen. Bei ungeeignetem nächsten Landeplatz am zuletzt geeigneten Strand bleiben; Rückfahrt nur bei passender Wind-/Wellenlage einplanen. Die Luftlinie ist keine Ausweichroute.
+Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps.
 
 Frühere Hotelkandidaten auf dieser Passage: [Torre Grande – Lido Beach](../landeplaetze/torregrande.md). Eine vorgezogene Übernachtung erfordert eine neue Aufteilung der Folgetage.
 
@@ -29,4 +29,4 @@ Frühere Hotelkandidaten auf dieser Passage: [Torre Grande – Lido Beach](../la
 
 Eigene geodätische Berechnung aus dem [amtlichen Küstendatensatz und dokumentierten Modell](../docs/09-methodik-und-daten.md). Quellen für Strände, Gastronomie und Hotels stehen in den oben verlinkten Einzelblättern. Keine historische Windprüfung in Phase 1.
 
-[Alle Varianten](../docs/06-routenvarianten.md) · [Offene Prüfungen](../docs/07-offene-pruefungen.md)
+[Alle Varianten](../docs/06-routenvarianten.md)

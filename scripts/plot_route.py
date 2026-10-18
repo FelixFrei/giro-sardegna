@@ -36,7 +36,7 @@ def main():
     fig.text(.06,.93,f"Routenentwurf · {plan['total_km']:.0f} km · Start/Ziel Poetto · Sant’Antioco aussen",fontsize=13)
     fig.text(.66,.89,'Hotelziele der 16 Module (CCW)',fontsize=12,weight='bold')
     fig.text(.66,.16,'Auch als 9 Fahrtage gebündelt.\nBeide Richtungen dokumentiert.\nPausen und Quellen in den Markdown-Dateien.',fontsize=10,linespacing=1.6)
-    fig.text(.06,.035,'Geometrisches Modell, kein Navigationstrack. Landepunkte, Foiltiefe und Wetter noch zu prüfen.\nKüste: Regione Autonoma della Sardegna, WFS DBGT · eigene Berechnung · 18.10.2026',fontsize=9,color='#52616b')
+    fig.text(.06,.035,'Planungsentwurf auf Basis einer geometrischen Route. Wind-Simulation folgt in Phase 2.\nKüste: Regione Autonoma della Sardegna, WFS DBGT · eigene Berechnung · 18.10.2026',fontsize=9,color='#52616b')
     fig.savefig(DATA/'route-overview.png',dpi=160)
     plt.close(fig)
 

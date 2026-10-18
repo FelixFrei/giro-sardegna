@@ -1,4 +1,4 @@
-# Planungsrahmen und noch offene Entscheidungen
+# Planungsrahmen
 
 Stand: 18.10.2026. Die folgenden Zahlen sind Vorgaben, Rechenergebnisse oder ausdrücklich bezeichnete Vorschläge; keine bereits validierten Etappen.
 
@@ -57,23 +57,9 @@ Bei fünf reinen Fahrstunden plus 2–3 Pausen von je 20–30 Minuten entstehen 
 
 25 km/h Fahrgeschwindigkeit sind bei Kreuzen nicht automatisch 25 km/h Fortschritt zum Ziel. In Phase 1 werden Küstenumwege, Kaps und Anlandungen über eine Wasserweg-Geometrie erfasst. In Phase 2 kommen Windwinkel, mögliche Kreuzschläge, Strömung, Starten und langsame Phasen hinzu. Ein Luftlinienabstand oder die veröffentlichte Küstenlänge ersetzt diese Rechnung nicht.
 
-## In den Prompt aufzunehmende Entscheidungen
+## Detailgrad
 
-| Entscheidung | Präzisierung |
-|---|---|
-| Start und Ende | Bestätigt: Cagliari/Poetto, identischer Start und Endpunkt |
-| Reisedatum | September welchen Jahres; grobes Startfenster; wie viele Kalendertage und Reservetage stehen zur Verfügung? |
-| Zeitbudget | Fünf Stunden reine Fahrzeit oder inklusive Pausen, Tragen und Auf-/Abbau? |
-| Umrundungsdefinition | Hauptinsel; Umgang mit vorgelagerten/verbundenen Inseln; Buchten ausfahren oder queren; maximale offene Querung |
-| Küstenabstand | Persönliche maximale Entfernung zum erreichbaren Land |
-| Unterbrechungen | Sind Landtransfers ausschliesslich zum Abbruch erlaubt? Unterbrochene Wasserabschnitte nicht als absolviert zählen |
-| Team und Material | Personenanzahl, Können, Boardvolumen, Mastlänge, Wings, Gepäckgewicht, Tragbarkeit, Verhalten bei Flaute |
-| Betriebsgrenzen | Persönlicher Windbereich, Böengrenze, Wellen-/Shorebreakgrenze, mögliche Kurse zum Wind, Wiederstartfähigkeit mit Gepäck |
-| Versorgung | Maximale Distanz/Zeit zwischen erreichbaren Ausstiegen und zwischen Wasser-/Essensnachschub; mitgeführte Vorräte |
-| Übernachtung | Maximale Tragestrecke, Hotelbudget, Zimmerzahl, akzeptierte Unterkunftsarten |
-| Alternativen | Kürzere Etappen, Wartetage, Rückzug zum letzten geeigneten Ort; Transport zum Abbruch separat ausweisen |
-
-Für fehlende Komfortpräferenzen dürfen gekennzeichnete Annahmen verwendet werden. Fehlende persönliche Wind-, Wellen-, Querungs- und Autonomiegrenzen bleiben offene Parameter. Sie dürfen nicht durch vermeintlich allgemeingültige Sicherheitswerte ersetzt werden.
+Die Dokumentation dient der groben Etappenplanung. Auf Wunsch werden keine offenen Ortsprüfungen oder detaillierten Prüfaufträge zu Ausstiegen, Foiltiefen und Hotel-Fusswegen geführt. Recherchierte Strandmerkmale und Anbieterangaben genügen für diesen Planungsentwurf.
 
 ## Vorgehen in Phase 1
 
@@ -85,7 +71,7 @@ Für fehlende Komfortpräferenzen dürfen gekennzeichnete Annahmen verwendet wer
 6. Für beide Fahrtrichtungen eine vollständige Kette zurück zum Ausgangspunkt aufstellen. Fehlende Hotelabdeckung oder zu lange Abschnitte sichtbar lassen und mit kürzeren Varianten bearbeiten.
 7. Jede Etappe mit Distanz, Zeitrechnung, Versorgung, längstem Abschnitt ohne geeigneten Ausstieg und verkürzbarer Alternative dokumentieren.
 
-Phase 1 ist inhaltlich abgeschlossen, wenn die gesamte definierte Runde abgedeckt ist, jeder geplante Stopp einen Steckbrief hat, jedes Nachtziel ein namentlich belegtes erreichbares Hotel besitzt und offene Prüfungen transparent ausgewiesen sind. Ein recherchierter Entwurf mit offenen Fahrbarkeitsfragen ist als solcher zu kennzeichnen.
+Phase 1 ist inhaltlich abgeschlossen, wenn die gesamte definierte Runde abgedeckt ist, jeder geplante Stopp einen Steckbrief hat, jedes Nachtziel ein namentlich belegtes erreichbares Hotel besitzt und die Quellen dokumentiert sind. Das Ergebnis wird als Planungsentwurf gekennzeichnet.
 
 ## Übergabe an Phase 2
 

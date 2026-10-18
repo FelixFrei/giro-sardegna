@@ -4,9 +4,9 @@ Stand: 18.10.2026. Sprache: Deutsch. Reisezeit: September; Reisejahr noch offen.
 
 Der erste recherchierte Routenentwurf liegt vor: **rund 891 km, 58 Landeplatzkandidaten und eine Hotelkette rund um Sardinien**, mit Start/Ziel Cagliari/Poetto und Aussenumrundung von Sant’Antioco. Beides ist als Arbeitsumfang bestätigt.
 
-Die Route ist in **16 flexible Module** aufgeteilt und alternativ zu **neun Fahrtagen** gebündelt, jeweils mit 2–3 Pausen und in beiden Fahrtrichtungen. Alle Tage bleiben bei konstant 25 km/h unter fünf rechnerischen Fahrstunden. Wetterwartezeiten und langsamere Fahrt sind noch nicht simuliert. Exakte Landepunkte, Foiltiefen und einzelne Hotel-Fusswege bleiben offen; die Ergebnisse sind entsprechend als Kandidaten gekennzeichnet.
+Die Route ist in **16 flexible Module** aufgeteilt und alternativ zu **neun Fahrtagen** gebündelt, jeweils mit 2–3 Pausen und in beiden Fahrtrichtungen. Alle Tage bleiben bei konstant 25 km/h unter fünf rechnerischen Fahrstunden. Wetterwartezeiten und langsamere Fahrt sind noch nicht simuliert. Die Dokumentation konzentriert sich auf Etappen, Pausen, Versorgung und strandnahe Hotels.
 
-Zum Einstieg: [Routen und Etappen](docs/06-routenvarianten.md) · [Landeplätze](docs/05-landeplaetze-index.md) · [Offene Prüfungen](docs/07-offene-pruefungen.md).
+Zum Einstieg: [Routen und Etappen](docs/06-routenvarianten.md) · [Landeplätze](docs/05-landeplaetze-index.md).
 
 ![Routenübersicht](data/phase1/route-overview.png)
 
@@ -21,13 +21,12 @@ Hotelöffnungszeiten werden auf ausdrücklichen Wunsch nicht geprüft. Für Hote
 
 | Datei | Inhalt |
 |---|---|
-| [Planungsrahmen](docs/01-planungsrahmen.md) | Vorgaben, vorgeschlagene Annahmen, Reichweite und offene Entscheidungen |
+| [Planungsrahmen](docs/01-planungsrahmen.md) | Vorgaben, Annahmen, Reichweite und Detailgrad |
 | [Bewertung der Landeplätze](docs/02-bewertung-landeplaetze.md) | Versorgungskategorien, Pflichtfelder und technische Eignung |
 | [Datenquellen und APIs](docs/03-datenquellen.md) | Quellen, Zugangswege, Grenzen und tatsächlich geprüfte Abrufe |
 | [Prompt für Phase 1](docs/04-prompt-phase-1.md) | Kopierbarer Arbeitsauftrag für die anschliessende Routenplanung |
 | [Landeplätze-Index](docs/05-landeplaetze-index.md) | 58 Steckbriefe mit Quellen, Bewertung und Versorgung |
 | [Routenvarianten](docs/06-routenvarianten.md) | 16 Module / 9 Fahrtage, CCW und CW, 50 Etappenblätter |
-| [Offene Prüfungen](docs/07-offene-pruefungen.md) | Ungeklärte Landepunkte, Fusswege und persönliche Grenzen |
 | [Phase-2-Übergabe](docs/08-phase-2-uebergabe.md) | Datenstruktur und Auftrag für die historische Simulation |
 | [Methodik und Daten](docs/09-methodik-und-daten.md) | Wasserwegmodell, API-Abrufe, Reproduktion und Grenzen |
 | [Quellenregister](docs/10-quellenregister.md) | Quellen je Landeplatz |

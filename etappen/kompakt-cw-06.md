@@ -6,14 +6,14 @@ Stand: 18.10.2026 · vorläufiger Routenentwurf
 
 | Abschnitt | Wasserweg | Fahrt bei 25 km/h | Funktion am Ende |
 |---|---:|---:|---|
-| [Rena Bianca](../landeplaetze/rena-bianca.md) → [Porto Pollo – Ostbucht](../landeplaetze/porto-pollo.md) | 15.8 km | 0:38 h | Pause 20–30 min; Rast + G*; Ü offen |
-| [Porto Pollo – Ostbucht](../landeplaetze/porto-pollo.md) → [Baja Sardinia – Cala Battistoni](../landeplaetze/baja-sardinia.md) | 26.4 km | 1:03 h | Pause 20–30 min; Rast + G* + Ü* |
-| [Baja Sardinia – Cala Battistoni](../landeplaetze/baja-sardinia.md) → [Porto Istana](../landeplaetze/porto-istana.md) | 52.5 km | 2:06 h | Pause 20–30 min; Rast; G offen; Ü offen |
-| [Porto Istana](../landeplaetze/porto-istana.md) → [La Cinta – Südende](../landeplaetze/la-cinta.md) | 19.4 km | 0:46 h | Hotelziel; Rast + G* + Ü* |
+| [Rena Bianca](../landeplaetze/rena-bianca.md) → [Porto Pollo – Ostbucht](../landeplaetze/porto-pollo.md) | 15.8 km | 0:38 h | Pause 20–30 min; Rast + Getränke |
+| [Porto Pollo – Ostbucht](../landeplaetze/porto-pollo.md) → [Baja Sardinia – Cala Battistoni](../landeplaetze/baja-sardinia.md) | 26.4 km | 1:03 h | Pause 20–30 min; Rast + Getränke + Hotel |
+| [Baja Sardinia – Cala Battistoni](../landeplaetze/baja-sardinia.md) → [Porto Istana](../landeplaetze/porto-istana.md) | 52.5 km | 2:06 h | Pause 20–30 min; Rast |
+| [Porto Istana](../landeplaetze/porto-istana.md) → [La Cinta – Südende](../landeplaetze/la-cinta.md) | 19.4 km | 0:46 h | Hotelziel; Rast + Getränke + Hotel |
 
 ## Übernachtung und Versorgung
 
-Hotelkandidat: [Hotel Scintilla](https://www.hotelscintilla.com/san-teodoro/la-cinta/); der Fusswegstatus steht im [Landeplatzblatt](../landeplaetze/la-cinta.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote und noch ungeklärte Wege stehen in den verlinkten Steckbriefen. Versorgungslücken dürfen nicht als zugesicherte Einkaufsmöglichkeit gerechnet werden.
+Hotelkandidat: [Hotel Scintilla](https://www.hotelscintilla.com/san-teodoro/la-cinta/); weitere Angaben stehen im [Landeplatzblatt](../landeplaetze/la-cinta.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote stehen in den verlinkten Steckbriefen.
 
 ## Passage und Alternativen
 
@@ -21,7 +21,7 @@ Grösster Abstand von modelliertem Land: etwa **2.8 km** (Stichprobe alle 100 m)
 
 Geometrische Reihenfolge: [Rena Bianca](../landeplaetze/rena-bianca.md) → [Porto Pollo – Ostbucht](../landeplaetze/porto-pollo.md) → [Cannigione – Ortsstrand](../landeplaetze/cannigione.md) → [Baja Sardinia – Cala Battistoni](../landeplaetze/baja-sardinia.md) → [Liscia Ruja](../landeplaetze/liscia-ruja.md) → [Cala Sassari](../landeplaetze/cala-sassari.md) → [Porto Istana](../landeplaetze/porto-istana.md) → [La Cinta – Südende](../landeplaetze/la-cinta.md).
 
-Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps. Ihre technische Eignung und Versorgung sind separat zu prüfen. Bei ungeeignetem nächsten Landeplatz am zuletzt geeigneten Strand bleiben; Rückfahrt nur bei passender Wind-/Wellenlage einplanen. Die Luftlinie ist keine Ausweichroute.
+Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps.
 
 Frühere Hotelkandidaten auf dieser Passage: [Baja Sardinia – Cala Battistoni](../landeplaetze/baja-sardinia.md). Eine vorgezogene Übernachtung erfordert eine neue Aufteilung der Folgetage.
 
@@ -29,4 +29,4 @@ Frühere Hotelkandidaten auf dieser Passage: [Baja Sardinia – Cala Battistoni]
 
 Eigene geodätische Berechnung aus dem [amtlichen Küstendatensatz und dokumentierten Modell](../docs/09-methodik-und-daten.md). Quellen für Strände, Gastronomie und Hotels stehen in den oben verlinkten Einzelblättern. Keine historische Windprüfung in Phase 1.
 
-[Alle Varianten](../docs/06-routenvarianten.md) · [Offene Prüfungen](../docs/07-offene-pruefungen.md)
+[Alle Varianten](../docs/06-routenvarianten.md)

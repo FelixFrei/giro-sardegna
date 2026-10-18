@@ -2,36 +2,27 @@
 
 Stand: 18.10.2026 · ID: `porto-pollo` · Gemeinde: Palau
 
-**Rast + G*; Ü offen.** `G*` und `Ü*` sind belegte Versorgungsangebote mit noch vorläufiger Zuordnung zum Landepunkt. Keine Quelle belegt hier das Fehlen von Versorgung; deshalb wird kein Ort vorschnell als „nur Rast“ eingestuft.
+**Rast + Getränke** · Planungsentwurf
 
-## Landepunkt und technische Bewertung
+## Lage und Strand
 
-- Vorläufiger Küstenpunkt WGS84: **41.18878, 9.32739** (Breite, Länge). [Kartenansicht](https://www.openstreetmap.org/?mlat=41.18878&mlon=9.32739#map=16/41.18878/9.32739).
-- Herkunft: Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.
-- Verschiebung des Referenzpunkts zur modellierten Küste: 52 m. Route liegt am Stopp rechnerisch weitere 101 m entfernt. Diese Projektion bestätigt weder Sand am exakten Punkt noch einen freien Ein-/Ausstieg.
-- Strandmerkmale / Prüfhinweis: Sandige Landenge, flaches Wasser; Seitenwahl und Foiltiefe entscheidend, nicht über die Landenge routen. Strandbeschreibung aus Quelle 1, technische Folgerungen sind eigene Planungsannahmen.
-- **Landung: B.** Als bedingter Strandkandidat bei ruhigem Ufer und freiem Ausstieg; keine wetterunabhängige Freigabe.
-- **Wiederstart: ?.** Mastlänge, ausreichend tiefer freier Korridor, nutzbare Breite und lokale Anströmung sind nicht belegt. Keine Tiefenangabe in Metern wird erfunden.
-- Offene Seeseite ungefähr **NE**; geografische Einordnung, kein geeigneter Windsektor. Wind-von-Richtung und Fahrkurs sind getrennte Grössen. Auflandiger Seegang kann Landen erschweren, ablandiger oder abgeschatteter Wind den Wiederstart.
-- Quantifizierte Shorebreak-, Böen- und Strömungsgrenzen: unbekannt. Lokale Strömungen sind ausser bei ausdrücklich beschriebenen Merkmalen nicht bewertet.
+- Küstenreferenz WGS84: **41.18878, 9.32739** (Breite, Länge). [Kartenansicht](https://www.openstreetmap.org/?mlat=41.18878&mlon=9.32739#map=16/41.18878/9.32739).
+- Sandige Landenge, flaches Wasser; Seitenwahl und Foiltiefe entscheidend, nicht über die Landenge routen.
+- Seeseite ungefähr **NE** (geografische Einordnung).
 
-## Rast und Versorgung
+## Getränke und Verpflegung
 
-Rast auf dem Strand ist als Planungskandidat vorgesehen, abhängig von tatsächlich freier Ablagefläche und Uferbedingungen. Materialablagefläche, Schatten, WC und Dusche am konkreten Punkt: nicht durchgehend erhoben. Trinkwasser-Nachfüllstelle: **unbekannt**; ein Barangebot ist kein Trinkwasserbrunnen.
-
-[Wind Bar Porto Pollo](https://en.windportopollo.com/wind-bar-portopollo). Am Strand bzw. hinter dem Strand laut Quelle; genaue Verkaufsposition und Fussweg vom Landepunkt noch offen. Angebot: Getränke und Verpflegung laut verlinkter Betreiber-/Tourismusquelle. G* bleibt bis zur räumlichen Zuordnung vorläufig.
+[Wind Bar Porto Pollo](https://en.windportopollo.com/wind-bar-portopollo) – Getränke und Verpflegung.
 
 ## Übernachtung
 
-Kein namentlich geprüfter Hotelkandidat in der festgelegten Fussweggrenze. Das bedeutet **unbekannt**, nicht „kein Hotel vorhanden“.
+Kein Hotel in dieser Recherche erfasst.
 
-Zielgrenze: möglichst höchstens 500 m, maximal 1 km Fussweg. Wo nur eine Entfernungsangabe des Betriebs vorliegt, ist sie ausdrücklich keine eigene Fusswegmessung. Stufen und Umwege am gewählten Ausstieg sind noch nicht durchgehend erfasst. Öffnung und Zimmerverfügbarkeit wurden nicht geprüft.
+Entfernungsangaben stammen, soweit vorhanden, vom Anbieter.
 
-## Nachbarstopps und Rückzug
+## Nachbarstopps
 
 Gegen den Uhrzeigersinn: vorher [Cannigione – Ortsstrand](../landeplaetze/cannigione.md) (19.3 km), danach [Rena Bianca](../landeplaetze/rena-bianca.md) (15.8 km). Im Uhrzeigersinn vertauscht. Wasserweg einschliesslich geometrischem Anlandezuschlag; keine Luftlinie.
-
-Die Nachbarstrände sind Alternativen im Plan, keine jederzeit nutzbaren Notausstiege. Rückweg, Kommunikation und Erreichbarkeit externer Hilfe sind nicht örtlich verifiziert. Für die Entscheidung über die nächste Passage siehe die [offenen Prüfungen](../docs/07-offene-pruefungen.md).
 
 ## Quellen
 

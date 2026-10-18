@@ -8,9 +8,9 @@ Die Variante gegen den Uhrzeigersinn fährt zuerst die Ostküste hinauf. Die Geg
 
 ![Übersicht der 16 Module](../data/phase1/route-overview.png)
 
-**Status:** Zusammenhängender recherchierter Routenentwurf. Hotels sind namentlich belegt; exakte Landepunkte und durchgehende Fusswege sind teilweise offen. Foiltiefen und fahrbare Wetterbereiche fehlen noch. Deshalb ist dies noch kein abschliessend validierter Reiseplan.
+**Status:** Recherchierter Planungsentwurf mit namentlich belegten Hotels. Die Wind-Simulation folgt in Phase 2.
 
-Buchten werden teilweise direkt gequert. Grösste modellierte Entfernung zu Land: rund 8,3 km zwischen Nora und Poetto; weitere Querungen liegen bei etwa 4–6 km. Wer einen engeren Küstenabstand möchte, braucht eine neu berechnete Linienführung und Tagesaufteilung. Die Grenze hierfür ist noch nicht festgelegt.
+Buchten werden teilweise direkt gequert. Grösste modellierte Entfernung zu Land: rund 8,3 km zwischen Nora und Poetto; weitere Querungen liegen bei etwa 4–6 km.
 
 ## 16 Module – gegen den Uhrzeigersinn
 

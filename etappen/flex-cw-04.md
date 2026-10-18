@@ -6,14 +6,14 @@ Stand: 18.10.2026 · vorläufiger Routenentwurf
 
 | Abschnitt | Wasserweg | Fahrt bei 25 km/h | Funktion am Ende |
 |---|---:|---:|---|
-| [Spiaggia Grande – Stella del Sud](../landeplaetze/spiaggia-grande.md) → [Portoscuso – Portopaglietto](../landeplaetze/portoscuso.md) | 14.3 km | 0:34 h | Pause 20–30 min; Rast; G offen; Ü offen |
-| [Portoscuso – Portopaglietto](../landeplaetze/portoscuso.md) → [Fontanamare](../landeplaetze/funtanamare.md) | 12.0 km | 0:29 h | Pause 20–30 min; Rast; G offen; Ü offen |
-| [Fontanamare](../landeplaetze/funtanamare.md) → [Portixeddu](../landeplaetze/portixeddu.md) | 19.6 km | 0:47 h | Pause 20–30 min; Rast; G offen; Ü offen |
-| [Portixeddu](../landeplaetze/portixeddu.md) → [Piscinas – Costa Verde](../landeplaetze/piscinas-costa-verde.md) | 14.8 km | 0:35 h | Hotelziel; Rast + G* + Ü* |
+| [Spiaggia Grande – Stella del Sud](../landeplaetze/spiaggia-grande.md) → [Portoscuso – Portopaglietto](../landeplaetze/portoscuso.md) | 14.3 km | 0:34 h | Pause 20–30 min; Rast |
+| [Portoscuso – Portopaglietto](../landeplaetze/portoscuso.md) → [Fontanamare](../landeplaetze/funtanamare.md) | 12.0 km | 0:29 h | Pause 20–30 min; Rast |
+| [Fontanamare](../landeplaetze/funtanamare.md) → [Portixeddu](../landeplaetze/portixeddu.md) | 19.6 km | 0:47 h | Pause 20–30 min; Rast |
+| [Portixeddu](../landeplaetze/portixeddu.md) → [Piscinas – Costa Verde](../landeplaetze/piscinas-costa-verde.md) | 14.8 km | 0:35 h | Hotelziel; Rast + Getränke + Hotel |
 
 ## Übernachtung und Versorgung
 
-Hotelkandidat: [Le Dune Piscinas](https://www.ledunepiscinas.com/); der Fusswegstatus steht im [Landeplatzblatt](../landeplaetze/piscinas-costa-verde.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote und noch ungeklärte Wege stehen in den verlinkten Steckbriefen. Versorgungslücken dürfen nicht als zugesicherte Einkaufsmöglichkeit gerechnet werden.
+Hotelkandidat: [Le Dune Piscinas](https://www.ledunepiscinas.com/); weitere Angaben stehen im [Landeplatzblatt](../landeplaetze/piscinas-costa-verde.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote stehen in den verlinkten Steckbriefen.
 
 ## Passage und Alternativen
 
@@ -21,7 +21,7 @@ Grösster Abstand von modelliertem Land: etwa **4.0 km** (Stichprobe alle 100 m)
 
 Geometrische Reihenfolge: [Spiaggia Grande – Stella del Sud](../landeplaetze/spiaggia-grande.md) → [Portoscuso – Portopaglietto](../landeplaetze/portoscuso.md) → [Fontanamare](../landeplaetze/funtanamare.md) → [Portixeddu](../landeplaetze/portixeddu.md) → [Piscinas – Costa Verde](../landeplaetze/piscinas-costa-verde.md).
 
-Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps. Ihre technische Eignung und Versorgung sind separat zu prüfen. Bei ungeeignetem nächsten Landeplatz am zuletzt geeigneten Strand bleiben; Rückfahrt nur bei passender Wind-/Wellenlage einplanen. Die Luftlinie ist keine Ausweichroute.
+Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps.
 
 Zwischen Start und Ziel wurde auf dieser Passage kein zusätzlicher Hotelkandidat mit ausreichend konkreter Strandnähe zugeordnet. Die Pausenstrände sind deshalb keine zugesicherten Nachtziele.
 
@@ -29,4 +29,4 @@ Zwischen Start und Ziel wurde auf dieser Passage kein zusätzlicher Hotelkandida
 
 Eigene geodätische Berechnung aus dem [amtlichen Küstendatensatz und dokumentierten Modell](../docs/09-methodik-und-daten.md). Quellen für Strände, Gastronomie und Hotels stehen in den oben verlinkten Einzelblättern. Keine historische Windprüfung in Phase 1.
 
-[Alle Varianten](../docs/06-routenvarianten.md) · [Offene Prüfungen](../docs/07-offene-pruefungen.md)
+[Alle Varianten](../docs/06-routenvarianten.md)

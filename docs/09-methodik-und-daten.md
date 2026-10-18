@@ -8,7 +8,7 @@ Stand: 18.10.2026. Die Strecken sind ein geometrisches Planungsmodell. Sie berü
 
 Die Rohantworten und Abrufparameter liegen unter [data/phase1/raw](../data/phase1/raw/). JSON wird verlustfrei gzip-komprimiert; SHA-256 in `manifest.json` bezieht sich auf die archivierten Dateien. Die Dateigrösse einer erneut serialisierten JSON-Datei kann von der ursprünglichen HTTP-Antwort abweichen. Die Rohgeometrie ist kein Nachweis für aktuelle Uferverhältnisse im Reisejahr.
 
-**SardegnaTurismo:** Einzelne Ortsseiten, Referenzpunkte aus deren eingebetteten Leaflet-/Drupal-Daten. [tourism-index.json](../data/phase1/tourism-index.json) dokumentiert erfolgreiche und fehlgeschlagene Abrufe. Gerundete OpenGraph-Koordinaten werden nicht verwendet. Ortszentrum, Strandreferenz und genauer Ausstieg sind ausdrücklich nicht dasselbe. Widersprüchliche Punkte wurden korrigiert oder aus der Route ausgeschlossen; siehe [Prüfliste](07-offene-pruefungen.md).
+**SardegnaTurismo:** Einzelne Ortsseiten, Referenzpunkte aus deren eingebetteten Leaflet-/Drupal-Daten. [tourism-index.json](../data/phase1/tourism-index.json) dokumentiert erfolgreiche und fehlgeschlagene Abrufe. Gerundete OpenGraph-Koordinaten werden nicht verwendet. Ortszentrum, Strandreferenz und genauer Ausstieg sind ausdrücklich nicht dasselbe. Widersprüchliche Punkte wurden korrigiert oder aus der Route ausgeschlossen.
 
 **Hotels und Gastronomie:** Betreiberwebsites und örtliche Tourismusseiten, im [Quellenregister](10-quellenregister.md) und jedem Steckbrief verlinkt. Für diese Einzelangaben war keine geeignete öffentliche API verfügbar. HTML wird nur temporär zwischengespeichert; im Repository stehen kurze sachliche Zusammenfassungen und Links.
 
@@ -48,4 +48,4 @@ Die archivierten Rohdaten erlauben den geometrischen Wiederaufbau ohne Netzwerk;
 
 Das Bauskript prüft eindeutige Quellobjekte, geschlossene Reihenfolge, vorhandene Hotelkandidaten an jedem Nachtziel, zwei bis drei Pausen und maximal fünf nominelle Fahrstunden pro Modul. Jede konstruierte Gerade wird gegen die gepufferte Landmaske geprüft. Der zusätzliche Validator prüft alle vier Varianten, Summen, Quellen und lokale Markdown-Verknüpfungen.
 
-Die Kartenübersicht ist zur visuellen Plausibilitätskontrolle gedacht. GeoJSON ist für weitere Bearbeitung enthalten; ein als fertiger Navigationstrack missverständlicher GPX-Export wird in diesem Stand nicht ausgegeben. Hotel-Fusswege wurden nicht als zusammenhängendes Wegenetz berechnet. Die entsprechende Lücke bleibt in den Steckbriefen offen.
+Die Kartenübersicht ist zur visuellen Plausibilitätskontrolle gedacht. GeoJSON ist für weitere Bearbeitung enthalten; ein als fertiger Navigationstrack missverständlicher GPX-Export wird in diesem Stand nicht ausgegeben. Hotel-Fusswege wurden nicht als zusammenhängendes Wegenetz berechnet.

@@ -6,13 +6,13 @@ Stand: 18.10.2026 · vorläufiger Routenentwurf
 
 | Abschnitt | Wasserweg | Fahrt bei 25 km/h | Funktion am Ende |
 |---|---:|---:|---|
-| [Porto Pino – Prima Spiaggia](../landeplaetze/porto-pino.md) → [Coaquaddus](../landeplaetze/coaquaddus.md) | 14.5 km | 0:35 h | Pause 20–30 min; Rast; G offen; Ü offen |
-| [Coaquaddus](../landeplaetze/coaquaddus.md) → [Cala Lunga – Sant’Antioco](../landeplaetze/cala-lunga-santantioco.md) | 13.4 km | 0:32 h | Pause 20–30 min; Rast; G offen; Ü offen |
-| [Cala Lunga – Sant’Antioco](../landeplaetze/cala-lunga-santantioco.md) → [Spiaggia Grande – Stella del Sud](../landeplaetze/spiaggia-grande.md) | 8.5 km | 0:20 h | Hotelziel; Rast + G* + Ü* |
+| [Porto Pino – Prima Spiaggia](../landeplaetze/porto-pino.md) → [Coaquaddus](../landeplaetze/coaquaddus.md) | 14.5 km | 0:35 h | Pause 20–30 min; Rast |
+| [Coaquaddus](../landeplaetze/coaquaddus.md) → [Cala Lunga – Sant’Antioco](../landeplaetze/cala-lunga-santantioco.md) | 13.4 km | 0:32 h | Pause 20–30 min; Rast |
+| [Cala Lunga – Sant’Antioco](../landeplaetze/cala-lunga-santantioco.md) → [Spiaggia Grande – Stella del Sud](../landeplaetze/spiaggia-grande.md) | 8.5 km | 0:20 h | Hotelziel; Rast + Getränke + Hotel |
 
 ## Übernachtung und Versorgung
 
-Hotelkandidat: [Hotel Stella del Sud](https://hotelstelladelsud.com/); der Fusswegstatus steht im [Landeplatzblatt](../landeplaetze/spiaggia-grande.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote und noch ungeklärte Wege stehen in den verlinkten Steckbriefen. Versorgungslücken dürfen nicht als zugesicherte Einkaufsmöglichkeit gerechnet werden.
+Hotelkandidat: [Hotel Stella del Sud](https://hotelstelladelsud.com/); weitere Angaben stehen im [Landeplatzblatt](../landeplaetze/spiaggia-grande.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote stehen in den verlinkten Steckbriefen.
 
 ## Passage und Alternativen
 
@@ -20,14 +20,14 @@ Grösster Abstand von modelliertem Land: etwa **5.6 km** (Stichprobe alle 100 m)
 
 Geometrische Reihenfolge: [Porto Pino – Prima Spiaggia](../landeplaetze/porto-pino.md) → [Coaquaddus](../landeplaetze/coaquaddus.md) → [Cala Lunga – Sant’Antioco](../landeplaetze/cala-lunga-santantioco.md) → [Spiaggia Grande – Stella del Sud](../landeplaetze/spiaggia-grande.md).
 
-Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps. Ihre technische Eignung und Versorgung sind separat zu prüfen. Bei ungeeignetem nächsten Landeplatz am zuletzt geeigneten Strand bleiben; Rückfahrt nur bei passender Wind-/Wellenlage einplanen. Die Luftlinie ist keine Ausweichroute.
+Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps.
 
 Zwischen Start und Ziel wurde auf dieser Passage kein zusätzlicher Hotelkandidat mit ausreichend konkreter Strandnähe zugeordnet. Die Pausenstrände sind deshalb keine zugesicherten Nachtziele.
 
-Sant’Antioco wird über West- und Südküste umrundet. Die Verbindung über den Damm ist nicht Bestandteil der Route. Cala Lunga ist wegen felsigem Grund und möglicher Windabschattung ein offener Wiederstartpunkt.
+Sant’Antioco wird über West- und Südküste umrundet. Die Verbindung über den Damm ist nicht Bestandteil der Route. Cala Lunga ist eine schmale Bucht mit felsigem Grund.
 
 ## Grundlage
 
 Eigene geodätische Berechnung aus dem [amtlichen Küstendatensatz und dokumentierten Modell](../docs/09-methodik-und-daten.md). Quellen für Strände, Gastronomie und Hotels stehen in den oben verlinkten Einzelblättern. Keine historische Windprüfung in Phase 1.
 
-[Alle Varianten](../docs/06-routenvarianten.md) · [Offene Prüfungen](../docs/07-offene-pruefungen.md)
+[Alle Varianten](../docs/06-routenvarianten.md)

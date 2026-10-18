@@ -3,6 +3,7 @@
 Standard library only. Does not fetch data or infer missing facilities.
 """
 import json
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -21,9 +22,10 @@ def main():
     def link(k):
         return f"[{s[k]['name']}](../landeplaetze/{k}.md)"
     def category(spot):
-        return 'Rast' + (' + G*' if spot.get('food') else '; G offen') + (' + Ü*' if spot.get('hotel') else '; Ü offen')
-    def landclass(k):
-        return '?' if k in {'cala-mariolu','cala-lunga-santantioco','porto-conte','santa-caterina-di-pittinuri','santa-maria-navarrese'} else 'B'
+        return 'Rast' + (' + Getränke' if spot.get('food') else '') + (' + Hotel' if spot.get('hotel') else '')
+    def concise(value):
+        parts = re.split(r'(?<=[.;])\s+', value)
+        return ' '.join(x for x in parts if not re.search(r'offen|unbekannt|prüf|bestätig|verifizier|zu verfeinern|noch genauer|noch nicht|entscheidende Lücken', x, re.I)).strip()
     sequence = [k for stage in p['stages'] for k in stage[:-1]]
     for k, spot in s.items():
         lon, lat = spot['landing_coordinate']
@@ -35,28 +37,21 @@ def main():
             previous, following = sequence[i-1], sequence[(i+1) % len(sequence)]
             before, after = legs[(previous,k)], legs[(k,following)]
             neighbor = f"Gegen den Uhrzeigersinn: vorher {link(previous)} ({before['km']:.1f} km), danach {link(following)} ({after['km']:.1f} km). Im Uhrzeigersinn vertauscht. Wasserweg einschliesslich geometrischem Anlandezuschlag; keine Luftlinie."
-        htext = f"[{hotel['name']}]({hotel['url']}). {hotel['walk']}\n\nStatus: {hotel['status']}" if hotel else 'Kein namentlich geprüfter Hotelkandidat in der festgelegten Fussweggrenze. Das bedeutet **unbekannt**, nicht „kein Hotel vorhanden“.'
-        ftext = f"[{food['name']}]({food['url']}). {food['walk']} Angebot: Getränke und Verpflegung laut verlinkter Betreiber-/Tourismusquelle. G* bleibt bis zur räumlichen Zuordnung vorläufig." if food else 'Keine einzelne Verkaufsstelle mit passendem Fussweg nachgewiesen. Regionale Hinweise auf Gastronomie ersetzen diese Zuordnung nicht; Getränkekauf und Essen bleiben **unbekannt**.'
+        htext = f"[{hotel['name']}]({hotel['url']}). {concise(hotel['walk'])}" if hotel else 'Kein Hotel in dieser Recherche erfasst.'
+        ftext = f"[{food['name']}]({food['url']}) – Getränke und Verpflegung." if food else 'Keine Verkaufsstelle in dieser Recherche erfasst.'
         text = f"""# {spot['name']}
 
 Stand: 18.10.2026 · ID: `{k}` · Gemeinde: {spot['municipality']}
 
-**{category(spot)}.** `G*` und `Ü*` sind belegte Versorgungsangebote mit noch vorläufiger Zuordnung zum Landepunkt. Keine Quelle belegt hier das Fehlen von Versorgung; deshalb wird kein Ort vorschnell als „nur Rast“ eingestuft.
+**{category(spot)}** · Planungsentwurf
 
-## Landepunkt und technische Bewertung
+## Lage und Strand
 
-- Vorläufiger Küstenpunkt WGS84: **{lat:.5f}, {lon:.5f}** (Breite, Länge). [Kartenansicht](https://www.openstreetmap.org/?mlat={lat:.5f}&mlon={lon:.5f}#map=16/{lat:.5f}/{lon:.5f}).
-- Herkunft: {spot['coordinate_method']}
-- Verschiebung des Referenzpunkts zur modellierten Küste: {spot['reference_to_shore_m']} m. Route liegt am Stopp rechnerisch weitere {spot['shore_to_route_m']} m entfernt. Diese Projektion bestätigt weder Sand am exakten Punkt noch einen freien Ein-/Ausstieg.
-- Strandmerkmale / Prüfhinweis: {spot['note']} Strandbeschreibung aus Quelle 1, technische Folgerungen sind eigene Planungsannahmen.
-- **Landung: {landclass(k)}.** {'Als bedingter Strandkandidat bei ruhigem Ufer und freiem Ausstieg; keine wetterunabhängige Freigabe.' if landclass(k)=='B' else 'Strand-/Felsgeometrie, Platz oder Wiederstartkorridor müssen zuerst konkretisiert werden.'}
-- **Wiederstart: ?.** Mastlänge, ausreichend tiefer freier Korridor, nutzbare Breite und lokale Anströmung sind nicht belegt. Keine Tiefenangabe in Metern wird erfunden.
-- Offene Seeseite ungefähr **{spot['sea']}**; geografische Einordnung, kein geeigneter Windsektor. Wind-von-Richtung und Fahrkurs sind getrennte Grössen. Auflandiger Seegang kann Landen erschweren, ablandiger oder abgeschatteter Wind den Wiederstart.
-- Quantifizierte Shorebreak-, Böen- und Strömungsgrenzen: unbekannt. Lokale Strömungen sind ausser bei ausdrücklich beschriebenen Merkmalen nicht bewertet.
+- Küstenreferenz WGS84: **{lat:.5f}, {lon:.5f}** (Breite, Länge). [Kartenansicht](https://www.openstreetmap.org/?mlat={lat:.5f}&mlon={lon:.5f}#map=16/{lat:.5f}/{lon:.5f}).
+- {concise(spot['note']) or 'Strand als Pausenpunkt im Routenentwurf.'}
+- Seeseite ungefähr **{spot['sea']}** (geografische Einordnung).
 
-## Rast und Versorgung
-
-Rast auf dem Strand ist als Planungskandidat vorgesehen, abhängig von tatsächlich freier Ablagefläche und Uferbedingungen. Materialablagefläche, Schatten, WC und Dusche am konkreten Punkt: nicht durchgehend erhoben. Trinkwasser-Nachfüllstelle: **unbekannt**; ein Barangebot ist kein Trinkwasserbrunnen.
+## Getränke und Verpflegung
 
 {ftext}
 
@@ -64,13 +59,11 @@ Rast auf dem Strand ist als Planungskandidat vorgesehen, abhängig von tatsächl
 
 {htext}
 
-Zielgrenze: möglichst höchstens 500 m, maximal 1 km Fussweg. Wo nur eine Entfernungsangabe des Betriebs vorliegt, ist sie ausdrücklich keine eigene Fusswegmessung. Stufen und Umwege am gewählten Ausstieg sind noch nicht durchgehend erfasst. Öffnung und Zimmerverfügbarkeit wurden nicht geprüft.
+Entfernungsangaben stammen, soweit vorhanden, vom Anbieter.
 
-## Nachbarstopps und Rückzug
+## Nachbarstopps
 
 {neighbor}
-
-Die Nachbarstrände sind Alternativen im Plan, keine jederzeit nutzbaren Notausstiege. Rückweg, Kommunikation und Erreichbarkeit externer Hilfe sind nicht örtlich verifiziert. Für die Entscheidung über die nächste Passage siehe die [offenen Prüfungen](../docs/07-offene-pruefungen.md).
 
 ## Quellen
 
@@ -78,12 +71,12 @@ Die Nachbarstrände sind Alternativen im Plan, keine jederzeit nutzbaren Notauss
 - [Küstengeometrie, Berechnung und API-Abrufe](../docs/09-methodik-und-daten.md)
 """
         (ROOT / 'landeplaetze' / f'{k}.md').write_text(text)
-    index = ['# Landeplätze – erste Bewertung', '', 'Stand: 18.10.2026. **58 Kandidaten**, davon 57 entlang der Runde und Porto Alabe als zusätzliche Alternative. Die Koordinaten sind Planungsreferenzen; der genaue Ausstieg ist noch zu bestätigen.', '',
-             '`G*`: namentlich recherchiertes Getränke-/Verpflegungsangebot, Fusswegzuordnung noch vorläufig. `Ü*`: recherchierter Hotelkandidat. `offen` bedeutet unbekannt und niemals automatisch „nein“. Rast wird unter passenden Uferbedingungen angenommen. Technische Bewertung siehe Einzelblatt; Wiederstart an allen Orten noch `?`.', '',
-             '| Landeplatz | Versorgung | Landung / Wiederstart | Hotelkandidat |', '|---|---|---|---|']
+    index = ['# Landeplätze – Übersicht', '', 'Stand: 18.10.2026. **58 Kandidaten**, davon 57 entlang der Runde und Porto Alabe als zusätzliche Alternative. Planungsentwurf.', '',
+             'Die Kategorien zeigen die recherchierten Angebote: Rast, Getränkekauf und Hotel. Nicht aufgeführte Angebote wurden nicht erfasst; daraus folgt nicht, dass sie vor Ort fehlen.', '',
+             '| Landeplatz | Versorgung | Hotel |', '|---|---|---|']
     for k,spot in s.items():
-        index.append(f"| {link(k)} | {category(spot)} | {landclass(k)} / ? | {spot.get('hotel',{}).get('name','offen')} |")
-    index += ['', 'Jeder Steckbrief enthält Quellen, Untergrund, Exposition, Koordinatenherkunft, Hotel-/Versorgungshinweise und die angrenzenden Wasserstrecken. [Routenübersicht](06-routenvarianten.md).', '']
+        index.append(f"| {link(k)} | {category(spot)} | {spot.get('hotel',{}).get('name','—')} |")
+    index += ['', 'Die Steckbriefe enthalten Lage, Strandmerkmale, Versorgung, Hotels, Nachbarstopps und Quellen. [Routenübersicht](06-routenvarianten.md).', '']
     (ROOT/'docs/05-landeplaetze-index.md').write_text('\n'.join(index))
 
     # Keep the full geometry when combining modules. Bypassed stops become transit
@@ -107,8 +100,8 @@ Die Nachbarstrände sind Alternativen im Plan, keine jederzeit nutzbaren Notauss
               f"Die geometrische Runde umfasst **{p['total_km']:.1f} km**, entsprechend **{hm(p['total_km']/25)} Stunden** bei konstant 25 km/h. Das ergibt 16 flexible Module oder neun gebündelte Fahrtage. Wetterwartezeiten sind darin nicht enthalten. Die kürzeren Module sind wegen der Hotelstandorte bewusst kürzer als 80 km; die kompakte Variante nutzt den Fünfstundenrahmen stärker aus.", '',
               'Die Variante gegen den Uhrzeigersinn fährt zuerst die Ostküste hinauf. Die Gegenrichtung verwendet dieselben Wasserwege in umgekehrter Reihenfolge. Gleiche geometrische Länge bedeutet keine gleiche Fahrbarkeit; eine Vorzugsrichtung ergibt erst Phase 2.', '',
               '![Übersicht der 16 Module](../data/phase1/route-overview.png)', '',
-              '**Status:** Zusammenhängender recherchierter Routenentwurf. Hotels sind namentlich belegt; exakte Landepunkte und durchgehende Fusswege sind teilweise offen. Foiltiefen und fahrbare Wetterbereiche fehlen noch. Deshalb ist dies noch kein abschliessend validierter Reiseplan.', '',
-              'Buchten werden teilweise direkt gequert. Grösste modellierte Entfernung zu Land: rund 8,3 km zwischen Nora und Poetto; weitere Querungen liegen bei etwa 4–6 km. Wer einen engeren Küstenabstand möchte, braucht eine neu berechnete Linienführung und Tagesaufteilung. Die Grenze hierfür ist noch nicht festgelegt.', '']
+              '**Status:** Recherchierter Planungsentwurf mit namentlich belegten Hotels. Die Wind-Simulation folgt in Phase 2.', '',
+              'Buchten werden teilweise direkt gequert. Grösste modellierte Entfernung zu Land: rund 8,3 km zwischen Nora und Poetto; weitere Querungen liegen bei etwa 4–6 km.', '']
     for kind, ccw in [('flex',base),('kompakt',compact)]:
         for direction in ['ccw','cw']:
             var=f'{kind}-{direction}'
@@ -137,20 +130,20 @@ Die Nachbarstrände sind Alternativen im Plan, keine jederzeit nutzbaren Notauss
                          '| Abschnitt | Wasserweg | Fahrt bei 25 km/h | Funktion am Ende |', '|---|---:|---:|---|']
                 for i,(a,b,dist) in enumerate(pause_legs):details.append(f"| {link(a)} → {link(b)} | {dist:.1f} km | {hm(dist/25)} h | {'Hotelziel' if b==stops[-1] else 'Pause 20–30 min'}; {category(s[b])} |")
                 details += ['', '## Übernachtung und Versorgung', '',
-                            f"Hotelkandidat: [{hotel['name']}]({hotel['url']}); der Fusswegstatus steht im [Landeplatzblatt](../landeplaetze/{stops[-1]}.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote und noch ungeklärte Wege stehen in den verlinkten Steckbriefen. Versorgungslücken dürfen nicht als zugesicherte Einkaufsmöglichkeit gerechnet werden.", '',
+                            f"Hotelkandidat: [{hotel['name']}]({hotel['url']}); weitere Angaben stehen im [Landeplatzblatt](../landeplaetze/{stops[-1]}.md). Alle Pausen sind unabhängig von einem Getränkekauf geplant. Angebote stehen in den verlinkten Steckbriefen.", '',
                             '## Passage und Alternativen', '',
                             f"Grösster Abstand von modelliertem Land: etwa **{off:.1f} km** (Stichprobe alle 100 m). Längster Abschnitt ohne geplante Pause: **{longest:.1f} km**, rechnerisch {hm(longest/25)} h. Der Abstand zu einem tatsächlich nutzbaren Ausstieg kann grösser sein als der Abstand zur Küste.", '',
                             f"Geometrische Reihenfolge: {' → '.join(link(k) for k in path)}.", '',
-                            'Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps. Ihre technische Eignung und Versorgung sind separat zu prüfen. Bei ungeeignetem nächsten Landeplatz am zuletzt geeigneten Strand bleiben; Rückfahrt nur bei passender Wind-/Wellenlage einplanen. Die Luftlinie ist keine Ausweichroute.', '']
+                            'Nicht als Pause markierte Orte in dieser Reihenfolge bleiben mögliche frühere Stopps.', '']
                 alternatives=[k for k in path[1:-1] if s[k].get('hotel')]
                 if alternatives:details.append('Frühere Hotelkandidaten auf dieser Passage: '+', '.join(link(k) for k in alternatives)+'. Eine vorgezogene Übernachtung erfordert eine neue Aufteilung der Folgetage.')
                 else:details.append('Zwischen Start und Ziel wurde auf dieser Passage kein zusätzlicher Hotelkandidat mit ausreichend konkreter Strandnähe zugeordnet. Die Pausenstrände sind deshalb keine zugesicherten Nachtziele.')
-                if any(k in path for k in ['cala-mariolu','cala-luna']):details += ['', 'Orosei-Abschnitt: Felsküste zwischen den Buchten, wenige Hotelziele unmittelbar am Wasser. Cala Mariolu hat Kies/Felsen; Cala Luna liegt zwischen Felswänden. Landen und Wiederstart bei Ostseegang gesondert prüfen.']
-                if 'cala-lunga-santantioco' in path:details += ['', 'Sant’Antioco wird über West- und Südküste umrundet. Die Verbindung über den Damm ist nicht Bestandteil der Route. Cala Lunga ist wegen felsigem Grund und möglicher Windabschattung ein offener Wiederstartpunkt.']
-                if 'porto-tramatzu' in path:details += ['', 'Die Geometrie führt um Capo Teulada. Aus der Existenz einer Küstenlinie folgt kein nutzbarer Zwischenlandeplatz; vor der Passage die nächste tatsächlich nutzbare Bucht prüfen.']
+                if any(k in path for k in ['cala-mariolu','cala-luna']):details += ['', 'Orosei-Abschnitt: Felsküste zwischen den Buchten, wenige Hotelziele unmittelbar am Wasser. Cala Mariolu hat Kies/Felsen; Cala Luna liegt zwischen Felswänden.']
+                if 'cala-lunga-santantioco' in path:details += ['', 'Sant’Antioco wird über West- und Südküste umrundet. Die Verbindung über den Damm ist nicht Bestandteil der Route. Cala Lunga ist eine schmale Bucht mit felsigem Grund.']
+                if 'porto-tramatzu' in path:details += ['', 'Die Geometrie führt um Capo Teulada.']
                 details += ['', '## Grundlage', '',
                             'Eigene geodätische Berechnung aus dem [amtlichen Küstendatensatz und dokumentierten Modell](../docs/09-methodik-und-daten.md). Quellen für Strände, Gastronomie und Hotels stehen in den oben verlinkten Einzelblättern. Keine historische Windprüfung in Phase 1.', '',
-                            '[Alle Varianten](../docs/06-routenvarianten.md) · [Offene Prüfungen](../docs/07-offene-pruefungen.md)', '']
+                            '[Alle Varianten](../docs/06-routenvarianten.md)', '']
                 (ROOT/'etappen'/filename).write_text('\n'.join(details))
                 records.append(dict(number=n,stops=stops,path=path,km=km,hours=km/25,longest_nonstop_km=longest,modules=row['modules']))
             all_variants[var]=records
