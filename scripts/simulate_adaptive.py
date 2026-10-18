@@ -43,9 +43,14 @@ def solve(start_day, days, terminal):
 def main():
     parser=argparse.ArgumentParser()
     parser.add_argument('--all-directions', action='store_true', help='Run the 360-degree wind scenario')
+    parser.add_argument('--min-wind', type=int, choices=[12,15], default=15)
     args=parser.parse_args()
+    if args.min_wind==12 and not args.all_directions:parser.error('--min-wind 12 requires --all-directions')
     config_name='simulation-config-360.json' if args.all_directions else 'simulation-config.json'
     output_name='adaptive-results-360.json' if args.all_directions else 'adaptive-results.json'
+    if args.min_wind==12:
+        config_name='simulation-config-360-12kn.json'
+        output_name='adaptive-results-360-12kn.json'
     cfg=json.loads((DATA/config_name).read_text()); zone=ZoneInfo(cfg['local_timezone'])
     plan=json.loads((ROOT/'data/phase1/route-plan.json').read_text())
     sampling=json.loads((DATA/'sampling.json').read_text())

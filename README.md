@@ -38,7 +38,8 @@ Hotelöffnungszeiten werden auf ausdrücklichen Wunsch nicht geprüft. Für Hote
 | [Wind-API und Daten](docs/11-wind-api-und-daten.md) | Historische Winddaten, Abrufe und Simulationsregeln |
 | [Historischer Windvergleich](docs/12-historischer-windvergleich.md) | Beide Richtungen, September-Starts und Oktober-Verlängerung |
 | [Variable Etappen und Wartepausen](docs/13-variable-etappen-wartepausen.md) | Kürzere Hotel-Etappen, Wartezeiten und beide Richtungen |
-| [Aktuell: Windfenster 360°](docs/14-windfenster-360-grad.md) | Alle Windrichtungen bei 15–25 kn, neu berechneter Richtungsvergleich |
+| [Windfenster 360°](docs/14-windfenster-360-grad.md) | Alle Windrichtungen bei 15–25 kn, neu berechneter Richtungsvergleich |
+| [Aktuell: 12–25 kn und 360°](docs/15-windfenster-12-knoten.md) | Vergleich mit 15 kn Mindestwind, erfolgreiche Runden und Wartezeiten |
 | [Quellenregister](docs/10-quellenregister.md) | Quellen je Landeplatz |
 | [Vorlage Landeplatz](templates/landeplatz.md) | Steckbrief mit Quellen je Aussage |
 | [Vorlage Etappe](templates/etappe.md) | Teilstrecken, Pausen, Hotels, Alternativen und Nachweise |
