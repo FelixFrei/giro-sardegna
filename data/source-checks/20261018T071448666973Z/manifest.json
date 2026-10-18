@@ -1,0 +1,45 @@
+[
+  {
+    "id": "overpass_sample",
+    "url": "https://overpass-api.de/api/interpreter",
+    "method": "POST",
+    "query": "[out:json][timeout:25];\n(\n  nwr[\"natural\"=\"beach\"](39.20,9.14,39.25,9.21);\n  nwr[\"tourism\"=\"hotel\"](39.20,9.14,39.25,9.21);\n  nwr[\"amenity\"~\"^(bar|cafe|restaurant|drinking_water)$\"](39.20,9.14,39.25,9.21);\n  nwr[\"shop\"~\"^(supermarket|convenience)$\"](39.20,9.14,39.25,9.21);\n);\nout center tags;\n",
+    "format": "json",
+    "purpose": "Small Cagliari/Poetto-area discovery sample, not a route recommendation",
+    "requested_at_utc": "2026-10-18T07:14:48.667503+00:00",
+    "status": "failed",
+    "error": "TimeoutError: The read operation timed out"
+  },
+  {
+    "id": "sardegna_wfs_capabilities",
+    "url": "https://webgis.regione.sardegna.it/geoserver/ows?service=WFS&request=GetCapabilities&version=1.1.0",
+    "method": "GET",
+    "format": "xml",
+    "purpose": "Discover advertised vector layers; no feature download",
+    "requested_at_utc": "2026-10-18T07:14:48.667778+00:00",
+    "http_status": 200,
+    "final_url": "https://webgis.regione.sardegna.it/geoserver/ows?service=WFS&request=GetCapabilities&version=1.1.0",
+    "content_type": "application/xml",
+    "raw_file": "data/source-checks/20261018T071448666973Z/sardegna_wfs_capabilities.xml",
+    "bytes": 430506,
+    "sha256": "9764a8939a7549f7ea4fc18150893f305bb7700889bfb195f59a0d2651049e9a",
+    "xml_root": "{http://www.opengis.net/wfs}WFS_Capabilities",
+    "status": "ok"
+  },
+  {
+    "id": "emodnet_wms_capabilities",
+    "url": "https://ows.emodnet-bathymetry.eu/wms?service=WMS&version=1.3.0&request=GetCapabilities",
+    "method": "GET",
+    "format": "xml",
+    "purpose": "Discover advertised map layers; no depth validation",
+    "requested_at_utc": "2026-10-18T07:14:48.667876+00:00",
+    "http_status": 200,
+    "final_url": "https://ows.emodnet-bathymetry.eu/wms?service=WMS&version=1.3.0&request=GetCapabilities",
+    "content_type": "text/xml",
+    "raw_file": "data/source-checks/20261018T071448666973Z/emodnet_wms_capabilities.xml",
+    "bytes": 52322,
+    "sha256": "1ab20152a82e15aad2cc802168eeb37fb32e957a49a068dd32d2524f60048698",
+    "xml_root": "{http://www.opengis.net/wms}WMS_Capabilities",
+    "status": "ok"
+  }
+]
