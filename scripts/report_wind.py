@@ -66,6 +66,7 @@ def main():
             '- [Tests](../scripts/test_wind.py): Wind-von-Konvention, umgekehrte Kurse, Grenzwerte, 359°/1°-Interpolation, Windwechsel unterwegs, fehlende Werte, Pausenzeit, Zeitumstellung und Streckensummen.',
             '- [Datenprüfung](../scripts/validate_wind_data.py): SHA-256, vollständige Stundenfolgen, Einheiten und Zuordnung zur Route.', '',
             'Winddaten: ECMWF / Open-Meteo. Methodik und Quellen im [API-Dokument](11-wind-api-und-daten.md). Alle Prozentwerte und Reiseergebnisse sind eigene Berechnungen.', '']
+    out.insert(1, '\nWeiterführung: [Kürzere Tagesetappen mit Wartepausen](13-variable-etappen-wartepausen.md) vergleicht flexible Hotelziele bei unveränderten Windgrenzen.')
     (ROOT/'docs/12-historischer-windvergleich.md').write_text('\n'.join(out))
     print('Wrote docs/12-historischer-windvergleich.md')
 

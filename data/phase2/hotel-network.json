@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-10-18",
+  "basis": "Existing hotels in data/phase1/route-plan.json plus these hotels at existing landing beaches. Current hotel network applied equally to all historical weather years; openings and availability not modelled.",
+  "additional_hotels": {
+    "geremeas": {
+      "name": "Calaserena Resort",
+      "proximity": "Am Strand von Geremeas laut Betreiber",
+      "url": "https://www.bluserena.it/en/hotels-and-resorts/calaserena-resort/"
+    },
+    "nora": {
+      "name": "Hotel Baia di Nora",
+      "proximity": "Hotel am Meer mit eigenem Strand in Nora laut Betreiber",
+      "url": "https://www.hotelbaiadinora.com/en/hotel/"
+    },
+    "porto-giunco": {
+      "name": "Almar Timi Ama",
+      "proximity": "Privatstrand Porto Giunco laut Betreiber 500 m vom Hotel, zu Fuss erreichbar",
+      "url": "https://www.almarresorts.com/en/almar-resorts/almar-timi-ama-villasimius-sardinia.html"
+    },
+    "santa-maria-navarrese": {
+      "name": "Lanthia Resort",
+      "proximity": "Strandhotel mit eigenem Strand in Santa Maria Navarrese laut Betreiber",
+      "url": "https://www.lanthiaresort.com/en/luxury-resort-in-santa-maria-navarrese-ogliastra-sardinia/"
+    }
+  }
+}

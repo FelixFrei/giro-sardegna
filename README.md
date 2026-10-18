@@ -37,6 +37,7 @@ Hotelöffnungszeiten werden auf ausdrücklichen Wunsch nicht geprüft. Für Hote
 | [Methodik und Daten](docs/09-methodik-und-daten.md) | Wasserwegmodell, API-Abrufe, Reproduktion und Grenzen |
 | [Wind-API und Daten](docs/11-wind-api-und-daten.md) | Historische Winddaten, Abrufe und Simulationsregeln |
 | [Historischer Windvergleich](docs/12-historischer-windvergleich.md) | Beide Richtungen, September-Starts und Oktober-Verlängerung |
+| [Variable Etappen und Wartepausen](docs/13-variable-etappen-wartepausen.md) | Kürzere Hotel-Etappen, Wartezeiten und beide Richtungen |
 | [Quellenregister](docs/10-quellenregister.md) | Quellen je Landeplatz |
 | [Vorlage Landeplatz](templates/landeplatz.md) | Steckbrief mit Quellen je Aussage |
 | [Vorlage Etappe](templates/etappe.md) | Teilstrecken, Pausen, Hotels, Alternativen und Nachweise |

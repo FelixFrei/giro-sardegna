@@ -1,5 +1,7 @@
 # Historischer Windvergleich – erster Simulationslauf
 
+Weiterführung: [Kürzere Tagesetappen mit Wartepausen](13-variable-etappen-wartepausen.md) vergleicht flexible Hotelziele bei unveränderten Windgrenzen.
+
 Stand: 18.10.2026. September-Starts 2022–2025, Fortsetzung jeweils bis 31. Oktober. **15–25 kn, Wind seitlich oder von hinten, ohne Kreuzen.**
 
 **Ergebnis: 0 von 480 simulierten Reiseverläufen schliessen die Runde bis Ende Oktober ab.**
