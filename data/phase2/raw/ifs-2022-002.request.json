@@ -1,0 +1,26 @@
+{
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=39.573597%2C39.654041%2C39.772887%2C39.868706%2C39.973271&longitude=9.65761%2C9.669153%2C9.680972%2C9.699524%2C9.697134&start_date=2022-09-01&end_date=2022-10-31&hourly=wind_speed_10m%2Cwind_direction_10m%2Cwind_gusts_10m&models=ecmwf_ifs&cell_selection=sea&elevation=nan%2Cnan%2Cnan%2Cnan%2Cnan&wind_speed_unit=kn&timezone=GMT&timeformat=unixtime",
+  "params": {
+    "latitude": "39.573597,39.654041,39.772887,39.868706,39.973271",
+    "longitude": "9.65761,9.669153,9.680972,9.699524,9.697134",
+    "start_date": "2022-09-01",
+    "end_date": "2022-10-31",
+    "hourly": "wind_speed_10m,wind_direction_10m,wind_gusts_10m",
+    "models": "ecmwf_ifs",
+    "cell_selection": "sea",
+    "elevation": "nan,nan,nan,nan,nan",
+    "wind_speed_unit": "kn",
+    "timezone": "GMT",
+    "timeformat": "unixtime"
+  },
+  "point_ids": [
+    "W011",
+    "W012",
+    "W013",
+    "W014",
+    "W015"
+  ],
+  "retrieved_at_utc": "2026-10-18T14:06:45.653989+00:00",
+  "http_status": 200,
+  "sha256": "c344974655802f50da9d4bce50fa82eac281f0d6b7d32542de12b66af74035ce"
+}

@@ -49,7 +49,7 @@ Hotelkandidaten sind inzwischen namentlich recherchiert; siehe [Steckbriefe](05-
 - Einstieg: festes Modell `era5` mit `wind_speed_10m` und `wind_direction_10m`; mehrere Küsten-/Routenpunkte verwenden, ausgewählte Gitterzellen und Land-/Seelage kontrollieren.
 - Grenze: ERA5 wird mit rund 25 km räumlicher Auflösung beschrieben. Modell-Reanalyse ist keine lokale Strandmessung. Der automatische Modellmix sollte für vergleichbare Zeitreihen durch eine begründete feste Modellwahl ersetzt werden.
 - Böen gesondert prüfen: Die aktuelle Variablentabelle weist Böen für das reine ERA5-Modell dort nicht aus. Keine fehlenden Böen als Null behandeln und nicht ungeprüft aus Mittelwind berechnen.
-- Status: Dokumentation geprüft; noch keine Wetterdaten abgerufen und keine Simulation durchgeführt. Aktuelle API-Nutzungsbedingungen vor dem Serienabruf prüfen.
+- Fortschreibung: Die erste Simulation verwendet das feste Modell ECMWF IFS statt ERA5. Stündliche Winddaten für September/Oktober 2022–2025 sind archiviert; siehe [API und Datensammlung](11-wind-api-und-daten.md). Die obigen ERA5-Angaben bleiben als Alternative dokumentiert.
 
 ## Q06 — Copernicus Marine, für Phase 2
 

@@ -4,11 +4,17 @@ Stand: 18.10.2026. Sprache: Deutsch. Reisezeit: September; Reisejahr noch offen.
 
 Der erste recherchierte Routenentwurf liegt vor: **rund 891 km, 58 Landeplatzkandidaten und eine Hotelkette rund um Sardinien**, mit Start/Ziel Cagliari/Poetto und Aussenumrundung von Sant’Antioco. Beides ist als Arbeitsumfang bestätigt.
 
-Die Route ist in **16 flexible Module** aufgeteilt und alternativ zu **neun Fahrtagen** gebündelt, jeweils mit 2–3 Pausen und in beiden Fahrtrichtungen. Alle Tage bleiben bei konstant 25 km/h unter fünf rechnerischen Fahrstunden. Wetterwartezeiten und langsamere Fahrt sind noch nicht simuliert. Die Dokumentation konzentriert sich auf Etappen, Pausen, Versorgung und strandnahe Hotels.
+Die Route ist in **16 flexible Module** aufgeteilt und alternativ zu **neun Fahrtagen** gebündelt, jeweils mit 2–3 Pausen und in beiden Fahrtrichtungen. Alle Tage bleiben bei konstant 25 km/h unter fünf rechnerischen Fahrstunden. Ein erster historischer Windvergleich mit Wartetagen ist jetzt dokumentiert; die Fahrtgeschwindigkeit bleibt dabei konstant angesetzt. Die Dokumentation konzentriert sich auf Etappen, Pausen, Versorgung und strandnahe Hotels.
 
 Zum Einstieg: [Routen und Etappen](docs/06-routenvarianten.md) · [Landeplätze](docs/05-landeplaetze-index.md).
 
 ![Routenübersicht](data/phase1/route-overview.png)
+
+## Historischer Windvergleich
+
+[API und Datenabruf](docs/11-wind-api-und-daten.md): September/Oktober 2022–2025, 91 Abfragepunkte, 63 Modellzellen, 532’896 Punktstunden ohne fehlende Werte.
+
+[Erster Vergleich beider Richtungen](docs/12-historischer-windvergleich.md): Unter euren Grenzen von 15–25 kn und seitlichem/rückwärtigem Wind findet sich für die festen Startetappen kein vollständiges Windfenster. Die Modellannahmen und alle 480 Reiseverläufe sind dokumentiert.
 
 ## Ziel und Phasen
 
@@ -29,6 +35,8 @@ Hotelöffnungszeiten werden auf ausdrücklichen Wunsch nicht geprüft. Für Hote
 | [Routenvarianten](docs/06-routenvarianten.md) | 16 Module / 9 Fahrtage, CCW und CW, 50 Etappenblätter |
 | [Phase-2-Übergabe](docs/08-phase-2-uebergabe.md) | Datenstruktur und Auftrag für die historische Simulation |
 | [Methodik und Daten](docs/09-methodik-und-daten.md) | Wasserwegmodell, API-Abrufe, Reproduktion und Grenzen |
+| [Wind-API und Daten](docs/11-wind-api-und-daten.md) | Historische Winddaten, Abrufe und Simulationsregeln |
+| [Historischer Windvergleich](docs/12-historischer-windvergleich.md) | Beide Richtungen, September-Starts und Oktober-Verlängerung |
 | [Quellenregister](docs/10-quellenregister.md) | Quellen je Landeplatz |
 | [Vorlage Landeplatz](templates/landeplatz.md) | Steckbrief mit Quellen je Aussage |
 | [Vorlage Etappe](templates/etappe.md) | Teilstrecken, Pausen, Hotels, Alternativen und Nachweise |

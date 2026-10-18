@@ -1,0 +1,20 @@
+{
+  "years": [2022, 2023, 2024, 2025],
+  "start_days_september": [1, 30],
+  "last_day": "10-31",
+  "wind_min_kn": 15,
+  "wind_max_kn": 25,
+  "wind_angle_min_deg": 90,
+  "wind_angle_max_deg": 180,
+  "gust_limit_kn": null,
+  "speed_kmh": 25,
+  "max_riding_hours": 5,
+  "pause_minutes": 25,
+  "local_timezone": "Europe/Rome",
+  "departure_start_hour": 9,
+  "departure_last_hour": 15,
+  "arrival_limit_hour": 17,
+  "departure_step_minutes": 30,
+  "weather_check_step_minutes": 5,
+  "interpretation": "Wind von der Seite oder hinten relativ zum Fahrkurs; kein Kreuzen. Windgrenzen vom Nutzer; Tageszeitfenster und Pausenlänge sind Modellannahmen."
+}

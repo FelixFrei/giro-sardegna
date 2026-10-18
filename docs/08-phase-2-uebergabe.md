@@ -1,6 +1,6 @@
 # Übergabe an Phase 2: historische September-Simulation
 
-Stand: 18.10.2026. In Phase 1 wurde noch keine Windstatistik berechnet und keine Fahrtrichtung meteorologisch bevorzugt.
+Stand: 18.10.2026. Der erste Phase-2-Lauf ist umgesetzt: [API und Datensammlung](11-wind-api-und-daten.md), [Vergleich beider Richtungen](12-historischer-windvergleich.md). Dieses Dokument beschreibt das weiterführende Simulationskonzept.
 
 ## Vorhandene Eingaben
 
@@ -30,4 +30,4 @@ Stand: 18.10.2026. In Phase 1 wurde noch keine Windstatistik berechnet und keine
 | Hotelkette nach Verkürzungen | Tatsächliche Nachtziele pro Simulation |
 | Unsicherheitsfälle | Fehlende Wetterdaten und grobe lokale Windauflösung |
 
-Als API-Kandidat ist die [Open-Meteo Historical Weather API](https://open-meteo.com/en/docs/historical-weather-api) im bisherigen [Quellenkonzept](03-datenquellen.md) vorgesehen; ERA5/Copernicus sind Alternativen. Verfügbarkeit, Variablen, Lizenz und Auflösung bei Beginn von Phase 2 erneut prüfen. Ein Wettermodell ist keine lokale Tiefenkarte. Es wurden noch keine historischen Daten heruntergeladen.
+Als API-Kandidat ist die [Open-Meteo Historical Weather API](https://open-meteo.com/en/docs/historical-weather-api) im bisherigen [Quellenkonzept](03-datenquellen.md) vorgesehen; ERA5/Copernicus sind Alternativen. Verfügbarkeit, Variablen, Lizenz und Auflösung bei Beginn von Phase 2 erneut prüfen. Ein Wettermodell ist keine lokale Tiefenkarte. Inzwischen liegen Wind, Windrichtung und Böen aus dem ECMWF-IFS-Archiv für September/Oktober 2022–2025 vor.
