@@ -1,0 +1,1126 @@
+{
+  "date": "2026-10-18",
+  "speed_kmh": 25,
+  "max_riding_hours": 5,
+  "pause_minutes": [
+    20,
+    30
+  ],
+  "start": "poetto",
+  "direction": "CCW",
+  "spots": {
+    "poetto": {
+      "id": "poetto",
+      "name": "Poetto – Nautilus",
+      "municipality": "Cagliari",
+      "sea": "SE",
+      "note": "Sandstrand; genaue Starttiefe unbekannt.",
+      "reference_lat": 39.1975,
+      "reference_lon": 9.16,
+      "coordinate_method": "Strand gegenüber Hotel Nautilus; Google-Kartenlink des Hotels 39.1973068,9.1593727. Anschliessend rechnerisch auf Küstenlinie projiziert; vorläufig.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/poetto",
+        "https://www.hotelnautiluspoetto.com/en/nautilus-hotel/where-we-are/",
+        "https://www.hotelnautiluspoetto.com/en/nautilus-hotel/hotel-services/"
+      ],
+      "hotel": {
+        "name": "Hotel Nautilus",
+        "url": "https://www.hotelnautiluspoetto.com/en/nautilus-hotel/where-we-are/",
+        "walk": "Direkt gegenüber dem Strand, über die Promenade; exakte Gehstrecke offen.",
+        "walking_distance_verified": false,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      },
+      "food": {
+        "name": "La Sella del Diavolo; Otium/Litus",
+        "url": "https://www.hotelnautiluspoetto.com/en/nautilus-hotel/hotel-services/",
+        "walk": "Am Hotel/Strand laut Betreiber; exakter Weg vom vorläufigen Landepunkt offen."
+      }
+    },
+    "geremeas": {
+      "id": "geremeas",
+      "name": "Geremeas – Kala ’e Moru",
+      "municipality": "Quartu Sant’Elena",
+      "sea": "S",
+      "note": "Sand und sandiger Grund; die benachbarte Baccu Mandara fällt deutlich steiler ab.",
+      "reference_lat": 39.1730404,
+      "reference_lon": 9.379701,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/geremeas"
+      ]
+    },
+    "porto-giunco": {
+      "id": "porto-giunco",
+      "name": "Porto Giunco",
+      "municipality": "Villasimius",
+      "sea": "E",
+      "note": "Feiner Sand; sehr flacher sandiger Grund, langer Weg bis zur Foiltiefe möglich.",
+      "reference_lat": 39.1132,
+      "reference_lon": 9.5188,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/porto-giunco",
+        "https://www.portogiunco.com/"
+      ],
+      "food": {
+        "name": "Porto Giunco Beach Club",
+        "url": "https://www.portogiunco.com/",
+        "walk": "Am Strand bzw. hinter dem Strand laut Quelle; genaue Verkaufsposition und Fussweg vom Landepunkt noch offen."
+      }
+    },
+    "cala-sinzias": {
+      "id": "cala-sinzias",
+      "name": "Cala Sinzias",
+      "municipality": "Castiadas",
+      "sea": "E",
+      "note": "Sandstrand zwischen felsigen Begrenzungen; genaue Tiefe und Startkorridor offen.",
+      "reference_lat": 39.194877310807,
+      "reference_lon": 9.562181338376,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/cala-sinzias"
+      ]
+    },
+    "torre-salinas": {
+      "id": "torre-salinas",
+      "name": "Torre Salinas",
+      "municipality": "Muravera",
+      "sea": "E",
+      "note": "Breiter Sandstrand beidseits eines felsigen Vorsprungs; am Hotelabschnitt anlanden.",
+      "reference_lat": 39.3668109,
+      "reference_lon": 9.5966945,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/torre-salinas",
+        "https://www.torresalinashotel.com/en/"
+      ],
+      "hotel": {
+        "name": "Hotel Torre Salinas",
+        "url": "https://www.torresalinashotel.com/en/",
+        "walk": "Direkt am Strand laut Hotel; exakte Gehstrecke offen.",
+        "walking_distance_verified": false,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      }
+    },
+    "porto-corallo": {
+      "id": "porto-corallo",
+      "name": "Porto Corallo – Strand",
+      "municipality": "Villaputzu",
+      "sea": "E",
+      "note": "Sandstrand neben Hafenbereich; Strand und Hafen nicht als gleichen Ausstieg behandeln.",
+      "reference_lat": 39.4335,
+      "reference_lon": 9.63126,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/porto-corallo"
+      ]
+    },
+    "murtas": {
+      "id": "murtas",
+      "name": "Murtas",
+      "municipality": "Villaputzu",
+      "sea": "E",
+      "note": "Mittel- bis grobkörniger Sand mit kleinen Kieseln; zunächst flacher Grund.",
+      "reference_lat": 39.51579393524,
+      "reference_lon": 9.632597161377,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/murtas"
+      ]
+    },
+    "torre-di-bari": {
+      "id": "torre-di-bari",
+      "name": "Torre di Bari",
+      "municipality": "Bari Sardo",
+      "sea": "E",
+      "note": "Sand/Kiesel; schnell abfallender Grund und Felsen um den Turm. Strandabschnitt abseits des Turms wählen.",
+      "reference_lat": 39.830377872109,
+      "reference_lon": 9.682837727509,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/torre-di-bari",
+        "https://sardegnaturismoservizi.it/ITA/hotel-la-torre/"
+      ],
+      "hotel": {
+        "name": "Hotel La Torre",
+        "url": "https://sardegnaturismoservizi.it/ITA/hotel-la-torre/",
+        "walk": "50 m zum Meer laut Tourismuspartner; konkreter Fussweg offen.",
+        "walking_distance_verified": false,
+        "status": "Alternativer Hotelkandidat"
+      },
+      "food": {
+        "name": "Bar / Restaurant Hotel La Torre",
+        "url": "https://sardegnaturismoservizi.it/ITA/hotel-la-torre/",
+        "walk": "Hotel nahe dem Strand; genaue Gehstrecke offen."
+      }
+    },
+    "porto-frailis": {
+      "id": "porto-frailis",
+      "name": "Porto Frailis",
+      "municipality": "Tortolì",
+      "sea": "SE",
+      "note": "Feiner Sand zwischen Granitfelsen; sandiger Grund mit einzelnen kiesigen Bereichen, sanft abfallend.",
+      "reference_lat": 39.9238,
+      "reference_lon": 9.70509,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/porto-frailis",
+        "https://www.hotellabitta.it/en/faq-hotel-la-bitta/",
+        "https://www.hotellabitta.it/en/"
+      ],
+      "hotel": {
+        "name": "Hotel La Bitta",
+        "url": "https://www.hotellabitta.it/en/faq-hotel-la-bitta/",
+        "walk": "Direkt am Sandstrand laut Hotel; exakte Gehstrecke offen.",
+        "walking_distance_verified": false,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      },
+      "food": {
+        "name": "Terrace Bar / Restaurant La Bitta",
+        "url": "https://www.hotellabitta.it/en/",
+        "walk": "Am Hotel/Strand laut Betreiber; exakter Weg vom vorläufigen Landepunkt offen."
+      }
+    },
+    "santa-maria-navarrese": {
+      "id": "santa-maria-navarrese",
+      "name": "Santa Maria Navarrese",
+      "municipality": "Baunei",
+      "sea": "E",
+      "note": "Strand südlich des kleinen Hafens; genaue Untergrund- und Tiefenprüfung offen.",
+      "reference_lat": 39.9893,
+      "reference_lon": 9.6883,
+      "coordinate_method": "Manuell angenäherter Strand südlich des Hafens. Anschliessend rechnerisch auf Küstenlinie projiziert; vorläufig.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/luoghi/est/santa-maria-navarrese",
+        "https://www.lanthiaresort.com/en/4-star-hotel-services-seaside-ogliastra-sardinia/"
+      ],
+      "food": {
+        "name": "Lanthia Beach Bar & Grill",
+        "url": "https://www.lanthiaresort.com/en/4-star-hotel-services-seaside-ogliastra-sardinia/",
+        "walk": "Strandbereich des Resorts; genaue Lage und Weg zum vorläufigen Punkt offen."
+      }
+    },
+    "cala-mariolu": {
+      "id": "cala-mariolu",
+      "name": "Cala Mariolu",
+      "municipality": "Baunei",
+      "sea": "E",
+      "note": "Runde Kiesel mit Sand, Felsen und begrenzter Strandfläche; Materialablage und Wiederstart besonders prüfen.",
+      "reference_lat": 40.1222,
+      "reference_lon": 9.67744,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/cala-mariolu"
+      ]
+    },
+    "cala-luna": {
+      "id": "cala-luna",
+      "name": "Cala Luna",
+      "municipality": "Dorgali/Baunei",
+      "sea": "E",
+      "note": "Sandbucht zwischen Felswänden; anfangs flach, danach rasch tiefer. Ein- und Ausfahrt bei Ostseegang kritisch.",
+      "reference_lat": 40.2248,
+      "reference_lon": 9.62644,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/cala-luna",
+        "https://www.turismobaunei.eu/services/cala-luna"
+      ],
+      "food": {
+        "name": "Su Neulagi",
+        "url": "https://www.turismobaunei.eu/services/cala-luna",
+        "walk": "Am Strand bzw. hinter dem Strand laut Quelle; genaue Verkaufsposition und Fussweg vom Landepunkt noch offen."
+      }
+    },
+    "cala-gonone": {
+      "id": "cala-gonone",
+      "name": "Cala Gonone – Centrale",
+      "municipality": "Dorgali",
+      "sea": "E",
+      "note": "Kleiner Ortsstrand an der Promenade; Hotel Cala Luna liegt hier, nicht an der abgelegenen Cala Luna.",
+      "reference_lat": 40.2811,
+      "reference_lon": 9.6349,
+      "coordinate_method": "Manuell angenäherter Ortsstrand bei Viale Palmasera; Hotel Cala Luna nennt 10 m zum Strand. Anschliessend rechnerisch auf Küstenlinie projiziert; vorläufig.",
+      "sources": [
+        "https://www.calalunahotel.com/en/"
+      ],
+      "hotel": {
+        "name": "Hotel Cala Luna",
+        "url": "https://www.calalunahotel.com/en/",
+        "walk": "10 m zum Strand laut Hotel, dazwischen Promenade; keine eigene Wegmessung.",
+        "walking_distance_verified": false,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      },
+      "food": {
+        "name": "Lounge Bar / Restaurant Cala Luna",
+        "url": "https://www.calalunahotel.com/en/",
+        "walk": "Am Hotel/Strand laut Betreiber; exakter Weg vom vorläufigen Landepunkt offen."
+      }
+    },
+    "marina-di-orosei": {
+      "id": "marina-di-orosei",
+      "name": "Marina di Orosei",
+      "municipality": "Orosei",
+      "sea": "E",
+      "note": "Sandstrand; rasch abfallender Grund. Mündungsbereich gesondert meiden bzw. beurteilen.",
+      "reference_lat": 40.3693,
+      "reference_lon": 9.72203,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/marina-di-orosei"
+      ]
+    },
+    "berchida": {
+      "id": "berchida",
+      "name": "Berchida",
+      "municipality": "Siniscola",
+      "sea": "E",
+      "note": "Feiner Sand und flacher Grund; genaue Foiltiefe unbekannt.",
+      "reference_lat": 40.478357267566,
+      "reference_lon": 9.810264616113,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/berchida",
+        "https://berchida.it/en/index.html"
+      ],
+      "food": {
+        "name": "Berchida Beach – Kiosk am Hauptweg",
+        "url": "https://berchida.it/en/index.html",
+        "walk": "Am Strand bzw. hinter dem Strand laut Quelle; genaue Verkaufsposition und Fussweg vom Landepunkt noch offen."
+      }
+    },
+    "la-caletta": {
+      "id": "la-caletta",
+      "name": "La Caletta – südlich Hafen",
+      "municipality": "Siniscola",
+      "sea": "E",
+      "note": "Langer Sandstrand mit flachem Grund; Hafenmolen sind keine Landeplätze.",
+      "reference_lat": 40.606968341848,
+      "reference_lon": 9.750452280426,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/la-caletta"
+      ]
+    },
+    "la-cinta": {
+      "id": "la-cinta",
+      "name": "La Cinta – Südende",
+      "municipality": "San Teodoro",
+      "sea": "E",
+      "note": "Feiner Sand, sehr flacher Grund; südliches Ende für Hotelweg wählen, nicht den Kartenmittelpunkt.",
+      "reference_lat": 40.7838,
+      "reference_lon": 9.6742,
+      "coordinate_method": "Manuell angenähertes Südende bei Via del Tirreno; Kartenlink des Hotels und Wegbeschreibung. Anschliessend rechnerisch auf Küstenlinie projiziert; vorläufig.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/la-cinta",
+        "https://www.hotelscintilla.com/san-teodoro/la-cinta/",
+        "https://www.hotelscintilla.com/"
+      ],
+      "hotel": {
+        "name": "Hotel Scintilla",
+        "url": "https://www.hotelscintilla.com/san-teodoro/la-cinta/",
+        "walk": "150 m laut Hotel; Fussweg über Via del Tirreno beschrieben.",
+        "walking_distance_verified": true,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      },
+      "food": {
+        "name": "Bar/Caffetteria Hotel Scintilla",
+        "url": "https://www.hotelscintilla.com/",
+        "walk": "Am Hotel/Strand laut Betreiber; exakter Weg vom vorläufigen Landepunkt offen."
+      }
+    },
+    "porto-istana": {
+      "id": "porto-istana",
+      "name": "Porto Istana",
+      "municipality": "Olbia",
+      "sea": "E",
+      "note": "Mehrere Sandbuchten, flach abfallender Grund; die felsigen Trennungen nicht queren.",
+      "reference_lat": 40.893472957422,
+      "reference_lon": 9.621319770813,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/porto-istana"
+      ]
+    },
+    "cala-sassari": {
+      "id": "cala-sassari",
+      "name": "Cala Sassari",
+      "municipality": "Golfo Aranci",
+      "sea": "SE",
+      "note": "Sandiger, flacher Grund; seitliche Felsen und mögliche Abschattung beachten.",
+      "reference_lat": 40.9873,
+      "reference_lon": 9.58556,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/cala-sassari",
+        "https://finoexperience.it/"
+      ],
+      "food": {
+        "name": "Fino Beach",
+        "url": "https://finoexperience.it/",
+        "walk": "Am Strand bzw. hinter dem Strand laut Quelle; genaue Verkaufsposition und Fussweg vom Landepunkt noch offen."
+      }
+    },
+    "liscia-ruja": {
+      "id": "liscia-ruja",
+      "name": "Liscia Ruja",
+      "municipality": "Arzachena",
+      "sea": "E",
+      "note": "Sandbucht mit felsigen Enden; genauer Startkorridor offen.",
+      "reference_lat": 41.0725849,
+      "reference_lon": 9.5291097,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/liscia-ruja"
+      ]
+    },
+    "baja-sardinia": {
+      "id": "baja-sardinia",
+      "name": "Baja Sardinia – Cala Battistoni",
+      "municipality": "Arzachena",
+      "sea": "N",
+      "note": "Sandstrand an der Piazza; geschützte Lage kann den Wiederstart bei ablandigem Wind erschweren.",
+      "reference_lat": 41.1402366,
+      "reference_lon": 9.4762976,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/baja-sardinia",
+        "https://www.bajahotels.it/en/hotels/club-hotel/hotel.html"
+      ],
+      "hotel": {
+        "name": "Club Hotel Baja Sardinia",
+        "url": "https://www.bajahotels.it/en/hotels/club-hotel/hotel.html",
+        "walk": "Am zentralen Strand/Piazza; exakte Gehstrecke offen. Nicht die 250 m entfernte private Bucht verwenden.",
+        "walking_distance_verified": false,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      },
+      "food": {
+        "name": "Hotelrestaurants/-bars",
+        "url": "https://www.bajahotels.it/en/hotels/club-hotel/hotel.html",
+        "walk": "Am Hotel/Strand laut Betreiber; exakter Weg vom vorläufigen Landepunkt offen."
+      }
+    },
+    "cannigione": {
+      "id": "cannigione",
+      "name": "Cannigione – Ortsstrand",
+      "municipality": "Arzachena",
+      "sea": "E",
+      "note": "Grobkörniger Sand, sanft abfallender Grund; Lage tief im Golf kann Wind abschatten.",
+      "reference_lat": 41.109692290564,
+      "reference_lon": 9.441835731268,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/cannigione"
+      ]
+    },
+    "porto-pollo": {
+      "id": "porto-pollo",
+      "name": "Porto Pollo – Ostbucht",
+      "municipality": "Palau",
+      "sea": "NE",
+      "note": "Sandige Landenge, flaches Wasser; Seitenwahl und Foiltiefe entscheidend, nicht über die Landenge routen.",
+      "reference_lat": 41.188471098945,
+      "reference_lon": 9.326911132819,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/porto-pollo",
+        "https://en.windportopollo.com/wind-bar-portopollo"
+      ],
+      "food": {
+        "name": "Wind Bar Porto Pollo",
+        "url": "https://en.windportopollo.com/wind-bar-portopollo",
+        "walk": "Am Strand bzw. hinter dem Strand laut Quelle; genaue Verkaufsposition und Fussweg vom Landepunkt noch offen."
+      }
+    },
+    "rena-bianca": {
+      "id": "rena-bianca",
+      "name": "Rena Bianca",
+      "municipality": "Santa Teresa Gallura",
+      "sea": "N",
+      "note": "Feiner Sand und flacher Grund; seitliche Vorgebirge begrenzen die Bucht.",
+      "reference_lat": 41.2450063,
+      "reference_lon": 9.1894029,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/rena-bianca",
+        "https://www.hotelcorallaro.it/"
+      ],
+      "hotel": {
+        "name": "Hotel Corallaro",
+        "url": "https://www.hotelcorallaro.it/",
+        "walk": "100 m zum Strand laut Hotel; tatsächlicher Fussweg noch nicht vermessen.",
+        "walking_distance_verified": false,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      },
+      "food": {
+        "name": "Hotelrestaurant und Poolbar",
+        "url": "https://www.hotelcorallaro.it/",
+        "walk": "Am Hotel/Strand laut Betreiber; exakter Weg vom vorläufigen Landepunkt offen."
+      }
+    },
+    "rena-majori": {
+      "id": "rena-majori",
+      "name": "Rena Majori",
+      "municipality": "Aglientu",
+      "sea": "W",
+      "note": "Feiner Sand, Granitfelsen und Bachmündungen teilen den Strand; Startkorridor zwischen Felsen offen.",
+      "reference_lat": 41.1738,
+      "reference_lon": 9.17181,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/rena-majori"
+      ]
+    },
+    "vignola-mare-aglientu": {
+      "id": "vignola-mare-aglientu",
+      "name": "Vignola Mare",
+      "municipality": "Aglientu",
+      "sea": "NW",
+      "note": "Sand mit Kieseln; Bachmündung und Granitfels teilen den Strand.",
+      "reference_lat": 41.126911,
+      "reference_lon": 9.0628603,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/vignola-mare-aglientu"
+      ]
+    },
+    "spiaggia-longa-isola-rossa": {
+      "id": "spiaggia-longa-isola-rossa",
+      "name": "Isola Rossa – Spiaggia Longa",
+      "municipality": "Trinità d’Agultu e Vignola",
+      "sea": "SW",
+      "note": "Sand mit Kieseln am Ufer, zunächst flach; weiter draussen Felsvorkommen.",
+      "reference_lat": 41.010058,
+      "reference_lon": 8.8770282,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/spiaggia-longa-isola-rossa"
+      ]
+    },
+    "li-junchi": {
+      "id": "li-junchi",
+      "name": "Li Junchi – La Duna Bianca",
+      "municipality": "Badesi",
+      "sea": "NW",
+      "note": "Langer Sandstrand; westlicher Seegang kann Brandung verursachen (geografische Ableitung).",
+      "reference_lat": 40.9657,
+      "reference_lon": 8.8499,
+      "coordinate_method": "Manuell angenäherter Strand bei Resort Le Dune; Hotelbereich noch genauer abzugrenzen. Anschliessend rechnerisch auf Küstenlinie projiziert; vorläufig.",
+      "sources": [
+        "https://www.resortledune.com/mare",
+        "https://www.resortledune.com/en/hotel/hotel-duna-bianca"
+      ],
+      "hotel": {
+        "name": "Hotel La Duna Bianca",
+        "url": "https://www.resortledune.com/en/hotel/hotel-duna-bianca",
+        "walk": "Direkt an Li Junchi laut Resort; Strandbereich und Weg genauer bestimmen.",
+        "walking_distance_verified": false,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      },
+      "food": {
+        "name": "Bar und Restaurant La Duna Bianca",
+        "url": "https://www.resortledune.com/mare",
+        "walk": "Am Hotel/Strand laut Betreiber; exakter Weg vom vorläufigen Landepunkt offen."
+      }
+    },
+    "lu-bagnu": {
+      "id": "lu-bagnu",
+      "name": "Lu Bagnu",
+      "municipality": "Castelsardo",
+      "sea": "NW",
+      "note": "Sandstrand zwischen Felsabschnitten; genaue Foiltiefe und freier Korridor offen.",
+      "reference_lat": 40.906410918744,
+      "reference_lon": 8.68939087368,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/lu-bagnu"
+      ]
+    },
+    "platamona": {
+      "id": "platamona",
+      "name": "Platamona",
+      "municipality": "Sorso/Sassari",
+      "sea": "N",
+      "note": "Langer Sandstrand; konkreter Ausstieg und Starttiefe offen.",
+      "reference_lat": 40.818995701188,
+      "reference_lon": 8.467293137512,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/platamona"
+      ]
+    },
+    "la-pelosa": {
+      "id": "la-pelosa",
+      "name": "La Pelosa – Roccaruja",
+      "municipality": "Stintino",
+      "sea": "NE",
+      "note": "Sehr flacher Sandbereich; Tiefen und Felsen vor dem Wiederstart prüfen. Passage um Capo Falcone folgt aussen.",
+      "reference_lat": 40.9656,
+      "reference_lon": 8.20936,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/la-pelosa",
+        "https://www.clubesse.it/strutture/hotel-roccaruja-stintino/"
+      ],
+      "hotel": {
+        "name": "Club Esse Roccaruja",
+        "url": "https://www.clubesse.it/strutture/hotel-roccaruja-stintino/",
+        "walk": "Wenige Schritte zur La Pelosa laut Betreiber; tatsächlichen Strandabschnitt/Fussweg prüfen.",
+        "walking_distance_verified": false,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      }
+    },
+    "argentiera": {
+      "id": "argentiera",
+      "name": "Argentiera",
+      "municipality": "Sassari",
+      "sea": "W",
+      "note": "Kleine Bucht mit Sand/Kies; offene Westseite und begrenzte Ausweichfläche.",
+      "reference_lat": 40.739260131809,
+      "reference_lon": 8.146456804199,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/argentiera"
+      ]
+    },
+    "porto-ferro": {
+      "id": "porto-ferro",
+      "name": "Porto Ferro",
+      "municipality": "Sassari",
+      "sea": "W",
+      "note": "Sandbucht zwischen Kaps; bei westlicher Dünung Brandung als zu prüfende Bedingung.",
+      "reference_lat": 40.6835,
+      "reference_lon": 8.2059,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/porto-ferro"
+      ]
+    },
+    "mugoni": {
+      "id": "mugoni",
+      "name": "Mugoni",
+      "municipality": "Alghero",
+      "sea": "S",
+      "note": "Sandstrand am inneren Ende der Bucht von Porto Conte; mögliche Windabschattung durch umliegende Höhen.",
+      "reference_lat": 40.6198703,
+      "reference_lon": 8.2031409,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/mugoni",
+        "https://www.leninfealghero.com/"
+      ],
+      "food": {
+        "name": "Le Ninfe",
+        "url": "https://www.leninfealghero.com/",
+        "walk": "Am Strand bzw. hinter dem Strand laut Quelle; genaue Verkaufsposition und Fussweg vom Landepunkt noch offen."
+      }
+    },
+    "porto-conte": {
+      "id": "porto-conte",
+      "name": "Porto Conte – Hotel Portoconte",
+      "municipality": "Alghero",
+      "sea": "W",
+      "note": "Kleiner Hotelstrand in der Bucht; genaue Ufer- und Tiefenverhältnisse vor Ort prüfen.",
+      "reference_lat": 40.594167,
+      "reference_lon": 8.218889,
+      "coordinate_method": "GPS aus offizieller Hotel-Anfahrtsbeschreibung (40°35′39 N, 8°13′08 E); widersprüchliche strukturierte Webdaten verworfen. Anschliessend rechnerisch auf Küstenlinie projiziert; vorläufig.",
+      "sources": [
+        "https://www.hotelportoconte.it/en/how-to-reach-hotel-portoconte.html",
+        "https://www.hotelportoconte.it/en"
+      ],
+      "hotel": {
+        "name": "Hotel Portoconte",
+        "url": "https://www.hotelportoconte.it/en",
+        "walk": "Direkt am Meer, Strand 20 Schritte laut Hotel; exakte Gehstrecke offen.",
+        "walking_distance_verified": false,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      },
+      "food": {
+        "name": "Lounge Bar / Hotelrestaurant",
+        "url": "https://www.hotelportoconte.it/en",
+        "walk": "Am Hotel/Strand laut Betreiber; exakter Weg vom vorläufigen Landepunkt offen."
+      }
+    },
+    "le-bombarde": {
+      "id": "le-bombarde",
+      "name": "Le Bombarde",
+      "municipality": "Alghero",
+      "sea": "SW",
+      "note": "Feiner Sand, rasch tiefer werdender Grund; Felsen an beiden Enden.",
+      "reference_lat": 40.584419250543,
+      "reference_lon": 8.257842100525,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/le-bombarde"
+      ]
+    },
+    "lido-di-san-giovanni": {
+      "id": "lido-di-san-giovanni",
+      "name": "Alghero – Lido San Giovanni",
+      "municipality": "Alghero",
+      "sea": "W",
+      "note": "Städtischer Sandstrand; genaue Starttiefe offen.",
+      "reference_lat": 40.573,
+      "reference_lon": 8.31705,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/lido-di-san-giovanni"
+      ]
+    },
+    "porto-alabe": {
+      "id": "porto-alabe",
+      "name": "Porto Alabe",
+      "municipality": "Tresnuraghes",
+      "sea": "W",
+      "note": "Mittel- bis grobkörniger Sand, sanft abfallender Grund; felsige Begrenzungen.",
+      "reference_lat": 40.243773256883,
+      "reference_lon": 8.474520846558,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/porto-alabe"
+      ]
+    },
+    "bosa-marina": {
+      "id": "bosa-marina",
+      "name": "Bosa Marina",
+      "municipality": "Bosa",
+      "sea": "W",
+      "note": "Sandstrand an der Temo-Mündung; für den Stopp den Strand statt Fluss/Hafen wählen.",
+      "reference_lat": 40.2879,
+      "reference_lon": 8.47946,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/bosa-marina",
+        "https://www.hotelalgabbiano.it/il-mare-e-la-spiaggia/",
+        "https://www.hotelalgabbiano.it/"
+      ],
+      "hotel": {
+        "name": "Hotel Al Gabbiano",
+        "url": "https://www.hotelalgabbiano.it/il-mare-e-la-spiaggia/",
+        "walk": "Hoteleigener Strandbereich gegenüber dem Hotel; exakte Gehstrecke offen.",
+        "walking_distance_verified": false,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      },
+      "food": {
+        "name": "Restaurant/Pizzeria Al Gabbiano",
+        "url": "https://www.hotelalgabbiano.it/",
+        "walk": "Am Hotel/Strand laut Betreiber; exakter Weg vom vorläufigen Landepunkt offen."
+      }
+    },
+    "santa-caterina-di-pittinuri": {
+      "id": "santa-caterina-di-pittinuri",
+      "name": "Santa Caterina di Pittinuri",
+      "municipality": "Cuglieri",
+      "sea": "W",
+      "note": "Kleine Bucht zwischen Felswänden; genaue Ufer- und Tiefenverhältnisse offen.",
+      "reference_lat": 40.1029,
+      "reference_lon": 8.49134,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/santa-caterina-di-pittinuri"
+      ]
+    },
+    "putzu-idu": {
+      "id": "putzu-idu",
+      "name": "Putzu Idu",
+      "municipality": "San Vero Milis",
+      "sea": "W",
+      "note": "Quarzsand; über mehrere zehn Meter sehr flacher Grund.",
+      "reference_lat": 40.0283,
+      "reference_lon": 8.40734,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/putzu-idu"
+      ]
+    },
+    "san-giovanni-di-sinis": {
+      "id": "san-giovanni-di-sinis",
+      "name": "San Giovanni di Sinis – Weststrand",
+      "municipality": "Cabras",
+      "sea": "W",
+      "note": "Sand und Dünen mit Sandstein-/Basaltfelsen; Capo San Marco muss danach umrundet werden.",
+      "reference_lat": 39.8801,
+      "reference_lon": 8.43719,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/san-giovanni-di-sinis"
+      ]
+    },
+    "torregrande": {
+      "id": "torregrande",
+      "name": "Torre Grande – Lido Beach",
+      "municipality": "Oristano",
+      "sea": "SW",
+      "note": "Langer Sandstrand am Golf; Nachtziel im südöstlichen Strandabschnitt.",
+      "reference_lat": 39.905643974608,
+      "reference_lon": 8.516754595185,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/torregrande",
+        "https://www.pradelligestioni.com/hotel-lido-beach/"
+      ],
+      "hotel": {
+        "name": "Hotel Lido Beach",
+        "url": "https://www.pradelligestioni.com/hotel-lido-beach/",
+        "walk": "Direkt am Strand, Via Bottego 75; Landepunkt am Hotel noch genauer festlegen.",
+        "walking_distance_verified": false,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      },
+      "food": {
+        "name": "Poolbar / Ristorante White",
+        "url": "https://www.pradelligestioni.com/hotel-lido-beach/",
+        "walk": "Am Hotel/Strand laut Betreiber; exakter Weg vom vorläufigen Landepunkt offen."
+      }
+    },
+    "torre-dei-corsari": {
+      "id": "torre-dei-corsari",
+      "name": "Torre dei Corsari",
+      "municipality": "Arbus",
+      "sea": "W",
+      "note": "Sand und hohe Dünen; offene Westküste, Brandung abhängig vom Seegang.",
+      "reference_lat": 39.6798377,
+      "reference_lon": 8.4526986,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/torre-dei-corsari"
+      ]
+    },
+    "marina-di-arbus": {
+      "id": "marina-di-arbus",
+      "name": "Marina di Arbus – Gutturu e Flumini",
+      "municipality": "Arbus",
+      "sea": "W",
+      "note": "Sandstrand mit felsiger Begrenzung; sanft abfallender Grund, exponierte Westlage.",
+      "reference_lat": 39.5981321,
+      "reference_lon": 8.4710195,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/marina-di-arbus"
+      ]
+    },
+    "piscinas-costa-verde": {
+      "id": "piscinas-costa-verde",
+      "name": "Piscinas – Costa Verde",
+      "municipality": "Arbus",
+      "sea": "W",
+      "note": "Sandstrand; Grund fällt in Stufen rasch tief ab. Quelle beschreibt hohe/lange Wellen bei Wind.",
+      "reference_lat": 39.540521854752,
+      "reference_lon": 8.448967041942,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/piscinas-costa-verde",
+        "https://www.ledunepiscinas.com/"
+      ],
+      "hotel": {
+        "name": "Le Dune Piscinas",
+        "url": "https://www.ledunepiscinas.com/",
+        "walk": "Direkt am Strand laut Hotel; exakte Gehstrecke offen.",
+        "walking_distance_verified": false,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      },
+      "food": {
+        "name": "American Bar / Il Ginepro",
+        "url": "https://www.ledunepiscinas.com/",
+        "walk": "Am Hotel/Strand laut Betreiber; exakter Weg vom vorläufigen Landepunkt offen."
+      }
+    },
+    "portixeddu": {
+      "id": "portixeddu",
+      "name": "Portixeddu",
+      "municipality": "Buggerru/Fluminimaggiore",
+      "sea": "W",
+      "note": "Sandstrand mit Flussmündung; Quelle nennt rasch tieferen Grund und starke Strömungen.",
+      "reference_lat": 39.442165,
+      "reference_lon": 8.4103697,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/portixeddu"
+      ]
+    },
+    "funtanamare": {
+      "id": "funtanamare",
+      "name": "Fontanamare",
+      "municipality": "Gonnesa",
+      "sea": "W",
+      "note": "Langer Sandstrand; zunächst flach sandig, weiter draussen kiesig. Westseegang prüfen.",
+      "reference_lat": 39.291759769041,
+      "reference_lon": 8.438281440967,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/funtanamare"
+      ]
+    },
+    "portoscuso": {
+      "id": "portoscuso",
+      "name": "Portoscuso – Portopaglietto",
+      "municipality": "Portoscuso",
+      "sea": "NW",
+      "note": "Sandbucht Portopaglietto, nicht der Kartenpunkt im Ort oder der Industriehafen.",
+      "reference_lat": 39.2115,
+      "reference_lon": 8.3738,
+      "coordinate_method": "Manuell angenäherte Sandbucht Portopaglietto; regionaler Ortspunkt liegt im Ort. Anschliessend rechnerisch auf Küstenlinie projiziert; vorläufig.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/portoscuso"
+      ]
+    },
+    "spiaggia-grande": {
+      "id": "spiaggia-grande",
+      "name": "Spiaggia Grande – Stella del Sud",
+      "municipality": "Calasetta",
+      "sea": "W",
+      "note": "Feiner Sand, flacher sandiger Grund; Felsen an den Rändern.",
+      "reference_lat": 39.084015705374,
+      "reference_lon": 8.357601222229,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/spiaggia-grande",
+        "https://hotelstelladelsud.com/"
+      ],
+      "hotel": {
+        "name": "Hotel Stella del Sud",
+        "url": "https://hotelstelladelsud.com/",
+        "walk": "Direkt an Spiaggia Grande laut Hotel; exakte Gehstrecke offen.",
+        "walking_distance_verified": false,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      },
+      "food": {
+        "name": "Hotelrestaurant Stella del Sud",
+        "url": "https://hotelstelladelsud.com/",
+        "walk": "Am Hotel/Strand laut Betreiber; exakter Weg vom vorläufigen Landepunkt offen."
+      }
+    },
+    "cala-lunga-santantioco": {
+      "id": "cala-lunga-santantioco",
+      "name": "Cala Lunga – Sant’Antioco",
+      "municipality": "Calasetta",
+      "sea": "W",
+      "note": "Schmale tiefeingeschnittene Sandbucht mit felsigem Grund. Windabschattung und Wiederstart sind entscheidende Lücken.",
+      "reference_lat": 39.023133406579,
+      "reference_lon": 8.374198134918,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/cala-lunga-santantioco"
+      ]
+    },
+    "coaquaddus": {
+      "id": "coaquaddus",
+      "name": "Coaquaddus",
+      "municipality": "Sant’Antioco",
+      "sea": "E",
+      "note": "Grobkörniger Sand; Felsen teilen den Strand, Grund bleibt lange flach.",
+      "reference_lat": 38.9796,
+      "reference_lon": 8.44233,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/coaquaddus"
+      ]
+    },
+    "porto-pino": {
+      "id": "porto-pino",
+      "name": "Porto Pino – Prima Spiaggia",
+      "municipality": "Sant’Anna Arresi",
+      "sea": "SW",
+      "note": "Sandiger, über viele Meter sehr flacher Grund; Kanal/Steinbegrenzungen und Hotelweg beachten.",
+      "reference_lat": 38.9663,
+      "reference_lon": 8.5985,
+      "coordinate_method": "Manuell angenäherte Prima Spiaggia, näher Hotel Cala dei Pini; nicht der regionale Punkt weiter südöstlich. Anschliessend rechnerisch auf Küstenlinie projiziert; vorläufig.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/porto-pino",
+        "https://www.caladeipini.eu/"
+      ],
+      "hotel": {
+        "name": "Hotel Cala dei Pini",
+        "url": "https://www.caladeipini.eu/",
+        "walk": "600 m zum Strand laut Hotel; Fussweg nicht unabhängig verifiziert. Überschreitet 500-m-Wunsch, liegt nominell innerhalb 1 km.",
+        "walking_distance_verified": false,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      }
+    },
+    "porto-tramatzu": {
+      "id": "porto-tramatzu",
+      "name": "Porto Tramatzu",
+      "municipality": "Teulada",
+      "sea": "S",
+      "note": "Feiner Sand und lange flacher Grund; vorgelagerte Isola Rossa nicht über eine seichte Verbindung schneiden.",
+      "reference_lat": 38.920900642087,
+      "reference_lon": 8.710699081421,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/porto-tramatzu"
+      ]
+    },
+    "tuerredda": {
+      "id": "tuerredda",
+      "name": "Tuerredda",
+      "municipality": "Teulada",
+      "sea": "S",
+      "note": "Feiner Sand und sandiger Grund; vorgelagerte Insel sowie Felsränder umfahren.",
+      "reference_lat": 38.89475529445,
+      "reference_lon": 8.813109506607,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/tuerredda"
+      ]
+    },
+    "su-giudeu": {
+      "id": "su-giudeu",
+      "name": "Su Giudeu – Chia",
+      "municipality": "Domus de Maria",
+      "sea": "S",
+      "note": "Sand und lange sehr flacher Grund, einzelne Felsen und vorgelagertes Inselchen.",
+      "reference_lat": 38.883152754619,
+      "reference_lon": 8.862130783081,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/su-giudeu",
+        "https://hotelsugiudeu.it/",
+        "https://www.chia.it/la_stella_marina.htm"
+      ],
+      "hotel": {
+        "name": "Hotel Su Giudeu",
+        "url": "https://hotelsugiudeu.it/",
+        "walk": "500 m Fussweg laut Hotel, über die kleine Strasse gegenüber dem Hotel.",
+        "walking_distance_verified": true,
+        "status": "Kandidat; Strandnähe belegt, endgültiger Landepunkt und durchgehender Fussweg zu bestätigen."
+      },
+      "food": {
+        "name": "La Stella Marina; Hotelbar Su Giudeu",
+        "url": "https://www.chia.it/la_stella_marina.htm",
+        "walk": "Am Hotel/Strand laut Betreiber; exakter Weg vom vorläufigen Landepunkt offen."
+      }
+    },
+    "santa-margherita-di-pula": {
+      "id": "santa-margherita-di-pula",
+      "name": "Santa Margherita di Pula",
+      "municipality": "Pula",
+      "sea": "SE",
+      "note": "Sandbuchten zwischen kleinen Felsvorsprüngen; konkreter Landeabschnitt noch zu verfeinern.",
+      "reference_lat": 38.9277,
+      "reference_lon": 8.9257,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/santa-margherita-di-pula"
+      ]
+    },
+    "nora": {
+      "id": "nora",
+      "name": "Nora",
+      "municipality": "Pula",
+      "sea": "E",
+      "note": "Sandbucht mit flachem Grund; felsiger Kapbereich und mögliche Windabschattung.",
+      "reference_lat": 38.987724092415,
+      "reference_lon": 9.013874530792,
+      "coordinate_method": "Regionaler Kartenreferenzpunkt; rechnerische Projektion auf die Küste, kein vermessener Landeplatz.",
+      "sources": [
+        "https://www.sardegnaturismo.it/it/esplora/nora"
+      ]
+    }
+  },
+  "stages": [
+    [
+      "poetto",
+      "geremeas",
+      "porto-giunco",
+      "cala-sinzias",
+      "torre-salinas"
+    ],
+    [
+      "torre-salinas",
+      "porto-corallo",
+      "murtas",
+      "torre-di-bari",
+      "porto-frailis"
+    ],
+    [
+      "porto-frailis",
+      "santa-maria-navarrese",
+      "cala-mariolu",
+      "cala-luna",
+      "cala-gonone"
+    ],
+    [
+      "cala-gonone",
+      "marina-di-orosei",
+      "berchida",
+      "la-caletta",
+      "la-cinta"
+    ],
+    [
+      "la-cinta",
+      "porto-istana",
+      "cala-sassari",
+      "liscia-ruja",
+      "baja-sardinia"
+    ],
+    [
+      "baja-sardinia",
+      "cannigione",
+      "porto-pollo",
+      "rena-bianca"
+    ],
+    [
+      "rena-bianca",
+      "rena-majori",
+      "vignola-mare-aglientu",
+      "spiaggia-longa-isola-rossa",
+      "li-junchi"
+    ],
+    [
+      "li-junchi",
+      "lu-bagnu",
+      "platamona",
+      "la-pelosa"
+    ],
+    [
+      "la-pelosa",
+      "argentiera",
+      "porto-ferro",
+      "mugoni",
+      "porto-conte"
+    ],
+    [
+      "porto-conte",
+      "le-bombarde",
+      "lido-di-san-giovanni",
+      "bosa-marina"
+    ],
+    [
+      "bosa-marina",
+      "santa-caterina-di-pittinuri",
+      "putzu-idu",
+      "san-giovanni-di-sinis",
+      "torregrande"
+    ],
+    [
+      "torregrande",
+      "torre-dei-corsari",
+      "marina-di-arbus",
+      "piscinas-costa-verde"
+    ],
+    [
+      "piscinas-costa-verde",
+      "portixeddu",
+      "funtanamare",
+      "portoscuso",
+      "spiaggia-grande"
+    ],
+    [
+      "spiaggia-grande",
+      "cala-lunga-santantioco",
+      "coaquaddus",
+      "porto-pino"
+    ],
+    [
+      "porto-pino",
+      "porto-tramatzu",
+      "tuerredda",
+      "su-giudeu"
+    ],
+    [
+      "su-giudeu",
+      "santa-margherita-di-pula",
+      "nora",
+      "poetto"
+    ]
+  ]
+}

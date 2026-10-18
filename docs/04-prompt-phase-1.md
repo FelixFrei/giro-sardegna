@@ -1,6 +1,6 @@
 # Arbeitsauftrag für Phase 1
 
-Der folgende Prompt ist zur anschliessenden vollständigen Recherche gedacht. Er wurde hier noch nicht als Routenauftrag ausgeführt. Angaben in eckigen Klammern sind offene Entscheidungen; die genannten Entwurfsannahmen sind Vorschläge.
+Der folgende Prompt dokumentiert den Rechercheauftrag. Ein erster recherchierter Entwurf liegt nun in [Routenvarianten](06-routenvarianten.md) vor; offene Ortsprüfungen bleiben ausdrücklich bestehen. Angaben in eckigen Klammern sind offene Entscheidungen; die genannten Entwurfsannahmen sind Vorschläge.
 
 ---
 
@@ -16,8 +16,8 @@ Plane eine vollständige, zusammenhängende Umrundung Sardiniens mit dem Wingfoi
 - Jedes Nachtziel braucht ein namentlich belegtes, vom konkreten Landepunkt erreichbares Strandhotel. Vorläufig bevorzugt bis 500 m und höchstens 1 km tatsächlicher Fussweg. Luftlinie reicht nicht. B&B und andere Unterkünfte nur als ausgewiesene Alternativen führen.
 - Suche Getränkekauf bevorzugt innerhalb von 300 m, höchstens 500 m tatsächlichem Fussweg vom Landepunkt. Diese Radien sind Entwurfsannahmen.
 - Startzeitraum: September [Jahr und Startfenster offen]. Hotel-Saisonöffnung und Zimmerverfügbarkeit nicht prüfen; Hotels als geöffnet annehmen.
-- Start-/Endort: [offen; bei fehlender Festlegung geeignete Startorte anhand Erreichbarkeit, Hotels und Routenanschluss vergleichen].
-- Geografischer Umfang: [Hauptinsel; Umgang mit vorgelagerten und verbundenen Inseln sowie Buchtquerungen offen]. Eine geschlossene Runde zum Ausgangspunkt ausweisen; zusätzliche Inselvarianten separat führen.
+- Start-/Endort: Cagliari/Poetto (bestätigt), identischer Start und Endpunkt.
+- Geografischer Umfang: Hauptinsel plus Sant’Antioco aussen (bestätigt), keine zusätzlichen Inselrunden; Grenzen für Buchtquerungen noch offen. Eine geschlossene Runde zum Ausgangspunkt ausweisen; zusätzliche Inselvarianten separat führen.
 - Fahrtrichtung: beide Richtungen als Varianten erhalten. In Phase 1 nach Infrastruktur und Wasserweg beurteilen, noch keine windoptimale Richtung bestimmen.
 - Reisedauer, Wartetage, Hotelbudget, Zimmerzahl, maximale Tragestrecke: [offen].
 - Personen, Erfahrung, Boardvolumen, Mastlänge, Winggrössen, Gepäckgewicht und Wiederstartfähigkeit: [offen].

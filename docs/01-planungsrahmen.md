@@ -2,6 +2,8 @@
 
 Stand: 18.10.2026. Die folgenden Zahlen sind Vorgaben, Rechenergebnisse oder ausdrücklich bezeichnete Vorschläge; keine bereits validierten Etappen.
 
+Fortschreibung: Der [erste Routenentwurf](06-routenvarianten.md) ist dokumentiert. **Start/Ziel Cagliari/Poetto und Sant’Antioco aussen sind vom Nutzer bestätigt.** Die übrigen Arbeitsannahmen sind weiterhin als solche zu lesen.
+
 ## Bereits vorgegeben
 
 | Thema | Vorgabe |
@@ -31,7 +33,7 @@ Diese Annahmen können für einen Entwurf verwendet werden, gelten aber noch nic
 | Getränkekauf | Bevorzugt bis 300 m, höchstens 500 m tatsächlicher Fussweg | Mit einer kurzen Pause vereinbar; Wasserreserve bleibt separat zu planen |
 | Übernachtung | Hotels bevorzugen; B&B nur als ausdrücklich bezeichnete Alternative | Entspricht dem gewünschten Strandhotel-Konzept |
 | Unabhängigkeit | Kein Begleitboot, kein Begleitfahrzeug, kein Gepäcktransfer; Material selbst mitführen | Muss zur tatsächlichen Ausrüstung und Gruppenorganisation passen |
-| Umfang der Runde | Hauptinsel als Arbeitsumfang, vorgelagerte Inseln als separate Varianten | Inseln, verbundene Inseln und Buchtquerungen ausdrücklich festlegen |
+| Umfang der Runde | Hauptinsel plus Sant’Antioco aussen; keine Zusatzrunden um Asinara, San Pietro oder La Maddalena | Inseln, verbundene Inseln und Buchtquerungen ausdrücklich festlegen |
 | Richtung | Beide Richtungen als Varianten erhalten | Eine Windoptimierung erfolgt erst in Phase 2 |
 | Tageslicht | Ankunftsreserve vor Sonnenuntergang vorsehen | Konkrete Reserve und Datum sind noch festzulegen |
 
@@ -59,7 +61,7 @@ Bei fünf reinen Fahrstunden plus 2–3 Pausen von je 20–30 Minuten entstehen 
 
 | Entscheidung | Präzisierung |
 |---|---|
-| Start und Ende | Fester Ort oder Auswahl aus mehreren Startorten? Muss der Endpunkt exakt identisch sein? |
+| Start und Ende | Bestätigt: Cagliari/Poetto, identischer Start und Endpunkt |
 | Reisedatum | September welchen Jahres; grobes Startfenster; wie viele Kalendertage und Reservetage stehen zur Verfügung? |
 | Zeitbudget | Fünf Stunden reine Fahrzeit oder inklusive Pausen, Tragen und Auf-/Abbau? |
 | Umrundungsdefinition | Hauptinsel; Umgang mit vorgelagerten/verbundenen Inseln; Buchten ausfahren oder queren; maximale offene Querung |

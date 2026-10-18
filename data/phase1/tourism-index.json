@@ -1,0 +1,1317 @@
+[
+  {
+    "slug": "poetto",
+    "url": "https://www.sardegnaturismo.it/it/esplora/poetto",
+    "retrieved_at_utc": "2026-10-18T08:02:18.969436+00:00",
+    "http_status": 200,
+    "title": "Poetto | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.2077,
+        "lon": 9.1689,
+        "entity_id": "14619"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "geremeas",
+    "url": "https://www.sardegnaturismo.it/it/esplora/geremeas",
+    "retrieved_at_utc": "2026-10-18T08:02:18.969813+00:00",
+    "http_status": 200,
+    "title": "Geremeas | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.1730404,
+        "lon": 9.379701,
+        "entity_id": "29386"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "solanas",
+    "url": "https://www.sardegnaturismo.it/it/esplora/solanas",
+    "retrieved_at_utc": "2026-10-18T08:02:18.970012+00:00",
+    "http_status": 200,
+    "title": "Solanas | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.134498378058,
+        "lon": 9.430313033066,
+        "entity_id": "14109"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "porto-giunco",
+    "url": "https://www.sardegnaturismo.it/it/esplora/porto-giunco",
+    "retrieved_at_utc": "2026-10-18T08:02:19.226581+00:00",
+    "http_status": 200,
+    "title": "Porto Giunco | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.1132,
+        "lon": 9.5188,
+        "entity_id": "14739"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "cala-sinzias",
+    "url": "https://www.sardegnaturismo.it/it/esplora/cala-sinzias",
+    "retrieved_at_utc": "2026-10-18T08:02:19.255720+00:00",
+    "http_status": 200,
+    "title": "Cala Sinzias | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.194877310807,
+        "lon": 9.562181338376,
+        "entity_id": "13929"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "costa-rei",
+    "url": "https://www.sardegnaturismo.it/it/esplora/costa-rei",
+    "retrieved_at_utc": "2026-10-18T08:02:19.278853+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/costa-rei"
+  },
+  {
+    "slug": "torre-salinas",
+    "url": "https://www.sardegnaturismo.it/it/esplora/torre-salinas",
+    "retrieved_at_utc": "2026-10-18T08:02:19.873543+00:00",
+    "http_status": 200,
+    "title": "Torre Salinas | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.3668109,
+        "lon": 9.5966945,
+        "entity_id": "261606"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "murtas",
+    "url": "https://www.sardegnaturismo.it/it/esplora/murtas",
+    "retrieved_at_utc": "2026-10-18T08:02:20.871142+00:00",
+    "http_status": 200,
+    "title": "Murtas | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.51579393524,
+        "lon": 9.632597161377,
+        "entity_id": "225731"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "porto-corallo",
+    "url": "https://www.sardegnaturismo.it/it/esplora/porto-corallo",
+    "retrieved_at_utc": "2026-10-18T08:02:22.099205+00:00",
+    "http_status": 200,
+    "title": "Porto Corallo | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.4335,
+        "lon": 9.63126,
+        "entity_id": "14731"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "torre-di-bari",
+    "url": "https://www.sardegnaturismo.it/it/esplora/torre-di-bari",
+    "retrieved_at_utc": "2026-10-18T08:02:22.838840+00:00",
+    "http_status": 200,
+    "title": "Torre di Barì | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.830377872109,
+        "lon": 9.682837727509,
+        "entity_id": "14796"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "cea",
+    "url": "https://www.sardegnaturismo.it/it/esplora/cea",
+    "retrieved_at_utc": "2026-10-18T08:02:22.856044+00:00",
+    "http_status": 200,
+    "title": "Cea | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.868883266481,
+        "lon": 9.682920502625,
+        "entity_id": "14277"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "porto-frailis",
+    "url": "https://www.sardegnaturismo.it/it/esplora/porto-frailis",
+    "retrieved_at_utc": "2026-10-18T08:02:23.511062+00:00",
+    "http_status": 200,
+    "title": "Porto Frailis | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.9238,
+        "lon": 9.70509,
+        "entity_id": "14978"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "santa-maria-navarrese",
+    "url": "https://www.sardegnaturismo.it/it/esplora/santa-maria-navarrese",
+    "retrieved_at_utc": "2026-10-18T08:02:25.436062+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/santa-maria-navarrese"
+  },
+  {
+    "slug": "cala-mariolu",
+    "url": "https://www.sardegnaturismo.it/it/esplora/cala-mariolu",
+    "retrieved_at_utc": "2026-10-18T08:02:25.507584+00:00",
+    "http_status": 200,
+    "title": "Cala Mariolu | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.1222,
+        "lon": 9.67744,
+        "entity_id": "14553"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "cala-sisine",
+    "url": "https://www.sardegnaturismo.it/it/esplora/cala-sisine",
+    "retrieved_at_utc": "2026-10-18T08:02:25.635280+00:00",
+    "http_status": 200,
+    "title": "Cala Sisine | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.179641797052,
+        "lon": 9.63415145874,
+        "entity_id": "14331"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "cala-luna",
+    "url": "https://www.sardegnaturismo.it/it/esplora/cala-luna",
+    "retrieved_at_utc": "2026-10-18T08:02:25.761445+00:00",
+    "http_status": 200,
+    "title": "Cala Luna | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.2248,
+        "lon": 9.62644,
+        "entity_id": "14956"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "cala-gonone",
+    "url": "https://www.sardegnaturismo.it/it/esplora/cala-gonone",
+    "retrieved_at_utc": "2026-10-18T08:02:26.037070+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/cala-gonone"
+  },
+  {
+    "slug": "cala-cartoe",
+    "url": "https://www.sardegnaturismo.it/it/esplora/cala-cartoe",
+    "retrieved_at_utc": "2026-10-18T08:02:26.054901+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/cala-cartoe"
+  },
+  {
+    "slug": "marina-di-orosei",
+    "url": "https://www.sardegnaturismo.it/it/esplora/marina-di-orosei",
+    "retrieved_at_utc": "2026-10-18T08:02:26.369849+00:00",
+    "http_status": 200,
+    "title": "Marina di Orosei | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.3693,
+        "lon": 9.72203,
+        "entity_id": "14801"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "berchida",
+    "url": "https://www.sardegnaturismo.it/it/esplora/berchida",
+    "retrieved_at_utc": "2026-10-18T08:02:26.857983+00:00",
+    "http_status": 200,
+    "title": "Berchida | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.478357267566,
+        "lon": 9.810264616113,
+        "entity_id": "14580"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "capo-comino",
+    "url": "https://www.sardegnaturismo.it/it/esplora/capo-comino",
+    "retrieved_at_utc": "2026-10-18T08:02:27.526524+00:00",
+    "http_status": 200,
+    "title": "Capo Comino | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.543921552053,
+        "lon": 9.796369164982,
+        "entity_id": "14713"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "la-caletta",
+    "url": "https://www.sardegnaturismo.it/it/esplora/la-caletta",
+    "retrieved_at_utc": "2026-10-18T08:02:28.763291+00:00",
+    "http_status": 200,
+    "title": "La Caletta | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.606968341848,
+        "lon": 9.750452280426,
+        "entity_id": "29351"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "budoni",
+    "url": "https://www.sardegnaturismo.it/it/esplora/budoni",
+    "retrieved_at_utc": "2026-10-18T08:02:28.953745+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/budoni"
+  },
+  {
+    "slug": "la-cinta",
+    "url": "https://www.sardegnaturismo.it/it/esplora/la-cinta",
+    "retrieved_at_utc": "2026-10-18T08:02:28.971937+00:00",
+    "http_status": 200,
+    "title": "La Cinta | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.785480989106,
+        "lon": 9.671319968262,
+        "entity_id": "14603"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "porto-taverna",
+    "url": "https://www.sardegnaturismo.it/it/esplora/porto-taverna",
+    "retrieved_at_utc": "2026-10-18T08:02:29.494898+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/porto-taverna"
+  },
+  {
+    "slug": "porto-istana",
+    "url": "https://www.sardegnaturismo.it/it/esplora/porto-istana",
+    "retrieved_at_utc": "2026-10-18T08:02:29.559949+00:00",
+    "http_status": 200,
+    "title": "Porto Istana | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.893472957422,
+        "lon": 9.621319770813,
+        "entity_id": "14225"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "pittulongu",
+    "url": "https://www.sardegnaturismo.it/it/esplora/pittulongu",
+    "retrieved_at_utc": "2026-10-18T08:02:30.075342+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/pittulongu"
+  },
+  {
+    "slug": "spiaggia-bianca",
+    "url": "https://www.sardegnaturismo.it/it/esplora/spiaggia-bianca",
+    "retrieved_at_utc": "2026-10-18T08:02:30.714995+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/spiaggia-bianca"
+  },
+  {
+    "slug": "marinella",
+    "url": "https://www.sardegnaturismo.it/it/esplora/marinella",
+    "retrieved_at_utc": "2026-10-18T08:02:30.737956+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/marinella"
+  },
+  {
+    "slug": "capriccioli",
+    "url": "https://www.sardegnaturismo.it/it/esplora/capriccioli",
+    "retrieved_at_utc": "2026-10-18T08:02:31.148806+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/capriccioli"
+  },
+  {
+    "slug": "liscia-ruja",
+    "url": "https://www.sardegnaturismo.it/it/esplora/liscia-ruja",
+    "retrieved_at_utc": "2026-10-18T08:02:31.302502+00:00",
+    "http_status": 200,
+    "title": "Liscia Ruja | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 41.0725849,
+        "lon": 9.5291097,
+        "entity_id": "261171"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "baja-sardinia",
+    "url": "https://www.sardegnaturismo.it/it/esplora/baja-sardinia",
+    "retrieved_at_utc": "2026-10-18T08:02:31.304133+00:00",
+    "http_status": 200,
+    "title": "Baja Sardinia | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 41.1402366,
+        "lon": 9.4762976,
+        "entity_id": "261086"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "cannigione",
+    "url": "https://www.sardegnaturismo.it/it/esplora/cannigione",
+    "retrieved_at_utc": "2026-10-18T08:02:31.800041+00:00",
+    "http_status": 200,
+    "title": "Cannigione | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 41.109692290564,
+        "lon": 9.441835731268,
+        "entity_id": "15008"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "porto-pollo",
+    "url": "https://www.sardegnaturismo.it/it/esplora/porto-pollo",
+    "retrieved_at_utc": "2026-10-18T08:02:31.985728+00:00",
+    "http_status": 200,
+    "title": "Porto Pollo | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 41.188471098945,
+        "lon": 9.326911132819,
+        "entity_id": "14651"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "rena-bianca",
+    "url": "https://www.sardegnaturismo.it/it/esplora/rena-bianca",
+    "retrieved_at_utc": "2026-10-18T08:02:32.172083+00:00",
+    "http_status": 200,
+    "title": "Rena Bianca | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 41.2450063,
+        "lon": 9.1894029,
+        "entity_id": "13930"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "rena-majore",
+    "url": "https://www.sardegnaturismo.it/it/esplora/rena-majore",
+    "retrieved_at_utc": "2026-10-18T08:02:32.616734+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/rena-majore"
+  },
+  {
+    "slug": "vignola-mare",
+    "url": "https://www.sardegnaturismo.it/it/esplora/vignola-mare",
+    "retrieved_at_utc": "2026-10-18T08:02:32.922740+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/vignola-mare"
+  },
+  {
+    "slug": "costa-paradiso",
+    "url": "https://www.sardegnaturismo.it/it/esplora/costa-paradiso",
+    "retrieved_at_utc": "2026-10-18T08:02:33.222849+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/costa-paradiso"
+  },
+  {
+    "slug": "isola-rossa",
+    "url": "https://www.sardegnaturismo.it/it/esplora/isola-rossa",
+    "retrieved_at_utc": "2026-10-18T08:02:33.470276+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/isola-rossa"
+  },
+  {
+    "slug": "li-junchi",
+    "url": "https://www.sardegnaturismo.it/it/esplora/li-junchi",
+    "retrieved_at_utc": "2026-10-18T08:02:33.873550+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/li-junchi"
+  },
+  {
+    "slug": "san-pietro-a-mare",
+    "url": "https://www.sardegnaturismo.it/it/esplora/san-pietro-a-mare",
+    "retrieved_at_utc": "2026-10-18T08:02:34.050604+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/san-pietro-a-mare"
+  },
+  {
+    "slug": "lu-bagnu",
+    "url": "https://www.sardegnaturismo.it/it/esplora/lu-bagnu",
+    "retrieved_at_utc": "2026-10-18T08:02:34.145659+00:00",
+    "http_status": 200,
+    "title": "Lu Bagnu | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.906410918744,
+        "lon": 8.68939087368,
+        "entity_id": "14557"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "platamona",
+    "url": "https://www.sardegnaturismo.it/it/esplora/platamona",
+    "retrieved_at_utc": "2026-10-18T08:02:34.485407+00:00",
+    "http_status": 200,
+    "title": "Platamona | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.818995701188,
+        "lon": 8.467293137512,
+        "entity_id": "14423"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "le-saline",
+    "url": "https://www.sardegnaturismo.it/it/esplora/le-saline",
+    "retrieved_at_utc": "2026-10-18T08:02:34.645739+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/le-saline"
+  },
+  {
+    "slug": "la-pelosa",
+    "url": "https://www.sardegnaturismo.it/it/esplora/la-pelosa",
+    "retrieved_at_utc": "2026-10-18T08:02:35.343425+00:00",
+    "http_status": 200,
+    "title": "La Pelosa | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.9656,
+        "lon": 8.20936,
+        "entity_id": "14630"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "cala-coscia-di-donna",
+    "url": "https://www.sardegnaturismo.it/it/esplora/cala-coscia-di-donna",
+    "retrieved_at_utc": "2026-10-18T08:02:35.682897+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/cala-coscia-di-donna"
+  },
+  {
+    "slug": "argentiera",
+    "url": "https://www.sardegnaturismo.it/it/esplora/argentiera",
+    "retrieved_at_utc": "2026-10-18T08:02:36.310420+00:00",
+    "http_status": 200,
+    "title": "Argentiera | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.739260131809,
+        "lon": 8.146456804199,
+        "entity_id": "258501"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "porto-ferro",
+    "url": "https://www.sardegnaturismo.it/it/esplora/porto-ferro",
+    "retrieved_at_utc": "2026-10-18T08:02:37.005958+00:00",
+    "http_status": 200,
+    "title": "Porto Ferro | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.6835,
+        "lon": 8.2059,
+        "entity_id": "13941"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "mugoni",
+    "url": "https://www.sardegnaturismo.it/it/esplora/mugoni",
+    "retrieved_at_utc": "2026-10-18T08:02:37.678333+00:00",
+    "http_status": 200,
+    "title": "Mugoni | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.6198703,
+        "lon": 8.2031409,
+        "entity_id": "14694"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "le-bombarde",
+    "url": "https://www.sardegnaturismo.it/it/esplora/le-bombarde",
+    "retrieved_at_utc": "2026-10-18T08:02:38.044477+00:00",
+    "http_status": 200,
+    "title": "Le Bombarde | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.584419250543,
+        "lon": 8.257842100525,
+        "entity_id": "15096"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "lido-di-san-giovanni",
+    "url": "https://www.sardegnaturismo.it/it/esplora/lido-di-san-giovanni",
+    "retrieved_at_utc": "2026-10-18T08:02:38.343929+00:00",
+    "http_status": 200,
+    "title": "Lido di San Giovanni | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.573,
+        "lon": 8.31705,
+        "entity_id": "15115"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "spiaggia-della-speranza",
+    "url": "https://www.sardegnaturismo.it/it/esplora/spiaggia-della-speranza",
+    "retrieved_at_utc": "2026-10-18T08:02:38.429942+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/spiaggia-della-speranza"
+  },
+  {
+    "slug": "porto-alabe",
+    "url": "https://www.sardegnaturismo.it/it/esplora/porto-alabe",
+    "retrieved_at_utc": "2026-10-18T08:02:39.042954+00:00",
+    "http_status": 200,
+    "title": "Porto Alabe | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.243773256883,
+        "lon": 8.474520846558,
+        "entity_id": "14556"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "bosa-marina",
+    "url": "https://www.sardegnaturismo.it/it/esplora/bosa-marina",
+    "retrieved_at_utc": "2026-10-18T08:02:39.115288+00:00",
+    "http_status": 200,
+    "title": "Bosa Marina | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.2879,
+        "lon": 8.47946,
+        "entity_id": "14569"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "santa-caterina-di-pittinuri",
+    "url": "https://www.sardegnaturismo.it/it/esplora/santa-caterina-di-pittinuri",
+    "retrieved_at_utc": "2026-10-18T08:02:39.262895+00:00",
+    "http_status": 200,
+    "title": "Santa Caterina di Pittinuri | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.1029,
+        "lon": 8.49134,
+        "entity_id": "14152"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "sarchittu",
+    "url": "https://www.sardegnaturismo.it/it/esplora/sarchittu",
+    "retrieved_at_utc": "2026-10-18T08:02:40.551466+00:00",
+    "http_status": 200,
+    "title": "S'Archittu | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.094953766937,
+        "lon": 8.487549768018,
+        "entity_id": "14190"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "is-arenas",
+    "url": "https://www.sardegnaturismo.it/it/esplora/is-arenas",
+    "retrieved_at_utc": "2026-10-18T08:02:41.704887+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/is-arenas"
+  },
+  {
+    "slug": "putzu-idu",
+    "url": "https://www.sardegnaturismo.it/it/esplora/putzu-idu",
+    "retrieved_at_utc": "2026-10-18T08:02:41.768007+00:00",
+    "http_status": 200,
+    "title": "Putzu Idu | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.0283,
+        "lon": 8.40734,
+        "entity_id": "14342"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "is-arutas",
+    "url": "https://www.sardegnaturismo.it/it/esplora/is-arutas",
+    "retrieved_at_utc": "2026-10-18T08:02:42.330974+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/is-arutas"
+  },
+  {
+    "slug": "san-giovanni-di-sinis",
+    "url": "https://www.sardegnaturismo.it/it/esplora/san-giovanni-di-sinis",
+    "retrieved_at_utc": "2026-10-18T08:02:42.331767+00:00",
+    "http_status": 200,
+    "title": "San Giovanni di Sinis | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.8801,
+        "lon": 8.43719,
+        "entity_id": "14738"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "torregrande",
+    "url": "https://www.sardegnaturismo.it/it/esplora/torregrande",
+    "retrieved_at_utc": "2026-10-18T08:02:43.073388+00:00",
+    "http_status": 200,
+    "title": "Torregrande | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.905643974608,
+        "lon": 8.516754595185,
+        "entity_id": "14750"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "arborea",
+    "url": "https://www.sardegnaturismo.it/it/esplora/arborea",
+    "retrieved_at_utc": "2026-10-18T08:02:43.448343+00:00",
+    "http_status": 200,
+    "title": "Arborea | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.773,
+        "lon": 8.58376,
+        "entity_id": "15098"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "marceddi",
+    "url": "https://www.sardegnaturismo.it/it/esplora/marceddi",
+    "retrieved_at_utc": "2026-10-18T08:02:44.625448+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/marceddi"
+  },
+  {
+    "slug": "torre-dei-corsari",
+    "url": "https://www.sardegnaturismo.it/it/esplora/torre-dei-corsari",
+    "retrieved_at_utc": "2026-10-18T08:02:44.645340+00:00",
+    "http_status": 200,
+    "title": "Torre dei Corsari | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.6798377,
+        "lon": 8.4526986,
+        "entity_id": "14105"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "marina-di-arbus",
+    "url": "https://www.sardegnaturismo.it/it/esplora/marina-di-arbus",
+    "retrieved_at_utc": "2026-10-18T08:02:45.266991+00:00",
+    "http_status": 200,
+    "title": "Marina di Arbus | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.5981321,
+        "lon": 8.4710195,
+        "entity_id": "14343"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "piscinas",
+    "url": "https://www.sardegnaturismo.it/it/esplora/piscinas",
+    "retrieved_at_utc": "2026-10-18T08:02:46.331558+00:00",
+    "http_status": 200,
+    "title": "Piscinas | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.074435015649,
+        "lon": 8.666196772461,
+        "entity_id": "14002"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "scivu",
+    "url": "https://www.sardegnaturismo.it/it/esplora/scivu",
+    "retrieved_at_utc": "2026-10-18T08:02:46.351865+00:00",
+    "http_status": 200,
+    "title": "Scivu | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.495420796075,
+        "lon": 8.412219560852,
+        "entity_id": "14087"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "portixeddu",
+    "url": "https://www.sardegnaturismo.it/it/esplora/portixeddu",
+    "retrieved_at_utc": "2026-10-18T08:02:46.620360+00:00",
+    "http_status": 200,
+    "title": "Portixeddu | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.442165,
+        "lon": 8.4103697,
+        "entity_id": "29391"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "buggerru",
+    "url": "https://www.sardegnaturismo.it/it/esplora/buggerru",
+    "retrieved_at_utc": "2026-10-18T08:02:46.817139+00:00",
+    "http_status": 200,
+    "title": "Buggerru | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.3959,
+        "lon": 8.40227,
+        "entity_id": "15157"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "cala-domestica",
+    "url": "https://www.sardegnaturismo.it/it/esplora/cala-domestica",
+    "retrieved_at_utc": "2026-10-18T08:02:46.897701+00:00",
+    "http_status": 200,
+    "title": "Cala Domestica | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.373,
+        "lon": 8.38005,
+        "entity_id": "14009"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "masua",
+    "url": "https://www.sardegnaturismo.it/it/esplora/masua",
+    "retrieved_at_utc": "2026-10-18T08:02:49.107208+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/masua"
+  },
+  {
+    "slug": "fontanamare",
+    "url": "https://www.sardegnaturismo.it/it/esplora/fontanamare",
+    "retrieved_at_utc": "2026-10-18T08:02:49.222919+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/fontanamare"
+  },
+  {
+    "slug": "portoscuso",
+    "url": "https://www.sardegnaturismo.it/it/esplora/portoscuso",
+    "retrieved_at_utc": "2026-10-18T08:02:49.240579+00:00",
+    "http_status": 200,
+    "title": "Portoscuso | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.2045,
+        "lon": 8.38019,
+        "entity_id": "13983"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "cala-lunga-santantioco",
+    "url": "https://www.sardegnaturismo.it/it/esplora/cala-lunga-santantioco",
+    "retrieved_at_utc": "2026-10-18T08:02:49.419158+00:00",
+    "http_status": 200,
+    "title": "Cala Lunga - Sant'Antioco | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.023133406579,
+        "lon": 8.374198134918,
+        "entity_id": "14900"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "spiaggia-grande",
+    "url": "https://www.sardegnaturismo.it/it/esplora/spiaggia-grande",
+    "retrieved_at_utc": "2026-10-18T08:02:49.717509+00:00",
+    "http_status": 200,
+    "title": "Spiaggia Grande | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.084015705374,
+        "lon": 8.357601222229,
+        "entity_id": "14952"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "cala-sapone",
+    "url": "https://www.sardegnaturismo.it/it/esplora/cala-sapone",
+    "retrieved_at_utc": "2026-10-18T08:02:49.761896+00:00",
+    "http_status": 200,
+    "title": "Cala Sapone | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.01639882826,
+        "lon": 8.407654317627,
+        "entity_id": "14916"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "coaquaddus",
+    "url": "https://www.sardegnaturismo.it/it/esplora/coaquaddus",
+    "retrieved_at_utc": "2026-10-18T08:02:51.739750+00:00",
+    "http_status": 200,
+    "title": "Coaquaddus | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 38.9796,
+        "lon": 8.44233,
+        "entity_id": "14085"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "maladroxia",
+    "url": "https://www.sardegnaturismo.it/it/esplora/maladroxia",
+    "retrieved_at_utc": "2026-10-18T08:02:51.777765+00:00",
+    "http_status": 200,
+    "title": "Maladroxia | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 38.999191131482,
+        "lon": 8.448878306332,
+        "entity_id": "14332"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "porto-botte",
+    "url": "https://www.sardegnaturismo.it/it/esplora/porto-botte",
+    "retrieved_at_utc": "2026-10-18T08:02:51.874331+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/porto-botte"
+  },
+  {
+    "slug": "porto-pino",
+    "url": "https://www.sardegnaturismo.it/it/esplora/porto-pino",
+    "retrieved_at_utc": "2026-10-18T08:02:52.025494+00:00",
+    "http_status": 200,
+    "title": "Porto Pino | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 38.96230877444,
+        "lon": 8.606341525192,
+        "entity_id": "14162"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "porto-tramatzu",
+    "url": "https://www.sardegnaturismo.it/it/esplora/porto-tramatzu",
+    "retrieved_at_utc": "2026-10-18T08:02:52.483666+00:00",
+    "http_status": 200,
+    "title": "Porto Tramatzu | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 38.920900642087,
+        "lon": 8.710699081421,
+        "entity_id": "14749"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "tuerredda",
+    "url": "https://www.sardegnaturismo.it/it/esplora/tuerredda",
+    "retrieved_at_utc": "2026-10-18T08:02:53.233999+00:00",
+    "http_status": 200,
+    "title": "Tuerredda | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 38.89475529445,
+        "lon": 8.813109506607,
+        "entity_id": "14652"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "su-giudeu",
+    "url": "https://www.sardegnaturismo.it/it/esplora/su-giudeu",
+    "retrieved_at_utc": "2026-10-18T08:02:53.480632+00:00",
+    "http_status": 200,
+    "title": "Su Giudeu | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 38.883152754619,
+        "lon": 8.862130783081,
+        "entity_id": "14814"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "chia",
+    "url": "https://www.sardegnaturismo.it/it/esplora/chia",
+    "retrieved_at_utc": "2026-10-18T08:02:53.674037+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/chia"
+  },
+  {
+    "slug": "santa-margherita-di-pula",
+    "url": "https://www.sardegnaturismo.it/it/esplora/santa-margherita-di-pula",
+    "retrieved_at_utc": "2026-10-18T08:02:53.866663+00:00",
+    "http_status": 200,
+    "title": "Santa Margherita di Pula | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 38.9277,
+        "lon": 8.9257,
+        "entity_id": "13920"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "nora",
+    "url": "https://www.sardegnaturismo.it/it/esplora/nora",
+    "retrieved_at_utc": "2026-10-18T08:02:53.999732+00:00",
+    "http_status": 200,
+    "title": "Nora | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 38.987724092415,
+        "lon": 9.013874530792,
+        "entity_id": "14221"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "maddalena-spiaggia",
+    "url": "https://www.sardegnaturismo.it/it/esplora/maddalena-spiaggia",
+    "retrieved_at_utc": "2026-10-18T08:02:54.057629+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/maddalena-spiaggia"
+  },
+  {
+    "slug": "piscinas-costa-verde",
+    "url": "https://www.sardegnaturismo.it/it/esplora/piscinas-costa-verde",
+    "retrieved_at_utc": "2026-10-18T08:04:19.204991+00:00",
+    "http_status": 200,
+    "title": "Piscinas - Costa Verde | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.540521854752,
+        "lon": 8.448967041942,
+        "entity_id": "14632"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "rena-majori",
+    "url": "https://www.sardegnaturismo.it/it/esplora/rena-majori",
+    "retrieved_at_utc": "2026-10-18T08:04:19.205522+00:00",
+    "http_status": 200,
+    "title": "Rena Majori | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 41.1738,
+        "lon": 9.17181,
+        "entity_id": "14996"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "vignola-mare-aglientu",
+    "url": "https://www.sardegnaturismo.it/it/esplora/vignola-mare-aglientu",
+    "retrieved_at_utc": "2026-10-18T08:04:19.205641+00:00",
+    "http_status": 200,
+    "title": "Vignola Mare - Aglientu | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 41.126911,
+        "lon": 9.0628603,
+        "entity_id": "261501"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "spiaggia-longa-isola-rossa",
+    "url": "https://www.sardegnaturismo.it/it/esplora/spiaggia-longa-isola-rossa",
+    "retrieved_at_utc": "2026-10-18T08:04:19.569102+00:00",
+    "http_status": 200,
+    "title": "Spiaggia Longa - Isola Rossa | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 41.010058,
+        "lon": 8.8770282,
+        "entity_id": "261571"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "li-cossi",
+    "url": "https://www.sardegnaturismo.it/it/esplora/li-cossi",
+    "retrieved_at_utc": "2026-10-18T08:04:19.630982+00:00",
+    "http_status": 200,
+    "title": "Li Cossi | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 41.046,
+        "lon": 8.93615,
+        "entity_id": "14951"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "li-junchi-badesi",
+    "url": "https://www.sardegnaturismo.it/it/esplora/li-junchi-badesi",
+    "retrieved_at_utc": "2026-10-18T08:04:19.719801+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/li-junchi-badesi"
+  },
+  {
+    "slug": "san-pietro-valledoria",
+    "url": "https://www.sardegnaturismo.it/it/esplora/san-pietro-valledoria",
+    "retrieved_at_utc": "2026-10-18T08:04:20.121362+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/san-pietro-valledoria"
+  },
+  {
+    "slug": "le-saline-stintino",
+    "url": "https://www.sardegnaturismo.it/it/esplora/le-saline-stintino",
+    "retrieved_at_utc": "2026-10-18T08:04:20.491273+00:00",
+    "http_status": 200,
+    "title": "Le Saline - Stintino | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.9378569,
+        "lon": 8.223955,
+        "entity_id": "280076"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "is-arutas-cabras",
+    "url": "https://www.sardegnaturismo.it/it/esplora/is-arutas-cabras",
+    "retrieved_at_utc": "2026-10-18T08:04:20.913192+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/is-arutas-cabras"
+  },
+  {
+    "slug": "masua-iglesias",
+    "url": "https://www.sardegnaturismo.it/it/esplora/masua-iglesias",
+    "retrieved_at_utc": "2026-10-18T08:04:21.548865+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/masua-iglesias"
+  },
+  {
+    "slug": "funtanamare",
+    "url": "https://www.sardegnaturismo.it/it/esplora/funtanamare",
+    "retrieved_at_utc": "2026-10-18T08:04:21.566540+00:00",
+    "http_status": 200,
+    "title": "Funtanamare | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 39.291759769041,
+        "lon": 8.438281440967,
+        "entity_id": "259191"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "cartoe",
+    "url": "https://www.sardegnaturismo.it/it/esplora/cartoe",
+    "retrieved_at_utc": "2026-10-18T08:04:22.257798+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/cartoe"
+  },
+  {
+    "slug": "cala-brandinchi",
+    "url": "https://www.sardegnaturismo.it/it/esplora/cala-brandinchi",
+    "retrieved_at_utc": "2026-10-18T08:04:22.307328+00:00",
+    "http_status": 200,
+    "title": "Cala Brandinchi | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.834719,
+        "lon": 9.6858272,
+        "entity_id": "14703"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "porto-taverna-loiri-porto-san-paolo",
+    "url": "https://www.sardegnaturismo.it/it/esplora/porto-taverna-loiri-porto-san-paolo",
+    "retrieved_at_utc": "2026-10-18T08:04:22.626637+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/porto-taverna-loiri-porto-san-paolo"
+  },
+  {
+    "slug": "pittulongu-olbia",
+    "url": "https://www.sardegnaturismo.it/it/esplora/pittulongu-olbia",
+    "retrieved_at_utc": "2026-10-18T08:04:22.953936+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/pittulongu-olbia"
+  },
+  {
+    "slug": "cala-sassari",
+    "url": "https://www.sardegnaturismo.it/it/esplora/cala-sassari",
+    "retrieved_at_utc": "2026-10-18T08:04:23.259705+00:00",
+    "http_status": 200,
+    "title": "Cala Sassari | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna",
+    "reference_points": [
+      {
+        "lat": 40.9873,
+        "lon": 9.58556,
+        "entity_id": "14044"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "slug": "rena-bianca-portisco",
+    "url": "https://www.sardegnaturismo.it/it/esplora/rena-bianca-portisco",
+    "retrieved_at_utc": "2026-10-18T08:04:23.295925+00:00",
+    "http_status": 404,
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.sardegnaturismo.it/it/esplora/rena-bianca-portisco"
+  }
+]

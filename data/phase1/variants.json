@@ -1,0 +1,1188 @@
+{
+  "flex-ccw": [
+    {
+      "number": 1,
+      "stops": [
+        "poetto",
+        "geremeas",
+        "porto-giunco",
+        "cala-sinzias",
+        "torre-salinas"
+      ],
+      "path": [
+        "poetto",
+        "geremeas",
+        "porto-giunco",
+        "cala-sinzias",
+        "torre-salinas"
+      ],
+      "km": 70.79050000000001,
+      "hours": 2.8316200000000005,
+      "longest_nonstop_km": 21.3486,
+      "modules": [
+        1
+      ]
+    },
+    {
+      "number": 2,
+      "stops": [
+        "torre-salinas",
+        "porto-corallo",
+        "murtas",
+        "torre-di-bari",
+        "porto-frailis"
+      ],
+      "path": [
+        "torre-salinas",
+        "porto-corallo",
+        "murtas",
+        "torre-di-bari",
+        "porto-frailis"
+      ],
+      "km": 64.8172,
+      "hours": 2.592688,
+      "longest_nonstop_km": 35.8936,
+      "modules": [
+        2
+      ]
+    },
+    {
+      "number": 3,
+      "stops": [
+        "porto-frailis",
+        "santa-maria-navarrese",
+        "cala-mariolu",
+        "cala-luna",
+        "cala-gonone"
+      ],
+      "path": [
+        "porto-frailis",
+        "santa-maria-navarrese",
+        "cala-mariolu",
+        "cala-luna",
+        "cala-gonone"
+      ],
+      "km": 46.1862,
+      "hours": 1.847448,
+      "longest_nonstop_km": 18.469,
+      "modules": [
+        3
+      ]
+    },
+    {
+      "number": 4,
+      "stops": [
+        "cala-gonone",
+        "marina-di-orosei",
+        "berchida",
+        "la-caletta",
+        "la-cinta"
+      ],
+      "path": [
+        "cala-gonone",
+        "marina-di-orosei",
+        "berchida",
+        "la-caletta",
+        "la-cinta"
+      ],
+      "km": 66.9663,
+      "hours": 2.678652,
+      "longest_nonstop_km": 22.2473,
+      "modules": [
+        4
+      ]
+    },
+    {
+      "number": 5,
+      "stops": [
+        "la-cinta",
+        "porto-istana",
+        "cala-sassari",
+        "liscia-ruja",
+        "baja-sardinia"
+      ],
+      "path": [
+        "la-cinta",
+        "porto-istana",
+        "cala-sassari",
+        "liscia-ruja",
+        "baja-sardinia"
+      ],
+      "km": 71.8691,
+      "hours": 2.8747640000000003,
+      "longest_nonstop_km": 21.8896,
+      "modules": [
+        5
+      ]
+    },
+    {
+      "number": 6,
+      "stops": [
+        "baja-sardinia",
+        "cannigione",
+        "porto-pollo",
+        "rena-bianca"
+      ],
+      "path": [
+        "baja-sardinia",
+        "cannigione",
+        "porto-pollo",
+        "rena-bianca"
+      ],
+      "km": 42.1292,
+      "hours": 1.685168,
+      "longest_nonstop_km": 19.2772,
+      "modules": [
+        6
+      ]
+    },
+    {
+      "number": 7,
+      "stops": [
+        "rena-bianca",
+        "rena-majori",
+        "vignola-mare-aglientu",
+        "spiaggia-longa-isola-rossa",
+        "li-junchi"
+      ],
+      "path": [
+        "rena-bianca",
+        "rena-majori",
+        "vignola-mare-aglientu",
+        "spiaggia-longa-isola-rossa",
+        "li-junchi"
+      ],
+      "km": 53.0876,
+      "hours": 2.123504,
+      "longest_nonstop_km": 23.5562,
+      "modules": [
+        7
+      ]
+    },
+    {
+      "number": 8,
+      "stops": [
+        "li-junchi",
+        "lu-bagnu",
+        "platamona",
+        "la-pelosa"
+      ],
+      "path": [
+        "li-junchi",
+        "lu-bagnu",
+        "platamona",
+        "la-pelosa"
+      ],
+      "km": 63.607800000000005,
+      "hours": 2.544312,
+      "longest_nonstop_km": 27.2493,
+      "modules": [
+        8
+      ]
+    },
+    {
+      "number": 9,
+      "stops": [
+        "la-pelosa",
+        "argentiera",
+        "porto-ferro",
+        "mugoni",
+        "porto-conte"
+      ],
+      "path": [
+        "la-pelosa",
+        "argentiera",
+        "porto-ferro",
+        "mugoni",
+        "porto-conte"
+      ],
+      "km": 65.2036,
+      "hours": 2.608144,
+      "longest_nonstop_km": 28.2111,
+      "modules": [
+        9
+      ]
+    },
+    {
+      "number": 10,
+      "stops": [
+        "porto-conte",
+        "le-bombarde",
+        "lido-di-san-giovanni",
+        "bosa-marina"
+      ],
+      "path": [
+        "porto-conte",
+        "le-bombarde",
+        "lido-di-san-giovanni",
+        "bosa-marina"
+      ],
+      "km": 53.4822,
+      "hours": 2.139288,
+      "longest_nonstop_km": 37.985,
+      "modules": [
+        10
+      ]
+    },
+    {
+      "number": 11,
+      "stops": [
+        "bosa-marina",
+        "santa-caterina-di-pittinuri",
+        "putzu-idu",
+        "san-giovanni-di-sinis",
+        "torregrande"
+      ],
+      "path": [
+        "bosa-marina",
+        "santa-caterina-di-pittinuri",
+        "putzu-idu",
+        "san-giovanni-di-sinis",
+        "torregrande"
+      ],
+      "km": 67.4986,
+      "hours": 2.699944,
+      "longest_nonstop_km": 21.6245,
+      "modules": [
+        11
+      ]
+    },
+    {
+      "number": 12,
+      "stops": [
+        "torregrande",
+        "torre-dei-corsari",
+        "marina-di-arbus",
+        "piscinas-costa-verde"
+      ],
+      "path": [
+        "torregrande",
+        "torre-dei-corsari",
+        "marina-di-arbus",
+        "piscinas-costa-verde"
+      ],
+      "km": 43.2769,
+      "hours": 1.7310759999999998,
+      "longest_nonstop_km": 26.4714,
+      "modules": [
+        12
+      ]
+    },
+    {
+      "number": 13,
+      "stops": [
+        "piscinas-costa-verde",
+        "portixeddu",
+        "funtanamare",
+        "portoscuso",
+        "spiaggia-grande"
+      ],
+      "path": [
+        "piscinas-costa-verde",
+        "portixeddu",
+        "funtanamare",
+        "portoscuso",
+        "spiaggia-grande"
+      ],
+      "km": 60.6839,
+      "hours": 2.427356,
+      "longest_nonstop_km": 19.6253,
+      "modules": [
+        13
+      ]
+    },
+    {
+      "number": 14,
+      "stops": [
+        "spiaggia-grande",
+        "cala-lunga-santantioco",
+        "coaquaddus",
+        "porto-pino"
+      ],
+      "path": [
+        "spiaggia-grande",
+        "cala-lunga-santantioco",
+        "coaquaddus",
+        "porto-pino"
+      ],
+      "km": 36.4609,
+      "hours": 1.458436,
+      "longest_nonstop_km": 14.5077,
+      "modules": [
+        14
+      ]
+    },
+    {
+      "number": 15,
+      "stops": [
+        "porto-pino",
+        "porto-tramatzu",
+        "tuerredda",
+        "su-giudeu"
+      ],
+      "path": [
+        "porto-pino",
+        "porto-tramatzu",
+        "tuerredda",
+        "su-giudeu"
+      ],
+      "km": 37.9985,
+      "hours": 1.51994,
+      "longest_nonstop_km": 21.4193,
+      "modules": [
+        15
+      ]
+    },
+    {
+      "number": 16,
+      "stops": [
+        "su-giudeu",
+        "santa-margherita-di-pula",
+        "nora",
+        "poetto"
+      ],
+      "path": [
+        "su-giudeu",
+        "santa-margherita-di-pula",
+        "nora",
+        "poetto"
+      ],
+      "km": 46.7155,
+      "hours": 1.86862,
+      "longest_nonstop_km": 27.4529,
+      "modules": [
+        16
+      ]
+    }
+  ],
+  "flex-cw": [
+    {
+      "number": 1,
+      "stops": [
+        "poetto",
+        "nora",
+        "santa-margherita-di-pula",
+        "su-giudeu"
+      ],
+      "path": [
+        "poetto",
+        "nora",
+        "santa-margherita-di-pula",
+        "su-giudeu"
+      ],
+      "km": 46.7155,
+      "hours": 1.86862,
+      "longest_nonstop_km": 27.4529,
+      "modules": [
+        16
+      ]
+    },
+    {
+      "number": 2,
+      "stops": [
+        "su-giudeu",
+        "tuerredda",
+        "porto-tramatzu",
+        "porto-pino"
+      ],
+      "path": [
+        "su-giudeu",
+        "tuerredda",
+        "porto-tramatzu",
+        "porto-pino"
+      ],
+      "km": 37.9985,
+      "hours": 1.51994,
+      "longest_nonstop_km": 21.4193,
+      "modules": [
+        15
+      ]
+    },
+    {
+      "number": 3,
+      "stops": [
+        "porto-pino",
+        "coaquaddus",
+        "cala-lunga-santantioco",
+        "spiaggia-grande"
+      ],
+      "path": [
+        "porto-pino",
+        "coaquaddus",
+        "cala-lunga-santantioco",
+        "spiaggia-grande"
+      ],
+      "km": 36.4609,
+      "hours": 1.458436,
+      "longest_nonstop_km": 14.5077,
+      "modules": [
+        14
+      ]
+    },
+    {
+      "number": 4,
+      "stops": [
+        "spiaggia-grande",
+        "portoscuso",
+        "funtanamare",
+        "portixeddu",
+        "piscinas-costa-verde"
+      ],
+      "path": [
+        "spiaggia-grande",
+        "portoscuso",
+        "funtanamare",
+        "portixeddu",
+        "piscinas-costa-verde"
+      ],
+      "km": 60.6839,
+      "hours": 2.427356,
+      "longest_nonstop_km": 19.6253,
+      "modules": [
+        13
+      ]
+    },
+    {
+      "number": 5,
+      "stops": [
+        "piscinas-costa-verde",
+        "marina-di-arbus",
+        "torre-dei-corsari",
+        "torregrande"
+      ],
+      "path": [
+        "piscinas-costa-verde",
+        "marina-di-arbus",
+        "torre-dei-corsari",
+        "torregrande"
+      ],
+      "km": 43.2769,
+      "hours": 1.7310759999999998,
+      "longest_nonstop_km": 26.4714,
+      "modules": [
+        12
+      ]
+    },
+    {
+      "number": 6,
+      "stops": [
+        "torregrande",
+        "san-giovanni-di-sinis",
+        "putzu-idu",
+        "santa-caterina-di-pittinuri",
+        "bosa-marina"
+      ],
+      "path": [
+        "torregrande",
+        "san-giovanni-di-sinis",
+        "putzu-idu",
+        "santa-caterina-di-pittinuri",
+        "bosa-marina"
+      ],
+      "km": 67.4986,
+      "hours": 2.699944,
+      "longest_nonstop_km": 21.6245,
+      "modules": [
+        11
+      ]
+    },
+    {
+      "number": 7,
+      "stops": [
+        "bosa-marina",
+        "lido-di-san-giovanni",
+        "le-bombarde",
+        "porto-conte"
+      ],
+      "path": [
+        "bosa-marina",
+        "lido-di-san-giovanni",
+        "le-bombarde",
+        "porto-conte"
+      ],
+      "km": 53.4822,
+      "hours": 2.139288,
+      "longest_nonstop_km": 37.985,
+      "modules": [
+        10
+      ]
+    },
+    {
+      "number": 8,
+      "stops": [
+        "porto-conte",
+        "mugoni",
+        "porto-ferro",
+        "argentiera",
+        "la-pelosa"
+      ],
+      "path": [
+        "porto-conte",
+        "mugoni",
+        "porto-ferro",
+        "argentiera",
+        "la-pelosa"
+      ],
+      "km": 65.2036,
+      "hours": 2.608144,
+      "longest_nonstop_km": 28.2111,
+      "modules": [
+        9
+      ]
+    },
+    {
+      "number": 9,
+      "stops": [
+        "la-pelosa",
+        "platamona",
+        "lu-bagnu",
+        "li-junchi"
+      ],
+      "path": [
+        "la-pelosa",
+        "platamona",
+        "lu-bagnu",
+        "li-junchi"
+      ],
+      "km": 63.607800000000005,
+      "hours": 2.544312,
+      "longest_nonstop_km": 27.2493,
+      "modules": [
+        8
+      ]
+    },
+    {
+      "number": 10,
+      "stops": [
+        "li-junchi",
+        "spiaggia-longa-isola-rossa",
+        "vignola-mare-aglientu",
+        "rena-majori",
+        "rena-bianca"
+      ],
+      "path": [
+        "li-junchi",
+        "spiaggia-longa-isola-rossa",
+        "vignola-mare-aglientu",
+        "rena-majori",
+        "rena-bianca"
+      ],
+      "km": 53.0876,
+      "hours": 2.123504,
+      "longest_nonstop_km": 23.5562,
+      "modules": [
+        7
+      ]
+    },
+    {
+      "number": 11,
+      "stops": [
+        "rena-bianca",
+        "porto-pollo",
+        "cannigione",
+        "baja-sardinia"
+      ],
+      "path": [
+        "rena-bianca",
+        "porto-pollo",
+        "cannigione",
+        "baja-sardinia"
+      ],
+      "km": 42.1292,
+      "hours": 1.685168,
+      "longest_nonstop_km": 19.2772,
+      "modules": [
+        6
+      ]
+    },
+    {
+      "number": 12,
+      "stops": [
+        "baja-sardinia",
+        "liscia-ruja",
+        "cala-sassari",
+        "porto-istana",
+        "la-cinta"
+      ],
+      "path": [
+        "baja-sardinia",
+        "liscia-ruja",
+        "cala-sassari",
+        "porto-istana",
+        "la-cinta"
+      ],
+      "km": 71.8691,
+      "hours": 2.8747640000000003,
+      "longest_nonstop_km": 21.8896,
+      "modules": [
+        5
+      ]
+    },
+    {
+      "number": 13,
+      "stops": [
+        "la-cinta",
+        "la-caletta",
+        "berchida",
+        "marina-di-orosei",
+        "cala-gonone"
+      ],
+      "path": [
+        "la-cinta",
+        "la-caletta",
+        "berchida",
+        "marina-di-orosei",
+        "cala-gonone"
+      ],
+      "km": 66.9663,
+      "hours": 2.678652,
+      "longest_nonstop_km": 22.2473,
+      "modules": [
+        4
+      ]
+    },
+    {
+      "number": 14,
+      "stops": [
+        "cala-gonone",
+        "cala-luna",
+        "cala-mariolu",
+        "santa-maria-navarrese",
+        "porto-frailis"
+      ],
+      "path": [
+        "cala-gonone",
+        "cala-luna",
+        "cala-mariolu",
+        "santa-maria-navarrese",
+        "porto-frailis"
+      ],
+      "km": 46.1862,
+      "hours": 1.847448,
+      "longest_nonstop_km": 18.469,
+      "modules": [
+        3
+      ]
+    },
+    {
+      "number": 15,
+      "stops": [
+        "porto-frailis",
+        "torre-di-bari",
+        "murtas",
+        "porto-corallo",
+        "torre-salinas"
+      ],
+      "path": [
+        "porto-frailis",
+        "torre-di-bari",
+        "murtas",
+        "porto-corallo",
+        "torre-salinas"
+      ],
+      "km": 64.8172,
+      "hours": 2.592688,
+      "longest_nonstop_km": 35.8936,
+      "modules": [
+        2
+      ]
+    },
+    {
+      "number": 16,
+      "stops": [
+        "torre-salinas",
+        "cala-sinzias",
+        "porto-giunco",
+        "geremeas",
+        "poetto"
+      ],
+      "path": [
+        "torre-salinas",
+        "cala-sinzias",
+        "porto-giunco",
+        "geremeas",
+        "poetto"
+      ],
+      "km": 70.79050000000001,
+      "hours": 2.8316200000000005,
+      "longest_nonstop_km": 21.3486,
+      "modules": [
+        1
+      ]
+    }
+  ],
+  "kompakt-ccw": [
+    {
+      "number": 1,
+      "stops": [
+        "poetto",
+        "geremeas",
+        "porto-giunco",
+        "cala-sinzias",
+        "torre-salinas"
+      ],
+      "path": [
+        "poetto",
+        "geremeas",
+        "porto-giunco",
+        "cala-sinzias",
+        "torre-salinas"
+      ],
+      "km": 70.79050000000001,
+      "hours": 2.8316200000000005,
+      "longest_nonstop_km": 21.3486,
+      "modules": [
+        1
+      ]
+    },
+    {
+      "number": 2,
+      "stops": [
+        "torre-salinas",
+        "porto-corallo",
+        "murtas",
+        "torre-di-bari",
+        "porto-frailis"
+      ],
+      "path": [
+        "torre-salinas",
+        "porto-corallo",
+        "murtas",
+        "torre-di-bari",
+        "porto-frailis"
+      ],
+      "km": 64.8172,
+      "hours": 2.592688,
+      "longest_nonstop_km": 35.8936,
+      "modules": [
+        2
+      ]
+    },
+    {
+      "number": 3,
+      "stops": [
+        "porto-frailis",
+        "cala-luna",
+        "marina-di-orosei",
+        "la-caletta",
+        "la-cinta"
+      ],
+      "path": [
+        "porto-frailis",
+        "santa-maria-navarrese",
+        "cala-mariolu",
+        "cala-luna",
+        "cala-gonone",
+        "marina-di-orosei",
+        "berchida",
+        "la-caletta",
+        "la-cinta"
+      ],
+      "km": 113.1525,
+      "hours": 4.5261000000000005,
+      "longest_nonstop_km": 39.7511,
+      "modules": [
+        3,
+        4
+      ]
+    },
+    {
+      "number": 4,
+      "stops": [
+        "la-cinta",
+        "porto-istana",
+        "baja-sardinia",
+        "porto-pollo",
+        "rena-bianca"
+      ],
+      "path": [
+        "la-cinta",
+        "porto-istana",
+        "cala-sassari",
+        "liscia-ruja",
+        "baja-sardinia",
+        "cannigione",
+        "porto-pollo",
+        "rena-bianca"
+      ],
+      "km": 113.9983,
+      "hours": 4.559932,
+      "longest_nonstop_km": 52.5154,
+      "modules": [
+        5,
+        6
+      ]
+    },
+    {
+      "number": 5,
+      "stops": [
+        "rena-bianca",
+        "vignola-mare-aglientu",
+        "li-junchi",
+        "platamona",
+        "la-pelosa"
+      ],
+      "path": [
+        "rena-bianca",
+        "rena-majori",
+        "vignola-mare-aglientu",
+        "spiaggia-longa-isola-rossa",
+        "li-junchi",
+        "lu-bagnu",
+        "platamona",
+        "la-pelosa"
+      ],
+      "km": 116.6954,
+      "hours": 4.667816,
+      "longest_nonstop_km": 36.3585,
+      "modules": [
+        7,
+        8
+      ]
+    },
+    {
+      "number": 6,
+      "stops": [
+        "la-pelosa",
+        "argentiera",
+        "porto-conte",
+        "lido-di-san-giovanni",
+        "bosa-marina"
+      ],
+      "path": [
+        "la-pelosa",
+        "argentiera",
+        "porto-ferro",
+        "mugoni",
+        "porto-conte",
+        "le-bombarde",
+        "lido-di-san-giovanni",
+        "bosa-marina"
+      ],
+      "km": 118.6858,
+      "hours": 4.747432,
+      "longest_nonstop_km": 37.985,
+      "modules": [
+        9,
+        10
+      ]
+    },
+    {
+      "number": 7,
+      "stops": [
+        "bosa-marina",
+        "putzu-idu",
+        "torregrande",
+        "torre-dei-corsari",
+        "piscinas-costa-verde"
+      ],
+      "path": [
+        "bosa-marina",
+        "santa-caterina-di-pittinuri",
+        "putzu-idu",
+        "san-giovanni-di-sinis",
+        "torregrande",
+        "torre-dei-corsari",
+        "marina-di-arbus",
+        "piscinas-costa-verde"
+      ],
+      "km": 110.7755,
+      "hours": 4.43102,
+      "longest_nonstop_km": 37.4203,
+      "modules": [
+        11,
+        12
+      ]
+    },
+    {
+      "number": 8,
+      "stops": [
+        "piscinas-costa-verde",
+        "funtanamare",
+        "spiaggia-grande",
+        "coaquaddus",
+        "porto-pino"
+      ],
+      "path": [
+        "piscinas-costa-verde",
+        "portixeddu",
+        "funtanamare",
+        "portoscuso",
+        "spiaggia-grande",
+        "cala-lunga-santantioco",
+        "coaquaddus",
+        "porto-pino"
+      ],
+      "km": 97.1448,
+      "hours": 3.8857920000000004,
+      "longest_nonstop_km": 34.3957,
+      "modules": [
+        13,
+        14
+      ]
+    },
+    {
+      "number": 9,
+      "stops": [
+        "porto-pino",
+        "porto-tramatzu",
+        "su-giudeu",
+        "nora",
+        "poetto"
+      ],
+      "path": [
+        "porto-pino",
+        "porto-tramatzu",
+        "tuerredda",
+        "su-giudeu",
+        "santa-margherita-di-pula",
+        "nora",
+        "poetto"
+      ],
+      "km": 84.714,
+      "hours": 3.38856,
+      "longest_nonstop_km": 27.4529,
+      "modules": [
+        15,
+        16
+      ]
+    }
+  ],
+  "kompakt-cw": [
+    {
+      "number": 1,
+      "stops": [
+        "poetto",
+        "nora",
+        "su-giudeu",
+        "porto-tramatzu",
+        "porto-pino"
+      ],
+      "path": [
+        "poetto",
+        "nora",
+        "santa-margherita-di-pula",
+        "su-giudeu",
+        "tuerredda",
+        "porto-tramatzu",
+        "porto-pino"
+      ],
+      "km": 84.714,
+      "hours": 3.38856,
+      "longest_nonstop_km": 27.4529,
+      "modules": [
+        16,
+        15
+      ]
+    },
+    {
+      "number": 2,
+      "stops": [
+        "porto-pino",
+        "coaquaddus",
+        "spiaggia-grande",
+        "funtanamare",
+        "piscinas-costa-verde"
+      ],
+      "path": [
+        "porto-pino",
+        "coaquaddus",
+        "cala-lunga-santantioco",
+        "spiaggia-grande",
+        "portoscuso",
+        "funtanamare",
+        "portixeddu",
+        "piscinas-costa-verde"
+      ],
+      "km": 97.1448,
+      "hours": 3.8857920000000004,
+      "longest_nonstop_km": 34.3957,
+      "modules": [
+        14,
+        13
+      ]
+    },
+    {
+      "number": 3,
+      "stops": [
+        "piscinas-costa-verde",
+        "torre-dei-corsari",
+        "torregrande",
+        "putzu-idu",
+        "bosa-marina"
+      ],
+      "path": [
+        "piscinas-costa-verde",
+        "marina-di-arbus",
+        "torre-dei-corsari",
+        "torregrande",
+        "san-giovanni-di-sinis",
+        "putzu-idu",
+        "santa-caterina-di-pittinuri",
+        "bosa-marina"
+      ],
+      "km": 110.7755,
+      "hours": 4.43102,
+      "longest_nonstop_km": 37.4203,
+      "modules": [
+        12,
+        11
+      ]
+    },
+    {
+      "number": 4,
+      "stops": [
+        "bosa-marina",
+        "lido-di-san-giovanni",
+        "porto-conte",
+        "argentiera",
+        "la-pelosa"
+      ],
+      "path": [
+        "bosa-marina",
+        "lido-di-san-giovanni",
+        "le-bombarde",
+        "porto-conte",
+        "mugoni",
+        "porto-ferro",
+        "argentiera",
+        "la-pelosa"
+      ],
+      "km": 118.6858,
+      "hours": 4.747432,
+      "longest_nonstop_km": 37.985,
+      "modules": [
+        10,
+        9
+      ]
+    },
+    {
+      "number": 5,
+      "stops": [
+        "la-pelosa",
+        "platamona",
+        "li-junchi",
+        "vignola-mare-aglientu",
+        "rena-bianca"
+      ],
+      "path": [
+        "la-pelosa",
+        "platamona",
+        "lu-bagnu",
+        "li-junchi",
+        "spiaggia-longa-isola-rossa",
+        "vignola-mare-aglientu",
+        "rena-majori",
+        "rena-bianca"
+      ],
+      "km": 116.6954,
+      "hours": 4.667816,
+      "longest_nonstop_km": 36.3585,
+      "modules": [
+        8,
+        7
+      ]
+    },
+    {
+      "number": 6,
+      "stops": [
+        "rena-bianca",
+        "porto-pollo",
+        "baja-sardinia",
+        "porto-istana",
+        "la-cinta"
+      ],
+      "path": [
+        "rena-bianca",
+        "porto-pollo",
+        "cannigione",
+        "baja-sardinia",
+        "liscia-ruja",
+        "cala-sassari",
+        "porto-istana",
+        "la-cinta"
+      ],
+      "km": 113.9983,
+      "hours": 4.559932,
+      "longest_nonstop_km": 52.5154,
+      "modules": [
+        6,
+        5
+      ]
+    },
+    {
+      "number": 7,
+      "stops": [
+        "la-cinta",
+        "la-caletta",
+        "marina-di-orosei",
+        "cala-luna",
+        "porto-frailis"
+      ],
+      "path": [
+        "la-cinta",
+        "la-caletta",
+        "berchida",
+        "marina-di-orosei",
+        "cala-gonone",
+        "cala-luna",
+        "cala-mariolu",
+        "santa-maria-navarrese",
+        "porto-frailis"
+      ],
+      "km": 113.1525,
+      "hours": 4.5261000000000005,
+      "longest_nonstop_km": 39.7511,
+      "modules": [
+        4,
+        3
+      ]
+    },
+    {
+      "number": 8,
+      "stops": [
+        "porto-frailis",
+        "torre-di-bari",
+        "murtas",
+        "porto-corallo",
+        "torre-salinas"
+      ],
+      "path": [
+        "porto-frailis",
+        "torre-di-bari",
+        "murtas",
+        "porto-corallo",
+        "torre-salinas"
+      ],
+      "km": 64.8172,
+      "hours": 2.592688,
+      "longest_nonstop_km": 35.8936,
+      "modules": [
+        2
+      ]
+    },
+    {
+      "number": 9,
+      "stops": [
+        "torre-salinas",
+        "cala-sinzias",
+        "porto-giunco",
+        "geremeas",
+        "poetto"
+      ],
+      "path": [
+        "torre-salinas",
+        "cala-sinzias",
+        "porto-giunco",
+        "geremeas",
+        "poetto"
+      ],
+      "km": 70.79050000000001,
+      "hours": 2.8316200000000005,
+      "longest_nonstop_km": 21.3486,
+      "modules": [
+        1
+      ]
+    }
+  ]
+}

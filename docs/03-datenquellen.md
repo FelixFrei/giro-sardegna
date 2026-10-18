@@ -39,7 +39,7 @@ Der Abruf der Küstengeometrie und ihre Eignung für Wasserwege sind noch zu pr�
 
 Konkrete Hotels und Verkaufsstellen zunächst über Geodaten finden, dann mit ihrer eigenen Website bzw. einer geeigneten direkten Quelle abgleichen. Name, Lage und Strandbezug erfassen. Fusswege anhand von Weggeometrien bestimmen; Routingdienste oder OSM-Wege können dabei helfen.
 
-Es wurden noch keine Hotels ausgewählt oder kontaktiert. Saisonöffnung und Zimmerverfügbarkeit werden nicht recherchiert. Eine allgemeine Hotel-API ist für die erste Phase nicht erforderlich; falls später eine genutzt wird, Zugang, Kosten und Nutzungsbedingungen getrennt prüfen.
+Hotelkandidaten sind inzwischen namentlich recherchiert; siehe [Steckbriefe](05-landeplaetze-index.md) und [Quellenregister](10-quellenregister.md). Es wurden keine Betriebe kontaktiert. Tatsächliche Fusswege sind teilweise noch offen. Saisonöffnung und Zimmerverfügbarkeit werden nicht recherchiert. Eine allgemeine Hotel-API ist für die erste Phase nicht erforderlich; falls später eine genutzt wird, Zugang, Kosten und Nutzungsbedingungen getrennt prüfen.
 
 ## Q05 — Open-Meteo Historical Weather API, für Phase 2
 
@@ -74,3 +74,7 @@ Rohantworten: [Sardegna-WFS](../data/source-checks/20261018T071448666973Z/sardeg
 Quellen mit Titel, Anbieter, direkter URL und Abrufdatum an den jeweiligen Angaben verlinken. Bei APIs zusätzlich Request/Parameter, OSM-ID oder Layer-ID und Rohdatei speichern. Die bestehenden Abrufprotokolle mit Datenstand und Prüfsummen bleiben erhalten.
 
 Bei berechneten Wasserweg- und Fusswegdistanzen Ausgangsgeometrie, Distanzmethode und Einheit nennen.
+
+## Fortschreibung Phase 1
+
+Der amtliche WFS-Küstenlayer wurde vollständig in zwei Seiten mit 10.969 eindeutigen Objekten bezogen. Regionale Strandseiten und Betreiberquellen ergänzen die Recherche. [Methodik, Abrufparameter und Reproduktion](09-methodik-und-daten.md) dokumentieren die tatsächliche Verwendung; die obigen API-Stichproben bleiben als früherer Prüfstand erhalten.

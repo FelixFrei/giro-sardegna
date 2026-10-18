@@ -1,0 +1,9 @@
+{
+  "source": "https://overpass-api.de/api/interpreter",
+  "params": {
+    "data": "[out:json][timeout:25];nwr[\"natural\"=\"beach\"](39.20,9.14,39.25,9.21);out center tags;"
+  },
+  "retrieved_at_utc": "2026-10-18T07:53:10Z",
+  "http_status": 406,
+  "error": "406 Client Error: Not Acceptable for url: https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Bnwr%5B%22natural%22%3D%22beach%22%5D%2839.20%2C9.14%2C39.25%2C9.21%29%3Bout+center+tags%3B"
+}

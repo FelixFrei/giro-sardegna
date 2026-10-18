@@ -1,0 +1,16 @@
+{
+  "created_at_utc": "2026-10-18T13:40:21.917176+00:00",
+  "checksum_scope": "gzip archive bytes; retrieval times in corresponding request files",
+  "files": [
+    {
+      "file": "coastline-tail.json.gz",
+      "bytes": 464305,
+      "sha256": "b49eabb5b3de5a5441c8dacd8634a1234ea673802fa2a0fd29136e584e9d1145"
+    },
+    {
+      "file": "coastline.json.gz",
+      "bytes": 7492670,
+      "sha256": "cede02ce7d78a9b353bc2b30c002598cb08258b6489d22b05dcafdfdb2952812"
+    }
+  ]
+}

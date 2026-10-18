@@ -1,0 +1,16 @@
+{
+  "source": "https://webgis.regione.sardegna.it/geoserver/ows",
+  "params": {
+    "service": "WFS",
+    "version": "1.1.0",
+    "request": "GetFeature",
+    "typeName": "dbu:dbgt_10k_22_v05_04_linea_costa_marina",
+    "outputFormat": "application/json",
+    "srsName": "EPSG:4326",
+    "maxFeatures": 10000
+  },
+  "retrieved_at_utc": "2026-10-18T07:53:10Z",
+  "http_status": 200,
+  "bytes": 34009905,
+  "count": 10000
+}
