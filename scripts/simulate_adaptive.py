@@ -45,10 +45,12 @@ def main():
     parser.add_argument('--all-directions', action='store_true', help='Run the 360-degree wind scenario')
     parser.add_argument('--min-wind', type=int, choices=[12,15], default=15)
     parser.add_argument('--max-wind', type=int, choices=[20,25], default=25)
+    parser.add_argument('--august',action='store_true',help='August/September starts, side/tailwind, 12–20 kn')
     args=parser.parse_args()
-    if args.max_wind==20 and not (args.all_directions and args.min_wind==12):
+    if args.august and args.all_directions:parser.error('August scenario uses side/tailwind only')
+    if not args.august and args.max_wind==20 and not (args.all_directions and args.min_wind==12):
         parser.error('--max-wind 20 requires --all-directions --min-wind 12')
-    if args.min_wind==12 and not args.all_directions:parser.error('--min-wind 12 requires --all-directions')
+    if not args.august and args.min_wind==12 and not args.all_directions:parser.error('--min-wind 12 requires --all-directions')
     config_name='simulation-config-360.json' if args.all_directions else 'simulation-config.json'
     output_name='adaptive-results-360.json' if args.all_directions else 'adaptive-results.json'
     if args.min_wind==12:
@@ -57,6 +59,9 @@ def main():
     if args.max_wind==20:
         config_name='simulation-config-360-12-20kn.json'
         output_name='adaptive-results-360-12-20kn.json'
+    if args.august:
+        config_name='simulation-config-august-180-12-20kn.json'
+        output_name='adaptive-results-august-180-12-20kn.json'
     cfg=json.loads((DATA/config_name).read_text()); zone=ZoneInfo(cfg['local_timezone'])
     plan=json.loads((ROOT/'data/phase1/route-plan.json').read_text())
     sampling=json.loads((DATA/'sampling.json').read_text())
@@ -65,13 +70,13 @@ def main():
     ccw=[x['start'] for x in plan['legs']]+['poetto']
     results=[]; diagnostics=[]; leg_windows=[]
     for year in cfg['years']:
-        base,weather=load_weather(year);first=datetime(year,9,1,tzinfo=zone)
+        base,weather=load_weather(year,august=args.august);first=datetime(year,8 if args.august else 9,1,tzinfo=zone)
         for direction,nodes in [('ccw',ccw),('cw',ccw[::-1])]:
             actions=[route_actions(dict(path=[a,b],stops=[a,b]),sampling,plan,cfg) for a,b in zip(nodes,nodes[1:])]
             distances=[sum(x['seconds'] for x in seq)*cfg['speed_kmh']/3600 for seq in actions]
             hotels={i for i,s in enumerate(nodes) if s in hotel_ids}
             tables={cap:[] for cap in [50,75,125]}
-            for day in range(61):
+            for day in range(92 if args.august else 61):
                 date=first+timedelta(days=day)
                 opening=date.replace(hour=9).timestamp();closing=date.replace(hour=17).timestamp()
                 paths=[]
@@ -87,7 +92,7 @@ def main():
                 for cap,days in tables.items():
                     days.append({i:reachable(i,paths,distances,hotels,opening,closing,min(cap,cfg['max_riding_hours']*cfg['speed_kmh']),cfg['pause_minutes']*60) for i in sorted(hotels) if i<len(actions)})
             for cap,days in tables.items():
-                for start in range(30):
+                for start in range(61 if args.august else 30):
                     dest,history,last=solve(start,days,len(nodes)-1)
                     for trip in history:
                         trip['date']=(first+timedelta(days=trip['day'])).date().isoformat()

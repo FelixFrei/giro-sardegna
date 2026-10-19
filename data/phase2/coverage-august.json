@@ -1,0 +1,5842 @@
+{
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "period": "08-01 through 08-31 UTC",
+  "model": "ecmwf_ifs",
+  "request_points": 91,
+  "route_segments": 332,
+  "point_hours": 270816,
+  "unique_returned_cells": 63,
+  "total_nulls": 0,
+  "max_grid_offset_km": 10.447608831641825,
+  "records": [
+    {
+      "year": 2022,
+      "id": "W001",
+      "requested_latitude": 39.193618491258555,
+      "requested_longitude": 9.188245568426035,
+      "returned_latitude": 39.191563,
+      "returned_longitude": 9.160935,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.3703993123486975
+    },
+    {
+      "year": 2022,
+      "id": "W002",
+      "requested_latitude": 39.17911618485936,
+      "requested_longitude": 9.294978523151224,
+      "returned_latitude": 39.191563,
+      "returned_longitude": 9.284732,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.6411025489052151
+    },
+    {
+      "year": 2022,
+      "id": "W003",
+      "requested_latitude": 39.15585874676475,
+      "requested_longitude": 9.383739171314721,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.395604,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.9751677283457427
+    },
+    {
+      "year": 2022,
+      "id": "W004",
+      "requested_latitude": 39.1322466933644,
+      "requested_longitude": 9.415620524913598,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.395604,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.1171310317920895
+    },
+    {
+      "year": 2022,
+      "id": "W005",
+      "requested_latitude": 39.11416834711655,
+      "requested_longitude": 9.460143785320104,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.519231,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.17039896158591
+    },
+    {
+      "year": 2022,
+      "id": "W006",
+      "requested_latitude": 39.139868430186354,
+      "requested_longitude": 9.563887389677562,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.519231,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.378947877085443
+    },
+    {
+      "year": 2022,
+      "id": "W007",
+      "requested_latitude": 39.163136198885816,
+      "requested_longitude": 9.57449755062228,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.519231,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.666106796709716
+    },
+    {
+      "year": 2022,
+      "id": "W008",
+      "requested_latitude": 39.27946368464907,
+      "requested_longitude": 9.622512681072893,
+      "returned_latitude": 39.26186,
+      "returned_longitude": 9.669421,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.4950694897759895
+    },
+    {
+      "year": 2022,
+      "id": "W009",
+      "requested_latitude": 39.36652756040835,
+      "requested_longitude": 9.602192694265769,
+      "returned_latitude": 39.33216,
+      "returned_longitude": 9.682758,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.92378909153746
+    },
+    {
+      "year": 2022,
+      "id": "W010",
+      "requested_latitude": 39.45128210730123,
+      "requested_longitude": 9.64496033727893,
+      "returned_latitude": 39.47276,
+      "returned_longitude": 9.709543,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.0479336045994
+    },
+    {
+      "year": 2022,
+      "id": "W011",
+      "requested_latitude": 39.573596924255995,
+      "requested_longitude": 9.657610201725129,
+      "returned_latitude": 39.543056,
+      "returned_longitude": 9.722992,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.562854652356604
+    },
+    {
+      "year": 2022,
+      "id": "W012",
+      "requested_latitude": 39.65404106895547,
+      "requested_longitude": 9.669152659674277,
+      "returned_latitude": 39.613354,
+      "returned_longitude": 9.736477,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.335636391807831
+    },
+    {
+      "year": 2022,
+      "id": "W013",
+      "requested_latitude": 39.77288661456173,
+      "requested_longitude": 9.680971822167564,
+      "returned_latitude": 39.753952,
+      "returned_longitude": 9.76356,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.382467720004133
+    },
+    {
+      "year": 2022,
+      "id": "W014",
+      "requested_latitude": 39.86870612424202,
+      "requested_longitude": 9.69952420535083,
+      "returned_latitude": 39.824253,
+      "returned_longitude": 9.77716,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.27706447873347
+    },
+    {
+      "year": 2022,
+      "id": "W015",
+      "requested_latitude": 39.973270865421654,
+      "requested_longitude": 9.697133742183203,
+      "returned_latitude": 39.964848,
+      "returned_longitude": 9.80447,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 9.21755930915219
+    },
+    {
+      "year": 2022,
+      "id": "W016",
+      "requested_latitude": 40.05859096473616,
+      "requested_longitude": 9.727802922706651,
+      "returned_latitude": 40.105446,
+      "returned_longitude": 9.705883,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.528331803548721
+    },
+    {
+      "year": 2022,
+      "id": "W017",
+      "requested_latitude": 40.17472207724504,
+      "requested_longitude": 9.653488338509655,
+      "returned_latitude": 40.175747,
+      "returned_longitude": 9.719496,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.623365476324695
+    },
+    {
+      "year": 2022,
+      "id": "W018",
+      "requested_latitude": 40.20880837987,
+      "requested_longitude": 9.637089153966581,
+      "returned_latitude": 40.175747,
+      "returned_longitude": 9.719496,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.919518644385239
+    },
+    {
+      "year": 2022,
+      "id": "W019",
+      "requested_latitude": 40.26724213197076,
+      "requested_longitude": 9.634742164319265,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 9.733146,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.696159290014169
+    },
+    {
+      "year": 2022,
+      "id": "W020",
+      "requested_latitude": 40.294128972510926,
+      "requested_longitude": 9.65317486036329,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 9.733146,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.647350468388376
+    },
+    {
+      "year": 2022,
+      "id": "W021",
+      "requested_latitude": 40.36562106617352,
+      "requested_longitude": 9.72012773690522,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 9.760563,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.1521316432175475
+    },
+    {
+      "year": 2022,
+      "id": "W022",
+      "requested_latitude": 40.38730427467706,
+      "requested_longitude": 9.762393582785494,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 9.760563,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.171953709952302
+    },
+    {
+      "year": 2022,
+      "id": "W023",
+      "requested_latitude": 40.460295423877525,
+      "requested_longitude": 9.804530473837413,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 9.760563,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.989610208373174
+    },
+    {
+      "year": 2022,
+      "id": "W024",
+      "requested_latitude": 40.55164532827851,
+      "requested_longitude": 9.811316470260635,
+      "returned_latitude": 40.597538,
+      "returned_longitude": 9.80198,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.157137141612601
+    },
+    {
+      "year": 2022,
+      "id": "W025",
+      "requested_latitude": 40.65824452353517,
+      "requested_longitude": 9.755116770168081,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 9.815864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.246156794977441
+    },
+    {
+      "year": 2022,
+      "id": "W026",
+      "requested_latitude": 40.693610748347666,
+      "requested_longitude": 9.745134986031085,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 9.815864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.62921255105593
+    },
+    {
+      "year": 2022,
+      "id": "W027",
+      "requested_latitude": 40.7668746615309,
+      "requested_longitude": 9.697477998505436,
+      "returned_latitude": 40.808434,
+      "returned_longitude": 9.715909,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.8702928391156854
+    },
+    {
+      "year": 2022,
+      "id": "W028",
+      "requested_latitude": 40.856643876000454,
+      "requested_longitude": 9.705873820315349,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 9.72973,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.172249282334476
+    },
+    {
+      "year": 2022,
+      "id": "W029",
+      "requested_latitude": 40.883588872629886,
+      "requested_longitude": 9.641201733848462,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 9.615385,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.585831924902924
+    },
+    {
+      "year": 2022,
+      "id": "W030",
+      "requested_latitude": 40.969749221861534,
+      "requested_longitude": 9.6018102043694,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 9.615385,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.5691113397702994
+    },
+    {
+      "year": 2022,
+      "id": "W031",
+      "requested_latitude": 40.98944746850119,
+      "requested_longitude": 9.659683337502786,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 9.629102,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.199072997676359
+    },
+    {
+      "year": 2022,
+      "id": "W032",
+      "requested_latitude": 41.06110137050705,
+      "requested_longitude": 9.551454958564163,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 9.629102,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.00909877079744
+    },
+    {
+      "year": 2022,
+      "id": "W033",
+      "requested_latitude": 41.07510707507799,
+      "requested_longitude": 9.542373846119073,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.527897,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 9.497919623543124
+    },
+    {
+      "year": 2022,
+      "id": "W034",
+      "requested_latitude": 41.15708534084552,
+      "requested_longitude": 9.519474627939125,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.527897,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.7741620839910508
+    },
+    {
+      "year": 2022,
+      "id": "W035",
+      "requested_latitude": 41.105790074846176,
+      "requested_longitude": 9.44256496735745,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.527897,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 9.353304131985608
+    },
+    {
+      "year": 2022,
+      "id": "W036",
+      "requested_latitude": 41.167938791548785,
+      "requested_longitude": 9.428978018626028,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.412607,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.052899609127443
+    },
+    {
+      "year": 2022,
+      "id": "W037",
+      "requested_latitude": 41.206477567581736,
+      "requested_longitude": 9.341844455533026,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.283668,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.5460129446114355
+    },
+    {
+      "year": 2022,
+      "id": "W038",
+      "requested_latitude": 41.258462285610534,
+      "requested_longitude": 9.236340695610586,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.283668,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.056605139023844
+    },
+    {
+      "year": 2022,
+      "id": "W039",
+      "requested_latitude": 41.24630375034135,
+      "requested_longitude": 9.18913483119751,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.154727,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.3921648254700063
+    },
+    {
+      "year": 2022,
+      "id": "W040",
+      "requested_latitude": 41.24423026695706,
+      "requested_longitude": 9.140731599503278,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.154727,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.9478513780932705
+    },
+    {
+      "year": 2022,
+      "id": "W041",
+      "requested_latitude": 41.1483621239987,
+      "requested_longitude": 9.105255550799711,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.012876,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.859881083717678
+    },
+    {
+      "year": 2022,
+      "id": "W042",
+      "requested_latitude": 41.138286758842796,
+      "requested_longitude": 9.047229826647348,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.012876,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.753981214029889
+    },
+    {
+      "year": 2022,
+      "id": "W043",
+      "requested_latitude": 41.06368188850357,
+      "requested_longitude": 8.927476970203909,
+      "returned_latitude": 41.08963,
+      "returned_longitude": 8.871429,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.521727178932773
+    },
+    {
+      "year": 2022,
+      "id": "W044",
+      "requested_latitude": 41.03938762827266,
+      "requested_longitude": 8.894383864773328,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 8.858773,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.7323607383957067
+    },
+    {
+      "year": 2022,
+      "id": "W045",
+      "requested_latitude": 40.95891446146179,
+      "requested_longitude": 8.820566835781333,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 8.858773,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.4398874250419125
+    },
+    {
+      "year": 2022,
+      "id": "W046",
+      "requested_latitude": 40.9405011200936,
+      "requested_longitude": 8.76983655980752,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.717949,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.47069529225498
+    },
+    {
+      "year": 2022,
+      "id": "W047",
+      "requested_latitude": 40.922065413103326,
+      "requested_longitude": 8.719134469952968,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.717949,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.9961529885779807
+    },
+    {
+      "year": 2022,
+      "id": "W048",
+      "requested_latitude": 40.882333947843534,
+      "requested_longitude": 8.624152197852057,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.577525,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.950332560304239
+    },
+    {
+      "year": 2022,
+      "id": "W049",
+      "requested_latitude": 40.84676911861202,
+      "requested_longitude": 8.53477448307345,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.577525,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.0588762706304
+    },
+    {
+      "year": 2022,
+      "id": "W050",
+      "requested_latitude": 40.83350751293008,
+      "requested_longitude": 8.444679720606487,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.449502,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.03899500584134
+    },
+    {
+      "year": 2022,
+      "id": "W051",
+      "requested_latitude": 40.86040863196448,
+      "requested_longitude": 8.398403218338828,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.449502,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.764233830664152
+    },
+    {
+      "year": 2022,
+      "id": "W052",
+      "requested_latitude": 40.91415472091388,
+      "requested_longitude": 8.305737832887207,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.32148,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.1510917707683
+    },
+    {
+      "year": 2022,
+      "id": "W053",
+      "requested_latitude": 40.96017883097127,
+      "requested_longitude": 8.223553157189608,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.205129,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.9847136953169102
+    },
+    {
+      "year": 2022,
+      "id": "W054",
+      "requested_latitude": 40.94657091708686,
+      "requested_longitude": 8.181755391291587,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.205129,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.9869497816726462
+    },
+    {
+      "year": 2022,
+      "id": "W055",
+      "requested_latitude": 40.83937258123337,
+      "requested_longitude": 8.15953615010339,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.193457,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.223735383140675
+    },
+    {
+      "year": 2022,
+      "id": "W056",
+      "requested_latitude": 40.76148170290005,
+      "requested_longitude": 8.146765361557541,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 10.447608831641825
+    },
+    {
+      "year": 2022,
+      "id": "W057",
+      "requested_latitude": 40.74122191649972,
+      "requested_longitude": 8.14462488726427,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.235104311165351
+    },
+    {
+      "year": 2022,
+      "id": "W058",
+      "requested_latitude": 40.70305148008446,
+      "requested_longitude": 8.16456289677873,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.9426347004849
+    },
+    {
+      "year": 2022,
+      "id": "W059",
+      "requested_latitude": 40.636943610137976,
+      "requested_longitude": 8.156454404498675,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.4353788804136776
+    },
+    {
+      "year": 2022,
+      "id": "W060",
+      "requested_latitude": 40.61267594371039,
+      "requested_longitude": 8.140173875233092,
+      "returned_latitude": 40.597538,
+      "returned_longitude": 8.1471,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.7802884511935262
+    },
+    {
+      "year": 2022,
+      "id": "W061",
+      "requested_latitude": 40.57602517158131,
+      "requested_longitude": 8.251953966755163,
+      "returned_latitude": 40.52724,
+      "returned_longitude": 8.2627125,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.493471884794472
+    },
+    {
+      "year": 2022,
+      "id": "W062",
+      "requested_latitude": 40.54646263395261,
+      "requested_longitude": 8.310614302268398,
+      "returned_latitude": 40.52724,
+      "returned_longitude": 8.2627125,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.585440421706405
+    },
+    {
+      "year": 2022,
+      "id": "W063",
+      "requested_latitude": 40.432534013665894,
+      "requested_longitude": 8.349976141553414,
+      "returned_latitude": 40.45694,
+      "returned_longitude": 8.377997,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.6049807921089188
+    },
+    {
+      "year": 2022,
+      "id": "W064",
+      "requested_latitude": 40.39455433338631,
+      "requested_longitude": 8.363067230784454,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 8.366197,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.9179089921268142
+    },
+    {
+      "year": 2022,
+      "id": "W065",
+      "requested_latitude": 40.32412831781642,
+      "requested_longitude": 8.405900783984972,
+      "returned_latitude": 40.31634,
+      "returned_longitude": 8.35443,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.4593507250368125
+    },
+    {
+      "year": 2022,
+      "id": "W066",
+      "requested_latitude": 40.29720774271481,
+      "requested_longitude": 8.452322076493429,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 8.469101,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.857719818342636
+    },
+    {
+      "year": 2022,
+      "id": "W067",
+      "requested_latitude": 40.24208798514335,
+      "requested_longitude": 8.465033010979973,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 8.469101,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.5592627211033021
+    },
+    {
+      "year": 2022,
+      "id": "W068",
+      "requested_latitude": 40.138674461846904,
+      "requested_longitude": 8.465640783029192,
+      "returned_latitude": 40.175747,
+      "returned_longitude": 8.457223,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.178454592377308
+    },
+    {
+      "year": 2022,
+      "id": "W069",
+      "requested_latitude": 40.073087252717855,
+      "requested_longitude": 8.436397708922346,
+      "returned_latitude": 40.105446,
+      "returned_longitude": 8.445378,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.6737138270596956
+    },
+    {
+      "year": 2022,
+      "id": "W070",
+      "requested_latitude": 40.03948875813931,
+      "requested_longitude": 8.37910746204578,
+      "returned_latitude": 40.03515,
+      "returned_longitude": 8.307693,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.114044489454313
+    },
+    {
+      "year": 2022,
+      "id": "W071",
+      "requested_latitude": 39.92468063470272,
+      "requested_longitude": 8.394265469512352,
+      "returned_latitude": 39.89455,
+      "returned_longitude": 8.410042,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.607228474216865
+    },
+    {
+      "year": 2022,
+      "id": "W072",
+      "requested_latitude": 39.86898897070308,
+      "requested_longitude": 8.455698125451466,
+      "returned_latitude": 39.89455,
+      "returned_longitude": 8.410042,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.827784364933889
+    },
+    {
+      "year": 2022,
+      "id": "W073",
+      "requested_latitude": 39.8495489596039,
+      "requested_longitude": 8.488591804647479,
+      "returned_latitude": 39.824253,
+      "returned_longitude": 8.523677,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.111881781488643
+    },
+    {
+      "year": 2022,
+      "id": "W074",
+      "requested_latitude": 39.73875905366353,
+      "requested_longitude": 8.442564698033276,
+      "returned_latitude": 39.753952,
+      "returned_longitude": 8.386648,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.08076613173012
+    },
+    {
+      "year": 2022,
+      "id": "W075",
+      "requested_latitude": 39.62717258327972,
+      "requested_longitude": 8.450241286357471,
+      "returned_latitude": 39.613354,
+      "returned_longitude": 8.363384,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.614175096171217
+    },
+    {
+      "year": 2022,
+      "id": "W076",
+      "requested_latitude": 39.52476506582877,
+      "requested_longitude": 8.431754205943077,
+      "returned_latitude": 39.543056,
+      "returned_longitude": 8.351801,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.1674141183159765
+    },
+    {
+      "year": 2022,
+      "id": "W077",
+      "requested_latitude": 39.44308131878858,
+      "requested_longitude": 8.400034567516467,
+      "returned_latitude": 39.47276,
+      "returned_longitude": 8.340249,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.110084622179901
+    },
+    {
+      "year": 2022,
+      "id": "W078",
+      "requested_latitude": 39.344206183741086,
+      "requested_longitude": 8.39077690810853,
+      "returned_latitude": 39.33216,
+      "returned_longitude": 8.317242,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.4791604355895025
+    },
+    {
+      "year": 2022,
+      "id": "W079",
+      "requested_latitude": 39.24355491992849,
+      "requested_longitude": 8.383120577822543,
+      "returned_latitude": 39.26186,
+      "returned_longitude": 8.305785,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.977896587584531
+    },
+    {
+      "year": 2022,
+      "id": "W080",
+      "requested_latitude": 39.11444803997805,
+      "requested_longitude": 8.353923349881775,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 8.406593,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.61744606688986
+    },
+    {
+      "year": 2022,
+      "id": "W081",
+      "requested_latitude": 39.08091651797749,
+      "requested_longitude": 8.348237034581244,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 8.406593,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.748839897139708
+    },
+    {
+      "year": 2022,
+      "id": "W082",
+      "requested_latitude": 39.02986040138507,
+      "requested_longitude": 8.364238397558507,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 8.383561,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.7119547836222475
+    },
+    {
+      "year": 2022,
+      "id": "W083",
+      "requested_latitude": 38.975333394840725,
+      "requested_longitude": 8.466946799894698,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 8.506849,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.5079862550377254
+    },
+    {
+      "year": 2022,
+      "id": "W084",
+      "requested_latitude": 38.95883927749383,
+      "requested_longitude": 8.564217675535039,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 8.506849,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.530847916626947
+    },
+    {
+      "year": 2022,
+      "id": "W085",
+      "requested_latitude": 38.94439888826915,
+      "requested_longitude": 8.601358411974477,
+      "returned_latitude": 38.910366,
+      "returned_longitude": 8.618331,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.054675445717997
+    },
+    {
+      "year": 2022,
+      "id": "W086",
+      "requested_latitude": 38.86635876371968,
+      "requested_longitude": 8.65339772990492,
+      "returned_latitude": 38.84007,
+      "returned_longitude": 8.606558,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.004871996916134
+    },
+    {
+      "year": 2022,
+      "id": "W087",
+      "requested_latitude": 38.89260735551828,
+      "requested_longitude": 8.779387700270904,
+      "returned_latitude": 38.910366,
+      "returned_longitude": 8.741449,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.83635246937276
+    },
+    {
+      "year": 2022,
+      "id": "W088",
+      "requested_latitude": 38.87605096352226,
+      "requested_longitude": 8.853217901224104,
+      "returned_latitude": 38.84007,
+      "returned_longitude": 8.852459,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.9948896976031114
+    },
+    {
+      "year": 2022,
+      "id": "W089",
+      "requested_latitude": 38.94791425222298,
+      "requested_longitude": 8.962252354072339,
+      "returned_latitude": 38.910366,
+      "returned_longitude": 8.987688,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.715940327381651
+    },
+    {
+      "year": 2022,
+      "id": "W090",
+      "requested_latitude": 38.97223063287869,
+      "requested_longitude": 9.002505791596889,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 9.0,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.961405709873861
+    },
+    {
+      "year": 2022,
+      "id": "W091",
+      "requested_latitude": 39.057042233676604,
+      "requested_longitude": 9.070749985435079,
+      "returned_latitude": 39.050964,
+      "returned_longitude": 9.135802,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.671223149483159
+    },
+    {
+      "year": 2023,
+      "id": "W001",
+      "requested_latitude": 39.193618491258555,
+      "requested_longitude": 9.188245568426035,
+      "returned_latitude": 39.191563,
+      "returned_longitude": 9.160935,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.3703993123486975
+    },
+    {
+      "year": 2023,
+      "id": "W002",
+      "requested_latitude": 39.17911618485936,
+      "requested_longitude": 9.294978523151224,
+      "returned_latitude": 39.191563,
+      "returned_longitude": 9.284732,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.6411025489052151
+    },
+    {
+      "year": 2023,
+      "id": "W003",
+      "requested_latitude": 39.15585874676475,
+      "requested_longitude": 9.383739171314721,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.395604,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.9751677283457427
+    },
+    {
+      "year": 2023,
+      "id": "W004",
+      "requested_latitude": 39.1322466933644,
+      "requested_longitude": 9.415620524913598,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.395604,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.1171310317920895
+    },
+    {
+      "year": 2023,
+      "id": "W005",
+      "requested_latitude": 39.11416834711655,
+      "requested_longitude": 9.460143785320104,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.519231,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.17039896158591
+    },
+    {
+      "year": 2023,
+      "id": "W006",
+      "requested_latitude": 39.139868430186354,
+      "requested_longitude": 9.563887389677562,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.519231,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.378947877085443
+    },
+    {
+      "year": 2023,
+      "id": "W007",
+      "requested_latitude": 39.163136198885816,
+      "requested_longitude": 9.57449755062228,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.519231,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.666106796709716
+    },
+    {
+      "year": 2023,
+      "id": "W008",
+      "requested_latitude": 39.27946368464907,
+      "requested_longitude": 9.622512681072893,
+      "returned_latitude": 39.26186,
+      "returned_longitude": 9.669421,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.4950694897759895
+    },
+    {
+      "year": 2023,
+      "id": "W009",
+      "requested_latitude": 39.36652756040835,
+      "requested_longitude": 9.602192694265769,
+      "returned_latitude": 39.33216,
+      "returned_longitude": 9.682758,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.92378909153746
+    },
+    {
+      "year": 2023,
+      "id": "W010",
+      "requested_latitude": 39.45128210730123,
+      "requested_longitude": 9.64496033727893,
+      "returned_latitude": 39.47276,
+      "returned_longitude": 9.709543,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.0479336045994
+    },
+    {
+      "year": 2023,
+      "id": "W011",
+      "requested_latitude": 39.573596924255995,
+      "requested_longitude": 9.657610201725129,
+      "returned_latitude": 39.543056,
+      "returned_longitude": 9.722992,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.562854652356604
+    },
+    {
+      "year": 2023,
+      "id": "W012",
+      "requested_latitude": 39.65404106895547,
+      "requested_longitude": 9.669152659674277,
+      "returned_latitude": 39.613354,
+      "returned_longitude": 9.736477,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.335636391807831
+    },
+    {
+      "year": 2023,
+      "id": "W013",
+      "requested_latitude": 39.77288661456173,
+      "requested_longitude": 9.680971822167564,
+      "returned_latitude": 39.753952,
+      "returned_longitude": 9.76356,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.382467720004133
+    },
+    {
+      "year": 2023,
+      "id": "W014",
+      "requested_latitude": 39.86870612424202,
+      "requested_longitude": 9.69952420535083,
+      "returned_latitude": 39.824253,
+      "returned_longitude": 9.77716,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.27706447873347
+    },
+    {
+      "year": 2023,
+      "id": "W015",
+      "requested_latitude": 39.973270865421654,
+      "requested_longitude": 9.697133742183203,
+      "returned_latitude": 39.964848,
+      "returned_longitude": 9.80447,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 9.21755930915219
+    },
+    {
+      "year": 2023,
+      "id": "W016",
+      "requested_latitude": 40.05859096473616,
+      "requested_longitude": 9.727802922706651,
+      "returned_latitude": 40.105446,
+      "returned_longitude": 9.705883,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.528331803548721
+    },
+    {
+      "year": 2023,
+      "id": "W017",
+      "requested_latitude": 40.17472207724504,
+      "requested_longitude": 9.653488338509655,
+      "returned_latitude": 40.175747,
+      "returned_longitude": 9.719496,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.623365476324695
+    },
+    {
+      "year": 2023,
+      "id": "W018",
+      "requested_latitude": 40.20880837987,
+      "requested_longitude": 9.637089153966581,
+      "returned_latitude": 40.175747,
+      "returned_longitude": 9.719496,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.919518644385239
+    },
+    {
+      "year": 2023,
+      "id": "W019",
+      "requested_latitude": 40.26724213197076,
+      "requested_longitude": 9.634742164319265,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 9.733146,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.696159290014169
+    },
+    {
+      "year": 2023,
+      "id": "W020",
+      "requested_latitude": 40.294128972510926,
+      "requested_longitude": 9.65317486036329,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 9.733146,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.647350468388376
+    },
+    {
+      "year": 2023,
+      "id": "W021",
+      "requested_latitude": 40.36562106617352,
+      "requested_longitude": 9.72012773690522,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 9.760563,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.1521316432175475
+    },
+    {
+      "year": 2023,
+      "id": "W022",
+      "requested_latitude": 40.38730427467706,
+      "requested_longitude": 9.762393582785494,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 9.760563,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.171953709952302
+    },
+    {
+      "year": 2023,
+      "id": "W023",
+      "requested_latitude": 40.460295423877525,
+      "requested_longitude": 9.804530473837413,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 9.760563,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.989610208373174
+    },
+    {
+      "year": 2023,
+      "id": "W024",
+      "requested_latitude": 40.55164532827851,
+      "requested_longitude": 9.811316470260635,
+      "returned_latitude": 40.597538,
+      "returned_longitude": 9.80198,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.157137141612601
+    },
+    {
+      "year": 2023,
+      "id": "W025",
+      "requested_latitude": 40.65824452353517,
+      "requested_longitude": 9.755116770168081,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 9.815864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.246156794977441
+    },
+    {
+      "year": 2023,
+      "id": "W026",
+      "requested_latitude": 40.693610748347666,
+      "requested_longitude": 9.745134986031085,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 9.815864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.62921255105593
+    },
+    {
+      "year": 2023,
+      "id": "W027",
+      "requested_latitude": 40.7668746615309,
+      "requested_longitude": 9.697477998505436,
+      "returned_latitude": 40.808434,
+      "returned_longitude": 9.715909,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.8702928391156854
+    },
+    {
+      "year": 2023,
+      "id": "W028",
+      "requested_latitude": 40.856643876000454,
+      "requested_longitude": 9.705873820315349,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 9.72973,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.172249282334476
+    },
+    {
+      "year": 2023,
+      "id": "W029",
+      "requested_latitude": 40.883588872629886,
+      "requested_longitude": 9.641201733848462,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 9.615385,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.585831924902924
+    },
+    {
+      "year": 2023,
+      "id": "W030",
+      "requested_latitude": 40.969749221861534,
+      "requested_longitude": 9.6018102043694,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 9.615385,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.5691113397702994
+    },
+    {
+      "year": 2023,
+      "id": "W031",
+      "requested_latitude": 40.98944746850119,
+      "requested_longitude": 9.659683337502786,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 9.629102,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.199072997676359
+    },
+    {
+      "year": 2023,
+      "id": "W032",
+      "requested_latitude": 41.06110137050705,
+      "requested_longitude": 9.551454958564163,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 9.629102,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.00909877079744
+    },
+    {
+      "year": 2023,
+      "id": "W033",
+      "requested_latitude": 41.07510707507799,
+      "requested_longitude": 9.542373846119073,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.527897,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 9.497919623543124
+    },
+    {
+      "year": 2023,
+      "id": "W034",
+      "requested_latitude": 41.15708534084552,
+      "requested_longitude": 9.519474627939125,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.527897,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.7741620839910508
+    },
+    {
+      "year": 2023,
+      "id": "W035",
+      "requested_latitude": 41.105790074846176,
+      "requested_longitude": 9.44256496735745,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.527897,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 9.353304131985608
+    },
+    {
+      "year": 2023,
+      "id": "W036",
+      "requested_latitude": 41.167938791548785,
+      "requested_longitude": 9.428978018626028,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.412607,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.052899609127443
+    },
+    {
+      "year": 2023,
+      "id": "W037",
+      "requested_latitude": 41.206477567581736,
+      "requested_longitude": 9.341844455533026,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.283668,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.5460129446114355
+    },
+    {
+      "year": 2023,
+      "id": "W038",
+      "requested_latitude": 41.258462285610534,
+      "requested_longitude": 9.236340695610586,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.283668,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.056605139023844
+    },
+    {
+      "year": 2023,
+      "id": "W039",
+      "requested_latitude": 41.24630375034135,
+      "requested_longitude": 9.18913483119751,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.154727,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.3921648254700063
+    },
+    {
+      "year": 2023,
+      "id": "W040",
+      "requested_latitude": 41.24423026695706,
+      "requested_longitude": 9.140731599503278,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.154727,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.9478513780932705
+    },
+    {
+      "year": 2023,
+      "id": "W041",
+      "requested_latitude": 41.1483621239987,
+      "requested_longitude": 9.105255550799711,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.012876,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.859881083717678
+    },
+    {
+      "year": 2023,
+      "id": "W042",
+      "requested_latitude": 41.138286758842796,
+      "requested_longitude": 9.047229826647348,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.012876,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.753981214029889
+    },
+    {
+      "year": 2023,
+      "id": "W043",
+      "requested_latitude": 41.06368188850357,
+      "requested_longitude": 8.927476970203909,
+      "returned_latitude": 41.08963,
+      "returned_longitude": 8.871429,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.521727178932773
+    },
+    {
+      "year": 2023,
+      "id": "W044",
+      "requested_latitude": 41.03938762827266,
+      "requested_longitude": 8.894383864773328,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 8.858773,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.7323607383957067
+    },
+    {
+      "year": 2023,
+      "id": "W045",
+      "requested_latitude": 40.95891446146179,
+      "requested_longitude": 8.820566835781333,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 8.858773,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.4398874250419125
+    },
+    {
+      "year": 2023,
+      "id": "W046",
+      "requested_latitude": 40.9405011200936,
+      "requested_longitude": 8.76983655980752,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.717949,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.47069529225498
+    },
+    {
+      "year": 2023,
+      "id": "W047",
+      "requested_latitude": 40.922065413103326,
+      "requested_longitude": 8.719134469952968,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.717949,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.9961529885779807
+    },
+    {
+      "year": 2023,
+      "id": "W048",
+      "requested_latitude": 40.882333947843534,
+      "requested_longitude": 8.624152197852057,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.577525,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.950332560304239
+    },
+    {
+      "year": 2023,
+      "id": "W049",
+      "requested_latitude": 40.84676911861202,
+      "requested_longitude": 8.53477448307345,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.577525,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.0588762706304
+    },
+    {
+      "year": 2023,
+      "id": "W050",
+      "requested_latitude": 40.83350751293008,
+      "requested_longitude": 8.444679720606487,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.449502,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.03899500584134
+    },
+    {
+      "year": 2023,
+      "id": "W051",
+      "requested_latitude": 40.86040863196448,
+      "requested_longitude": 8.398403218338828,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.449502,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.764233830664152
+    },
+    {
+      "year": 2023,
+      "id": "W052",
+      "requested_latitude": 40.91415472091388,
+      "requested_longitude": 8.305737832887207,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.32148,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.1510917707683
+    },
+    {
+      "year": 2023,
+      "id": "W053",
+      "requested_latitude": 40.96017883097127,
+      "requested_longitude": 8.223553157189608,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.205129,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.9847136953169102
+    },
+    {
+      "year": 2023,
+      "id": "W054",
+      "requested_latitude": 40.94657091708686,
+      "requested_longitude": 8.181755391291587,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.205129,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.9869497816726462
+    },
+    {
+      "year": 2023,
+      "id": "W055",
+      "requested_latitude": 40.83937258123337,
+      "requested_longitude": 8.15953615010339,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.193457,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.223735383140675
+    },
+    {
+      "year": 2023,
+      "id": "W056",
+      "requested_latitude": 40.76148170290005,
+      "requested_longitude": 8.146765361557541,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 10.447608831641825
+    },
+    {
+      "year": 2023,
+      "id": "W057",
+      "requested_latitude": 40.74122191649972,
+      "requested_longitude": 8.14462488726427,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.235104311165351
+    },
+    {
+      "year": 2023,
+      "id": "W058",
+      "requested_latitude": 40.70305148008446,
+      "requested_longitude": 8.16456289677873,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.9426347004849
+    },
+    {
+      "year": 2023,
+      "id": "W059",
+      "requested_latitude": 40.636943610137976,
+      "requested_longitude": 8.156454404498675,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.4353788804136776
+    },
+    {
+      "year": 2023,
+      "id": "W060",
+      "requested_latitude": 40.61267594371039,
+      "requested_longitude": 8.140173875233092,
+      "returned_latitude": 40.597538,
+      "returned_longitude": 8.1471,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.7802884511935262
+    },
+    {
+      "year": 2023,
+      "id": "W061",
+      "requested_latitude": 40.57602517158131,
+      "requested_longitude": 8.251953966755163,
+      "returned_latitude": 40.52724,
+      "returned_longitude": 8.2627125,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.493471884794472
+    },
+    {
+      "year": 2023,
+      "id": "W062",
+      "requested_latitude": 40.54646263395261,
+      "requested_longitude": 8.310614302268398,
+      "returned_latitude": 40.52724,
+      "returned_longitude": 8.2627125,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.585440421706405
+    },
+    {
+      "year": 2023,
+      "id": "W063",
+      "requested_latitude": 40.432534013665894,
+      "requested_longitude": 8.349976141553414,
+      "returned_latitude": 40.45694,
+      "returned_longitude": 8.377997,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.6049807921089188
+    },
+    {
+      "year": 2023,
+      "id": "W064",
+      "requested_latitude": 40.39455433338631,
+      "requested_longitude": 8.363067230784454,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 8.366197,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.9179089921268142
+    },
+    {
+      "year": 2023,
+      "id": "W065",
+      "requested_latitude": 40.32412831781642,
+      "requested_longitude": 8.405900783984972,
+      "returned_latitude": 40.31634,
+      "returned_longitude": 8.35443,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.4593507250368125
+    },
+    {
+      "year": 2023,
+      "id": "W066",
+      "requested_latitude": 40.29720774271481,
+      "requested_longitude": 8.452322076493429,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 8.469101,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.857719818342636
+    },
+    {
+      "year": 2023,
+      "id": "W067",
+      "requested_latitude": 40.24208798514335,
+      "requested_longitude": 8.465033010979973,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 8.469101,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.5592627211033021
+    },
+    {
+      "year": 2023,
+      "id": "W068",
+      "requested_latitude": 40.138674461846904,
+      "requested_longitude": 8.465640783029192,
+      "returned_latitude": 40.175747,
+      "returned_longitude": 8.457223,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.178454592377308
+    },
+    {
+      "year": 2023,
+      "id": "W069",
+      "requested_latitude": 40.073087252717855,
+      "requested_longitude": 8.436397708922346,
+      "returned_latitude": 40.105446,
+      "returned_longitude": 8.445378,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.6737138270596956
+    },
+    {
+      "year": 2023,
+      "id": "W070",
+      "requested_latitude": 40.03948875813931,
+      "requested_longitude": 8.37910746204578,
+      "returned_latitude": 40.03515,
+      "returned_longitude": 8.307693,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.114044489454313
+    },
+    {
+      "year": 2023,
+      "id": "W071",
+      "requested_latitude": 39.92468063470272,
+      "requested_longitude": 8.394265469512352,
+      "returned_latitude": 39.89455,
+      "returned_longitude": 8.410042,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.607228474216865
+    },
+    {
+      "year": 2023,
+      "id": "W072",
+      "requested_latitude": 39.86898897070308,
+      "requested_longitude": 8.455698125451466,
+      "returned_latitude": 39.89455,
+      "returned_longitude": 8.410042,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.827784364933889
+    },
+    {
+      "year": 2023,
+      "id": "W073",
+      "requested_latitude": 39.8495489596039,
+      "requested_longitude": 8.488591804647479,
+      "returned_latitude": 39.824253,
+      "returned_longitude": 8.523677,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.111881781488643
+    },
+    {
+      "year": 2023,
+      "id": "W074",
+      "requested_latitude": 39.73875905366353,
+      "requested_longitude": 8.442564698033276,
+      "returned_latitude": 39.753952,
+      "returned_longitude": 8.386648,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.08076613173012
+    },
+    {
+      "year": 2023,
+      "id": "W075",
+      "requested_latitude": 39.62717258327972,
+      "requested_longitude": 8.450241286357471,
+      "returned_latitude": 39.613354,
+      "returned_longitude": 8.363384,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.614175096171217
+    },
+    {
+      "year": 2023,
+      "id": "W076",
+      "requested_latitude": 39.52476506582877,
+      "requested_longitude": 8.431754205943077,
+      "returned_latitude": 39.543056,
+      "returned_longitude": 8.351801,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.1674141183159765
+    },
+    {
+      "year": 2023,
+      "id": "W077",
+      "requested_latitude": 39.44308131878858,
+      "requested_longitude": 8.400034567516467,
+      "returned_latitude": 39.47276,
+      "returned_longitude": 8.340249,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.110084622179901
+    },
+    {
+      "year": 2023,
+      "id": "W078",
+      "requested_latitude": 39.344206183741086,
+      "requested_longitude": 8.39077690810853,
+      "returned_latitude": 39.33216,
+      "returned_longitude": 8.317242,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.4791604355895025
+    },
+    {
+      "year": 2023,
+      "id": "W079",
+      "requested_latitude": 39.24355491992849,
+      "requested_longitude": 8.383120577822543,
+      "returned_latitude": 39.26186,
+      "returned_longitude": 8.305785,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.977896587584531
+    },
+    {
+      "year": 2023,
+      "id": "W080",
+      "requested_latitude": 39.11444803997805,
+      "requested_longitude": 8.353923349881775,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 8.406593,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.61744606688986
+    },
+    {
+      "year": 2023,
+      "id": "W081",
+      "requested_latitude": 39.08091651797749,
+      "requested_longitude": 8.348237034581244,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 8.406593,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.748839897139708
+    },
+    {
+      "year": 2023,
+      "id": "W082",
+      "requested_latitude": 39.02986040138507,
+      "requested_longitude": 8.364238397558507,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 8.383561,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.7119547836222475
+    },
+    {
+      "year": 2023,
+      "id": "W083",
+      "requested_latitude": 38.975333394840725,
+      "requested_longitude": 8.466946799894698,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 8.506849,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.5079862550377254
+    },
+    {
+      "year": 2023,
+      "id": "W084",
+      "requested_latitude": 38.95883927749383,
+      "requested_longitude": 8.564217675535039,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 8.506849,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.530847916626947
+    },
+    {
+      "year": 2023,
+      "id": "W085",
+      "requested_latitude": 38.94439888826915,
+      "requested_longitude": 8.601358411974477,
+      "returned_latitude": 38.910366,
+      "returned_longitude": 8.618331,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.054675445717997
+    },
+    {
+      "year": 2023,
+      "id": "W086",
+      "requested_latitude": 38.86635876371968,
+      "requested_longitude": 8.65339772990492,
+      "returned_latitude": 38.84007,
+      "returned_longitude": 8.606558,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.004871996916134
+    },
+    {
+      "year": 2023,
+      "id": "W087",
+      "requested_latitude": 38.89260735551828,
+      "requested_longitude": 8.779387700270904,
+      "returned_latitude": 38.910366,
+      "returned_longitude": 8.741449,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.83635246937276
+    },
+    {
+      "year": 2023,
+      "id": "W088",
+      "requested_latitude": 38.87605096352226,
+      "requested_longitude": 8.853217901224104,
+      "returned_latitude": 38.84007,
+      "returned_longitude": 8.852459,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.9948896976031114
+    },
+    {
+      "year": 2023,
+      "id": "W089",
+      "requested_latitude": 38.94791425222298,
+      "requested_longitude": 8.962252354072339,
+      "returned_latitude": 38.910366,
+      "returned_longitude": 8.987688,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.715940327381651
+    },
+    {
+      "year": 2023,
+      "id": "W090",
+      "requested_latitude": 38.97223063287869,
+      "requested_longitude": 9.002505791596889,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 9.0,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.961405709873861
+    },
+    {
+      "year": 2023,
+      "id": "W091",
+      "requested_latitude": 39.057042233676604,
+      "requested_longitude": 9.070749985435079,
+      "returned_latitude": 39.050964,
+      "returned_longitude": 9.135802,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.671223149483159
+    },
+    {
+      "year": 2024,
+      "id": "W001",
+      "requested_latitude": 39.193618491258555,
+      "requested_longitude": 9.188245568426035,
+      "returned_latitude": 39.191563,
+      "returned_longitude": 9.160935,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.3703993123486975
+    },
+    {
+      "year": 2024,
+      "id": "W002",
+      "requested_latitude": 39.17911618485936,
+      "requested_longitude": 9.294978523151224,
+      "returned_latitude": 39.191563,
+      "returned_longitude": 9.284732,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.6411025489052151
+    },
+    {
+      "year": 2024,
+      "id": "W003",
+      "requested_latitude": 39.15585874676475,
+      "requested_longitude": 9.383739171314721,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.395604,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.9751677283457427
+    },
+    {
+      "year": 2024,
+      "id": "W004",
+      "requested_latitude": 39.1322466933644,
+      "requested_longitude": 9.415620524913598,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.395604,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.1171310317920895
+    },
+    {
+      "year": 2024,
+      "id": "W005",
+      "requested_latitude": 39.11416834711655,
+      "requested_longitude": 9.460143785320104,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.519231,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.17039896158591
+    },
+    {
+      "year": 2024,
+      "id": "W006",
+      "requested_latitude": 39.139868430186354,
+      "requested_longitude": 9.563887389677562,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.519231,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.378947877085443
+    },
+    {
+      "year": 2024,
+      "id": "W007",
+      "requested_latitude": 39.163136198885816,
+      "requested_longitude": 9.57449755062228,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.519231,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.666106796709716
+    },
+    {
+      "year": 2024,
+      "id": "W008",
+      "requested_latitude": 39.27946368464907,
+      "requested_longitude": 9.622512681072893,
+      "returned_latitude": 39.26186,
+      "returned_longitude": 9.669421,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.4950694897759895
+    },
+    {
+      "year": 2024,
+      "id": "W009",
+      "requested_latitude": 39.36652756040835,
+      "requested_longitude": 9.602192694265769,
+      "returned_latitude": 39.33216,
+      "returned_longitude": 9.682758,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.92378909153746
+    },
+    {
+      "year": 2024,
+      "id": "W010",
+      "requested_latitude": 39.45128210730123,
+      "requested_longitude": 9.64496033727893,
+      "returned_latitude": 39.47276,
+      "returned_longitude": 9.709543,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.0479336045994
+    },
+    {
+      "year": 2024,
+      "id": "W011",
+      "requested_latitude": 39.573596924255995,
+      "requested_longitude": 9.657610201725129,
+      "returned_latitude": 39.543056,
+      "returned_longitude": 9.722992,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.562854652356604
+    },
+    {
+      "year": 2024,
+      "id": "W012",
+      "requested_latitude": 39.65404106895547,
+      "requested_longitude": 9.669152659674277,
+      "returned_latitude": 39.613354,
+      "returned_longitude": 9.736477,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.335636391807831
+    },
+    {
+      "year": 2024,
+      "id": "W013",
+      "requested_latitude": 39.77288661456173,
+      "requested_longitude": 9.680971822167564,
+      "returned_latitude": 39.753952,
+      "returned_longitude": 9.76356,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.382467720004133
+    },
+    {
+      "year": 2024,
+      "id": "W014",
+      "requested_latitude": 39.86870612424202,
+      "requested_longitude": 9.69952420535083,
+      "returned_latitude": 39.824253,
+      "returned_longitude": 9.77716,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.27706447873347
+    },
+    {
+      "year": 2024,
+      "id": "W015",
+      "requested_latitude": 39.973270865421654,
+      "requested_longitude": 9.697133742183203,
+      "returned_latitude": 39.964848,
+      "returned_longitude": 9.80447,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 9.21755930915219
+    },
+    {
+      "year": 2024,
+      "id": "W016",
+      "requested_latitude": 40.05859096473616,
+      "requested_longitude": 9.727802922706651,
+      "returned_latitude": 40.105446,
+      "returned_longitude": 9.705883,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.528331803548721
+    },
+    {
+      "year": 2024,
+      "id": "W017",
+      "requested_latitude": 40.17472207724504,
+      "requested_longitude": 9.653488338509655,
+      "returned_latitude": 40.175747,
+      "returned_longitude": 9.719496,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.623365476324695
+    },
+    {
+      "year": 2024,
+      "id": "W018",
+      "requested_latitude": 40.20880837987,
+      "requested_longitude": 9.637089153966581,
+      "returned_latitude": 40.175747,
+      "returned_longitude": 9.719496,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.919518644385239
+    },
+    {
+      "year": 2024,
+      "id": "W019",
+      "requested_latitude": 40.26724213197076,
+      "requested_longitude": 9.634742164319265,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 9.733146,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.696159290014169
+    },
+    {
+      "year": 2024,
+      "id": "W020",
+      "requested_latitude": 40.294128972510926,
+      "requested_longitude": 9.65317486036329,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 9.733146,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.647350468388376
+    },
+    {
+      "year": 2024,
+      "id": "W021",
+      "requested_latitude": 40.36562106617352,
+      "requested_longitude": 9.72012773690522,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 9.760563,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.1521316432175475
+    },
+    {
+      "year": 2024,
+      "id": "W022",
+      "requested_latitude": 40.38730427467706,
+      "requested_longitude": 9.762393582785494,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 9.760563,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.171953709952302
+    },
+    {
+      "year": 2024,
+      "id": "W023",
+      "requested_latitude": 40.460295423877525,
+      "requested_longitude": 9.804530473837413,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 9.760563,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.989610208373174
+    },
+    {
+      "year": 2024,
+      "id": "W024",
+      "requested_latitude": 40.55164532827851,
+      "requested_longitude": 9.811316470260635,
+      "returned_latitude": 40.597538,
+      "returned_longitude": 9.80198,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.157137141612601
+    },
+    {
+      "year": 2024,
+      "id": "W025",
+      "requested_latitude": 40.65824452353517,
+      "requested_longitude": 9.755116770168081,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 9.815864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.246156794977441
+    },
+    {
+      "year": 2024,
+      "id": "W026",
+      "requested_latitude": 40.693610748347666,
+      "requested_longitude": 9.745134986031085,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 9.815864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.62921255105593
+    },
+    {
+      "year": 2024,
+      "id": "W027",
+      "requested_latitude": 40.7668746615309,
+      "requested_longitude": 9.697477998505436,
+      "returned_latitude": 40.808434,
+      "returned_longitude": 9.715909,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.8702928391156854
+    },
+    {
+      "year": 2024,
+      "id": "W028",
+      "requested_latitude": 40.856643876000454,
+      "requested_longitude": 9.705873820315349,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 9.72973,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.172249282334476
+    },
+    {
+      "year": 2024,
+      "id": "W029",
+      "requested_latitude": 40.883588872629886,
+      "requested_longitude": 9.641201733848462,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 9.615385,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.585831924902924
+    },
+    {
+      "year": 2024,
+      "id": "W030",
+      "requested_latitude": 40.969749221861534,
+      "requested_longitude": 9.6018102043694,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 9.615385,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.5691113397702994
+    },
+    {
+      "year": 2024,
+      "id": "W031",
+      "requested_latitude": 40.98944746850119,
+      "requested_longitude": 9.659683337502786,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 9.629102,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.199072997676359
+    },
+    {
+      "year": 2024,
+      "id": "W032",
+      "requested_latitude": 41.06110137050705,
+      "requested_longitude": 9.551454958564163,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 9.629102,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.00909877079744
+    },
+    {
+      "year": 2024,
+      "id": "W033",
+      "requested_latitude": 41.07510707507799,
+      "requested_longitude": 9.542373846119073,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.527897,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 9.497919623543124
+    },
+    {
+      "year": 2024,
+      "id": "W034",
+      "requested_latitude": 41.15708534084552,
+      "requested_longitude": 9.519474627939125,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.527897,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.7741620839910508
+    },
+    {
+      "year": 2024,
+      "id": "W035",
+      "requested_latitude": 41.105790074846176,
+      "requested_longitude": 9.44256496735745,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.527897,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 9.353304131985608
+    },
+    {
+      "year": 2024,
+      "id": "W036",
+      "requested_latitude": 41.167938791548785,
+      "requested_longitude": 9.428978018626028,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.412607,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.052899609127443
+    },
+    {
+      "year": 2024,
+      "id": "W037",
+      "requested_latitude": 41.206477567581736,
+      "requested_longitude": 9.341844455533026,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.283668,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.5460129446114355
+    },
+    {
+      "year": 2024,
+      "id": "W038",
+      "requested_latitude": 41.258462285610534,
+      "requested_longitude": 9.236340695610586,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.283668,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.056605139023844
+    },
+    {
+      "year": 2024,
+      "id": "W039",
+      "requested_latitude": 41.24630375034135,
+      "requested_longitude": 9.18913483119751,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.154727,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.3921648254700063
+    },
+    {
+      "year": 2024,
+      "id": "W040",
+      "requested_latitude": 41.24423026695706,
+      "requested_longitude": 9.140731599503278,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.154727,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.9478513780932705
+    },
+    {
+      "year": 2024,
+      "id": "W041",
+      "requested_latitude": 41.1483621239987,
+      "requested_longitude": 9.105255550799711,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.012876,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.859881083717678
+    },
+    {
+      "year": 2024,
+      "id": "W042",
+      "requested_latitude": 41.138286758842796,
+      "requested_longitude": 9.047229826647348,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.012876,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.753981214029889
+    },
+    {
+      "year": 2024,
+      "id": "W043",
+      "requested_latitude": 41.06368188850357,
+      "requested_longitude": 8.927476970203909,
+      "returned_latitude": 41.08963,
+      "returned_longitude": 8.871429,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.521727178932773
+    },
+    {
+      "year": 2024,
+      "id": "W044",
+      "requested_latitude": 41.03938762827266,
+      "requested_longitude": 8.894383864773328,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 8.858773,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.7323607383957067
+    },
+    {
+      "year": 2024,
+      "id": "W045",
+      "requested_latitude": 40.95891446146179,
+      "requested_longitude": 8.820566835781333,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 8.858773,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.4398874250419125
+    },
+    {
+      "year": 2024,
+      "id": "W046",
+      "requested_latitude": 40.9405011200936,
+      "requested_longitude": 8.76983655980752,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.717949,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.47069529225498
+    },
+    {
+      "year": 2024,
+      "id": "W047",
+      "requested_latitude": 40.922065413103326,
+      "requested_longitude": 8.719134469952968,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.717949,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.9961529885779807
+    },
+    {
+      "year": 2024,
+      "id": "W048",
+      "requested_latitude": 40.882333947843534,
+      "requested_longitude": 8.624152197852057,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.577525,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.950332560304239
+    },
+    {
+      "year": 2024,
+      "id": "W049",
+      "requested_latitude": 40.84676911861202,
+      "requested_longitude": 8.53477448307345,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.577525,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.0588762706304
+    },
+    {
+      "year": 2024,
+      "id": "W050",
+      "requested_latitude": 40.83350751293008,
+      "requested_longitude": 8.444679720606487,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.449502,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.03899500584134
+    },
+    {
+      "year": 2024,
+      "id": "W051",
+      "requested_latitude": 40.86040863196448,
+      "requested_longitude": 8.398403218338828,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.449502,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.764233830664152
+    },
+    {
+      "year": 2024,
+      "id": "W052",
+      "requested_latitude": 40.91415472091388,
+      "requested_longitude": 8.305737832887207,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.32148,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.1510917707683
+    },
+    {
+      "year": 2024,
+      "id": "W053",
+      "requested_latitude": 40.96017883097127,
+      "requested_longitude": 8.223553157189608,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.205129,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.9847136953169102
+    },
+    {
+      "year": 2024,
+      "id": "W054",
+      "requested_latitude": 40.94657091708686,
+      "requested_longitude": 8.181755391291587,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.205129,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.9869497816726462
+    },
+    {
+      "year": 2024,
+      "id": "W055",
+      "requested_latitude": 40.83937258123337,
+      "requested_longitude": 8.15953615010339,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.193457,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.223735383140675
+    },
+    {
+      "year": 2024,
+      "id": "W056",
+      "requested_latitude": 40.76148170290005,
+      "requested_longitude": 8.146765361557541,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 10.447608831641825
+    },
+    {
+      "year": 2024,
+      "id": "W057",
+      "requested_latitude": 40.74122191649972,
+      "requested_longitude": 8.14462488726427,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.235104311165351
+    },
+    {
+      "year": 2024,
+      "id": "W058",
+      "requested_latitude": 40.70305148008446,
+      "requested_longitude": 8.16456289677873,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.9426347004849
+    },
+    {
+      "year": 2024,
+      "id": "W059",
+      "requested_latitude": 40.636943610137976,
+      "requested_longitude": 8.156454404498675,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.4353788804136776
+    },
+    {
+      "year": 2024,
+      "id": "W060",
+      "requested_latitude": 40.61267594371039,
+      "requested_longitude": 8.140173875233092,
+      "returned_latitude": 40.597538,
+      "returned_longitude": 8.1471,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.7802884511935262
+    },
+    {
+      "year": 2024,
+      "id": "W061",
+      "requested_latitude": 40.57602517158131,
+      "requested_longitude": 8.251953966755163,
+      "returned_latitude": 40.52724,
+      "returned_longitude": 8.2627125,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.493471884794472
+    },
+    {
+      "year": 2024,
+      "id": "W062",
+      "requested_latitude": 40.54646263395261,
+      "requested_longitude": 8.310614302268398,
+      "returned_latitude": 40.52724,
+      "returned_longitude": 8.2627125,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.585440421706405
+    },
+    {
+      "year": 2024,
+      "id": "W063",
+      "requested_latitude": 40.432534013665894,
+      "requested_longitude": 8.349976141553414,
+      "returned_latitude": 40.45694,
+      "returned_longitude": 8.377997,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.6049807921089188
+    },
+    {
+      "year": 2024,
+      "id": "W064",
+      "requested_latitude": 40.39455433338631,
+      "requested_longitude": 8.363067230784454,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 8.366197,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.9179089921268142
+    },
+    {
+      "year": 2024,
+      "id": "W065",
+      "requested_latitude": 40.32412831781642,
+      "requested_longitude": 8.405900783984972,
+      "returned_latitude": 40.31634,
+      "returned_longitude": 8.35443,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.4593507250368125
+    },
+    {
+      "year": 2024,
+      "id": "W066",
+      "requested_latitude": 40.29720774271481,
+      "requested_longitude": 8.452322076493429,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 8.469101,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.857719818342636
+    },
+    {
+      "year": 2024,
+      "id": "W067",
+      "requested_latitude": 40.24208798514335,
+      "requested_longitude": 8.465033010979973,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 8.469101,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.5592627211033021
+    },
+    {
+      "year": 2024,
+      "id": "W068",
+      "requested_latitude": 40.138674461846904,
+      "requested_longitude": 8.465640783029192,
+      "returned_latitude": 40.175747,
+      "returned_longitude": 8.457223,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.178454592377308
+    },
+    {
+      "year": 2024,
+      "id": "W069",
+      "requested_latitude": 40.073087252717855,
+      "requested_longitude": 8.436397708922346,
+      "returned_latitude": 40.105446,
+      "returned_longitude": 8.445378,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.6737138270596956
+    },
+    {
+      "year": 2024,
+      "id": "W070",
+      "requested_latitude": 40.03948875813931,
+      "requested_longitude": 8.37910746204578,
+      "returned_latitude": 40.03515,
+      "returned_longitude": 8.307693,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.114044489454313
+    },
+    {
+      "year": 2024,
+      "id": "W071",
+      "requested_latitude": 39.92468063470272,
+      "requested_longitude": 8.394265469512352,
+      "returned_latitude": 39.89455,
+      "returned_longitude": 8.410042,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.607228474216865
+    },
+    {
+      "year": 2024,
+      "id": "W072",
+      "requested_latitude": 39.86898897070308,
+      "requested_longitude": 8.455698125451466,
+      "returned_latitude": 39.89455,
+      "returned_longitude": 8.410042,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.827784364933889
+    },
+    {
+      "year": 2024,
+      "id": "W073",
+      "requested_latitude": 39.8495489596039,
+      "requested_longitude": 8.488591804647479,
+      "returned_latitude": 39.824253,
+      "returned_longitude": 8.523677,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.111881781488643
+    },
+    {
+      "year": 2024,
+      "id": "W074",
+      "requested_latitude": 39.73875905366353,
+      "requested_longitude": 8.442564698033276,
+      "returned_latitude": 39.753952,
+      "returned_longitude": 8.386648,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.08076613173012
+    },
+    {
+      "year": 2024,
+      "id": "W075",
+      "requested_latitude": 39.62717258327972,
+      "requested_longitude": 8.450241286357471,
+      "returned_latitude": 39.613354,
+      "returned_longitude": 8.363384,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.614175096171217
+    },
+    {
+      "year": 2024,
+      "id": "W076",
+      "requested_latitude": 39.52476506582877,
+      "requested_longitude": 8.431754205943077,
+      "returned_latitude": 39.543056,
+      "returned_longitude": 8.351801,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.1674141183159765
+    },
+    {
+      "year": 2024,
+      "id": "W077",
+      "requested_latitude": 39.44308131878858,
+      "requested_longitude": 8.400034567516467,
+      "returned_latitude": 39.47276,
+      "returned_longitude": 8.340249,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.110084622179901
+    },
+    {
+      "year": 2024,
+      "id": "W078",
+      "requested_latitude": 39.344206183741086,
+      "requested_longitude": 8.39077690810853,
+      "returned_latitude": 39.33216,
+      "returned_longitude": 8.317242,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.4791604355895025
+    },
+    {
+      "year": 2024,
+      "id": "W079",
+      "requested_latitude": 39.24355491992849,
+      "requested_longitude": 8.383120577822543,
+      "returned_latitude": 39.26186,
+      "returned_longitude": 8.305785,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.977896587584531
+    },
+    {
+      "year": 2024,
+      "id": "W080",
+      "requested_latitude": 39.11444803997805,
+      "requested_longitude": 8.353923349881775,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 8.406593,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.61744606688986
+    },
+    {
+      "year": 2024,
+      "id": "W081",
+      "requested_latitude": 39.08091651797749,
+      "requested_longitude": 8.348237034581244,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 8.406593,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.748839897139708
+    },
+    {
+      "year": 2024,
+      "id": "W082",
+      "requested_latitude": 39.02986040138507,
+      "requested_longitude": 8.364238397558507,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 8.383561,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.7119547836222475
+    },
+    {
+      "year": 2024,
+      "id": "W083",
+      "requested_latitude": 38.975333394840725,
+      "requested_longitude": 8.466946799894698,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 8.506849,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.5079862550377254
+    },
+    {
+      "year": 2024,
+      "id": "W084",
+      "requested_latitude": 38.95883927749383,
+      "requested_longitude": 8.564217675535039,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 8.506849,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.530847916626947
+    },
+    {
+      "year": 2024,
+      "id": "W085",
+      "requested_latitude": 38.94439888826915,
+      "requested_longitude": 8.601358411974477,
+      "returned_latitude": 38.910366,
+      "returned_longitude": 8.618331,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.054675445717997
+    },
+    {
+      "year": 2024,
+      "id": "W086",
+      "requested_latitude": 38.86635876371968,
+      "requested_longitude": 8.65339772990492,
+      "returned_latitude": 38.84007,
+      "returned_longitude": 8.606558,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.004871996916134
+    },
+    {
+      "year": 2024,
+      "id": "W087",
+      "requested_latitude": 38.89260735551828,
+      "requested_longitude": 8.779387700270904,
+      "returned_latitude": 38.910366,
+      "returned_longitude": 8.741449,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.83635246937276
+    },
+    {
+      "year": 2024,
+      "id": "W088",
+      "requested_latitude": 38.87605096352226,
+      "requested_longitude": 8.853217901224104,
+      "returned_latitude": 38.84007,
+      "returned_longitude": 8.852459,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.9948896976031114
+    },
+    {
+      "year": 2024,
+      "id": "W089",
+      "requested_latitude": 38.94791425222298,
+      "requested_longitude": 8.962252354072339,
+      "returned_latitude": 38.910366,
+      "returned_longitude": 8.987688,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.715940327381651
+    },
+    {
+      "year": 2024,
+      "id": "W090",
+      "requested_latitude": 38.97223063287869,
+      "requested_longitude": 9.002505791596889,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 9.0,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.961405709873861
+    },
+    {
+      "year": 2024,
+      "id": "W091",
+      "requested_latitude": 39.057042233676604,
+      "requested_longitude": 9.070749985435079,
+      "returned_latitude": 39.050964,
+      "returned_longitude": 9.135802,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.671223149483159
+    },
+    {
+      "year": 2025,
+      "id": "W001",
+      "requested_latitude": 39.193618491258555,
+      "requested_longitude": 9.188245568426035,
+      "returned_latitude": 39.191563,
+      "returned_longitude": 9.160935,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.3703993123486975
+    },
+    {
+      "year": 2025,
+      "id": "W002",
+      "requested_latitude": 39.17911618485936,
+      "requested_longitude": 9.294978523151224,
+      "returned_latitude": 39.191563,
+      "returned_longitude": 9.284732,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.6411025489052151
+    },
+    {
+      "year": 2025,
+      "id": "W003",
+      "requested_latitude": 39.15585874676475,
+      "requested_longitude": 9.383739171314721,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.395604,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.9751677283457427
+    },
+    {
+      "year": 2025,
+      "id": "W004",
+      "requested_latitude": 39.1322466933644,
+      "requested_longitude": 9.415620524913598,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.395604,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.1171310317920895
+    },
+    {
+      "year": 2025,
+      "id": "W005",
+      "requested_latitude": 39.11416834711655,
+      "requested_longitude": 9.460143785320104,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.519231,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.17039896158591
+    },
+    {
+      "year": 2025,
+      "id": "W006",
+      "requested_latitude": 39.139868430186354,
+      "requested_longitude": 9.563887389677562,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.519231,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.378947877085443
+    },
+    {
+      "year": 2025,
+      "id": "W007",
+      "requested_latitude": 39.163136198885816,
+      "requested_longitude": 9.57449755062228,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 9.519231,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.666106796709716
+    },
+    {
+      "year": 2025,
+      "id": "W008",
+      "requested_latitude": 39.27946368464907,
+      "requested_longitude": 9.622512681072893,
+      "returned_latitude": 39.26186,
+      "returned_longitude": 9.669421,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.4950694897759895
+    },
+    {
+      "year": 2025,
+      "id": "W009",
+      "requested_latitude": 39.36652756040835,
+      "requested_longitude": 9.602192694265769,
+      "returned_latitude": 39.33216,
+      "returned_longitude": 9.682758,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.92378909153746
+    },
+    {
+      "year": 2025,
+      "id": "W010",
+      "requested_latitude": 39.45128210730123,
+      "requested_longitude": 9.64496033727893,
+      "returned_latitude": 39.47276,
+      "returned_longitude": 9.709543,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.0479336045994
+    },
+    {
+      "year": 2025,
+      "id": "W011",
+      "requested_latitude": 39.573596924255995,
+      "requested_longitude": 9.657610201725129,
+      "returned_latitude": 39.543056,
+      "returned_longitude": 9.722992,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.562854652356604
+    },
+    {
+      "year": 2025,
+      "id": "W012",
+      "requested_latitude": 39.65404106895547,
+      "requested_longitude": 9.669152659674277,
+      "returned_latitude": 39.613354,
+      "returned_longitude": 9.736477,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.335636391807831
+    },
+    {
+      "year": 2025,
+      "id": "W013",
+      "requested_latitude": 39.77288661456173,
+      "requested_longitude": 9.680971822167564,
+      "returned_latitude": 39.753952,
+      "returned_longitude": 9.76356,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.382467720004133
+    },
+    {
+      "year": 2025,
+      "id": "W014",
+      "requested_latitude": 39.86870612424202,
+      "requested_longitude": 9.69952420535083,
+      "returned_latitude": 39.824253,
+      "returned_longitude": 9.77716,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.27706447873347
+    },
+    {
+      "year": 2025,
+      "id": "W015",
+      "requested_latitude": 39.973270865421654,
+      "requested_longitude": 9.697133742183203,
+      "returned_latitude": 39.964848,
+      "returned_longitude": 9.80447,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 9.21755930915219
+    },
+    {
+      "year": 2025,
+      "id": "W016",
+      "requested_latitude": 40.05859096473616,
+      "requested_longitude": 9.727802922706651,
+      "returned_latitude": 40.105446,
+      "returned_longitude": 9.705883,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.528331803548721
+    },
+    {
+      "year": 2025,
+      "id": "W017",
+      "requested_latitude": 40.17472207724504,
+      "requested_longitude": 9.653488338509655,
+      "returned_latitude": 40.175747,
+      "returned_longitude": 9.719496,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.623365476324695
+    },
+    {
+      "year": 2025,
+      "id": "W018",
+      "requested_latitude": 40.20880837987,
+      "requested_longitude": 9.637089153966581,
+      "returned_latitude": 40.175747,
+      "returned_longitude": 9.719496,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.919518644385239
+    },
+    {
+      "year": 2025,
+      "id": "W019",
+      "requested_latitude": 40.26724213197076,
+      "requested_longitude": 9.634742164319265,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 9.733146,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.696159290014169
+    },
+    {
+      "year": 2025,
+      "id": "W020",
+      "requested_latitude": 40.294128972510926,
+      "requested_longitude": 9.65317486036329,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 9.733146,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.647350468388376
+    },
+    {
+      "year": 2025,
+      "id": "W021",
+      "requested_latitude": 40.36562106617352,
+      "requested_longitude": 9.72012773690522,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 9.760563,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.1521316432175475
+    },
+    {
+      "year": 2025,
+      "id": "W022",
+      "requested_latitude": 40.38730427467706,
+      "requested_longitude": 9.762393582785494,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 9.760563,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.171953709952302
+    },
+    {
+      "year": 2025,
+      "id": "W023",
+      "requested_latitude": 40.460295423877525,
+      "requested_longitude": 9.804530473837413,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 9.760563,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.989610208373174
+    },
+    {
+      "year": 2025,
+      "id": "W024",
+      "requested_latitude": 40.55164532827851,
+      "requested_longitude": 9.811316470260635,
+      "returned_latitude": 40.597538,
+      "returned_longitude": 9.80198,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.157137141612601
+    },
+    {
+      "year": 2025,
+      "id": "W025",
+      "requested_latitude": 40.65824452353517,
+      "requested_longitude": 9.755116770168081,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 9.815864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.246156794977441
+    },
+    {
+      "year": 2025,
+      "id": "W026",
+      "requested_latitude": 40.693610748347666,
+      "requested_longitude": 9.745134986031085,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 9.815864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.62921255105593
+    },
+    {
+      "year": 2025,
+      "id": "W027",
+      "requested_latitude": 40.7668746615309,
+      "requested_longitude": 9.697477998505436,
+      "returned_latitude": 40.808434,
+      "returned_longitude": 9.715909,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.8702928391156854
+    },
+    {
+      "year": 2025,
+      "id": "W028",
+      "requested_latitude": 40.856643876000454,
+      "requested_longitude": 9.705873820315349,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 9.72973,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.172249282334476
+    },
+    {
+      "year": 2025,
+      "id": "W029",
+      "requested_latitude": 40.883588872629886,
+      "requested_longitude": 9.641201733848462,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 9.615385,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.585831924902924
+    },
+    {
+      "year": 2025,
+      "id": "W030",
+      "requested_latitude": 40.969749221861534,
+      "requested_longitude": 9.6018102043694,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 9.615385,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.5691113397702994
+    },
+    {
+      "year": 2025,
+      "id": "W031",
+      "requested_latitude": 40.98944746850119,
+      "requested_longitude": 9.659683337502786,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 9.629102,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.199072997676359
+    },
+    {
+      "year": 2025,
+      "id": "W032",
+      "requested_latitude": 41.06110137050705,
+      "requested_longitude": 9.551454958564163,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 9.629102,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.00909877079744
+    },
+    {
+      "year": 2025,
+      "id": "W033",
+      "requested_latitude": 41.07510707507799,
+      "requested_longitude": 9.542373846119073,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.527897,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 9.497919623543124
+    },
+    {
+      "year": 2025,
+      "id": "W034",
+      "requested_latitude": 41.15708534084552,
+      "requested_longitude": 9.519474627939125,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.527897,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.7741620839910508
+    },
+    {
+      "year": 2025,
+      "id": "W035",
+      "requested_latitude": 41.105790074846176,
+      "requested_longitude": 9.44256496735745,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.527897,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 9.353304131985608
+    },
+    {
+      "year": 2025,
+      "id": "W036",
+      "requested_latitude": 41.167938791548785,
+      "requested_longitude": 9.428978018626028,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.412607,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.052899609127443
+    },
+    {
+      "year": 2025,
+      "id": "W037",
+      "requested_latitude": 41.206477567581736,
+      "requested_longitude": 9.341844455533026,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.283668,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.5460129446114355
+    },
+    {
+      "year": 2025,
+      "id": "W038",
+      "requested_latitude": 41.258462285610534,
+      "requested_longitude": 9.236340695610586,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.283668,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.056605139023844
+    },
+    {
+      "year": 2025,
+      "id": "W039",
+      "requested_latitude": 41.24630375034135,
+      "requested_longitude": 9.18913483119751,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.154727,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.3921648254700063
+    },
+    {
+      "year": 2025,
+      "id": "W040",
+      "requested_latitude": 41.24423026695706,
+      "requested_longitude": 9.140731599503278,
+      "returned_latitude": 41.23023,
+      "returned_longitude": 9.154727,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.9478513780932705
+    },
+    {
+      "year": 2025,
+      "id": "W041",
+      "requested_latitude": 41.1483621239987,
+      "requested_longitude": 9.105255550799711,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.012876,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.859881083717678
+    },
+    {
+      "year": 2025,
+      "id": "W042",
+      "requested_latitude": 41.138286758842796,
+      "requested_longitude": 9.047229826647348,
+      "returned_latitude": 41.159927,
+      "returned_longitude": 9.012876,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.753981214029889
+    },
+    {
+      "year": 2025,
+      "id": "W043",
+      "requested_latitude": 41.06368188850357,
+      "requested_longitude": 8.927476970203909,
+      "returned_latitude": 41.08963,
+      "returned_longitude": 8.871429,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.521727178932773
+    },
+    {
+      "year": 2025,
+      "id": "W044",
+      "requested_latitude": 41.03938762827266,
+      "requested_longitude": 8.894383864773328,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 8.858773,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.7323607383957067
+    },
+    {
+      "year": 2025,
+      "id": "W045",
+      "requested_latitude": 40.95891446146179,
+      "requested_longitude": 8.820566835781333,
+      "returned_latitude": 41.01933,
+      "returned_longitude": 8.858773,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.4398874250419125
+    },
+    {
+      "year": 2025,
+      "id": "W046",
+      "requested_latitude": 40.9405011200936,
+      "requested_longitude": 8.76983655980752,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.717949,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.47069529225498
+    },
+    {
+      "year": 2025,
+      "id": "W047",
+      "requested_latitude": 40.922065413103326,
+      "requested_longitude": 8.719134469952968,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.717949,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 2.9961529885779807
+    },
+    {
+      "year": 2025,
+      "id": "W048",
+      "requested_latitude": 40.882333947843534,
+      "requested_longitude": 8.624152197852057,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.577525,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.950332560304239
+    },
+    {
+      "year": 2025,
+      "id": "W049",
+      "requested_latitude": 40.84676911861202,
+      "requested_longitude": 8.53477448307345,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.577525,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.0588762706304
+    },
+    {
+      "year": 2025,
+      "id": "W050",
+      "requested_latitude": 40.83350751293008,
+      "requested_longitude": 8.444679720606487,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.449502,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.03899500584134
+    },
+    {
+      "year": 2025,
+      "id": "W051",
+      "requested_latitude": 40.86040863196448,
+      "requested_longitude": 8.398403218338828,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.449502,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.764233830664152
+    },
+    {
+      "year": 2025,
+      "id": "W052",
+      "requested_latitude": 40.91415472091388,
+      "requested_longitude": 8.305737832887207,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.32148,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.1510917707683
+    },
+    {
+      "year": 2025,
+      "id": "W053",
+      "requested_latitude": 40.96017883097127,
+      "requested_longitude": 8.223553157189608,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.205129,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.9847136953169102
+    },
+    {
+      "year": 2025,
+      "id": "W054",
+      "requested_latitude": 40.94657091708686,
+      "requested_longitude": 8.181755391291587,
+      "returned_latitude": 40.94903,
+      "returned_longitude": 8.205129,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.9869497816726462
+    },
+    {
+      "year": 2025,
+      "id": "W055",
+      "requested_latitude": 40.83937258123337,
+      "requested_longitude": 8.15953615010339,
+      "returned_latitude": 40.878735,
+      "returned_longitude": 8.193457,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.223735383140675
+    },
+    {
+      "year": 2025,
+      "id": "W056",
+      "requested_latitude": 40.76148170290005,
+      "requested_longitude": 8.146765361557541,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 10.447608831641825
+    },
+    {
+      "year": 2025,
+      "id": "W057",
+      "requested_latitude": 40.74122191649972,
+      "requested_longitude": 8.14462488726427,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 8.235104311165351
+    },
+    {
+      "year": 2025,
+      "id": "W058",
+      "requested_latitude": 40.70305148008446,
+      "requested_longitude": 8.16456289677873,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.9426347004849
+    },
+    {
+      "year": 2025,
+      "id": "W059",
+      "requested_latitude": 40.636943610137976,
+      "requested_longitude": 8.156454404498675,
+      "returned_latitude": 40.667835,
+      "returned_longitude": 8.15864,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.4353788804136776
+    },
+    {
+      "year": 2025,
+      "id": "W060",
+      "requested_latitude": 40.61267594371039,
+      "requested_longitude": 8.140173875233092,
+      "returned_latitude": 40.597538,
+      "returned_longitude": 8.1471,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 1.7802884511935262
+    },
+    {
+      "year": 2025,
+      "id": "W061",
+      "requested_latitude": 40.57602517158131,
+      "requested_longitude": 8.251953966755163,
+      "returned_latitude": 40.52724,
+      "returned_longitude": 8.2627125,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.493471884794472
+    },
+    {
+      "year": 2025,
+      "id": "W062",
+      "requested_latitude": 40.54646263395261,
+      "requested_longitude": 8.310614302268398,
+      "returned_latitude": 40.52724,
+      "returned_longitude": 8.2627125,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.585440421706405
+    },
+    {
+      "year": 2025,
+      "id": "W063",
+      "requested_latitude": 40.432534013665894,
+      "requested_longitude": 8.349976141553414,
+      "returned_latitude": 40.45694,
+      "returned_longitude": 8.377997,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.6049807921089188
+    },
+    {
+      "year": 2025,
+      "id": "W064",
+      "requested_latitude": 40.39455433338631,
+      "requested_longitude": 8.363067230784454,
+      "returned_latitude": 40.386642,
+      "returned_longitude": 8.366197,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.9179089921268142
+    },
+    {
+      "year": 2025,
+      "id": "W065",
+      "requested_latitude": 40.32412831781642,
+      "requested_longitude": 8.405900783984972,
+      "returned_latitude": 40.31634,
+      "returned_longitude": 8.35443,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.4593507250368125
+    },
+    {
+      "year": 2025,
+      "id": "W066",
+      "requested_latitude": 40.29720774271481,
+      "requested_longitude": 8.452322076493429,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 8.469101,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.857719818342636
+    },
+    {
+      "year": 2025,
+      "id": "W067",
+      "requested_latitude": 40.24208798514335,
+      "requested_longitude": 8.465033010979973,
+      "returned_latitude": 40.246044,
+      "returned_longitude": 8.469101,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.5592627211033021
+    },
+    {
+      "year": 2025,
+      "id": "W068",
+      "requested_latitude": 40.138674461846904,
+      "requested_longitude": 8.465640783029192,
+      "returned_latitude": 40.175747,
+      "returned_longitude": 8.457223,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.178454592377308
+    },
+    {
+      "year": 2025,
+      "id": "W069",
+      "requested_latitude": 40.073087252717855,
+      "requested_longitude": 8.436397708922346,
+      "returned_latitude": 40.105446,
+      "returned_longitude": 8.445378,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.6737138270596956
+    },
+    {
+      "year": 2025,
+      "id": "W070",
+      "requested_latitude": 40.03948875813931,
+      "requested_longitude": 8.37910746204578,
+      "returned_latitude": 40.03515,
+      "returned_longitude": 8.307693,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.114044489454313
+    },
+    {
+      "year": 2025,
+      "id": "W071",
+      "requested_latitude": 39.92468063470272,
+      "requested_longitude": 8.394265469512352,
+      "returned_latitude": 39.89455,
+      "returned_longitude": 8.410042,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.607228474216865
+    },
+    {
+      "year": 2025,
+      "id": "W072",
+      "requested_latitude": 39.86898897070308,
+      "requested_longitude": 8.455698125451466,
+      "returned_latitude": 39.89455,
+      "returned_longitude": 8.410042,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.827784364933889
+    },
+    {
+      "year": 2025,
+      "id": "W073",
+      "requested_latitude": 39.8495489596039,
+      "requested_longitude": 8.488591804647479,
+      "returned_latitude": 39.824253,
+      "returned_longitude": 8.523677,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.111881781488643
+    },
+    {
+      "year": 2025,
+      "id": "W074",
+      "requested_latitude": 39.73875905366353,
+      "requested_longitude": 8.442564698033276,
+      "returned_latitude": 39.753952,
+      "returned_longitude": 8.386648,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.08076613173012
+    },
+    {
+      "year": 2025,
+      "id": "W075",
+      "requested_latitude": 39.62717258327972,
+      "requested_longitude": 8.450241286357471,
+      "returned_latitude": 39.613354,
+      "returned_longitude": 8.363384,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.614175096171217
+    },
+    {
+      "year": 2025,
+      "id": "W076",
+      "requested_latitude": 39.52476506582877,
+      "requested_longitude": 8.431754205943077,
+      "returned_latitude": 39.543056,
+      "returned_longitude": 8.351801,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 7.1674141183159765
+    },
+    {
+      "year": 2025,
+      "id": "W077",
+      "requested_latitude": 39.44308131878858,
+      "requested_longitude": 8.400034567516467,
+      "returned_latitude": 39.47276,
+      "returned_longitude": 8.340249,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.110084622179901
+    },
+    {
+      "year": 2025,
+      "id": "W078",
+      "requested_latitude": 39.344206183741086,
+      "requested_longitude": 8.39077690810853,
+      "returned_latitude": 39.33216,
+      "returned_longitude": 8.317242,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.4791604355895025
+    },
+    {
+      "year": 2025,
+      "id": "W079",
+      "requested_latitude": 39.24355491992849,
+      "requested_longitude": 8.383120577822543,
+      "returned_latitude": 39.26186,
+      "returned_longitude": 8.305785,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.977896587584531
+    },
+    {
+      "year": 2025,
+      "id": "W080",
+      "requested_latitude": 39.11444803997805,
+      "requested_longitude": 8.353923349881775,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 8.406593,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.61744606688986
+    },
+    {
+      "year": 2025,
+      "id": "W081",
+      "requested_latitude": 39.08091651797749,
+      "requested_longitude": 8.348237034581244,
+      "returned_latitude": 39.121265,
+      "returned_longitude": 8.406593,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 6.748839897139708
+    },
+    {
+      "year": 2025,
+      "id": "W082",
+      "requested_latitude": 39.02986040138507,
+      "requested_longitude": 8.364238397558507,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 8.383561,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.7119547836222475
+    },
+    {
+      "year": 2025,
+      "id": "W083",
+      "requested_latitude": 38.975333394840725,
+      "requested_longitude": 8.466946799894698,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 8.506849,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.5079862550377254
+    },
+    {
+      "year": 2025,
+      "id": "W084",
+      "requested_latitude": 38.95883927749383,
+      "requested_longitude": 8.564217675535039,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 8.506849,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.530847916626947
+    },
+    {
+      "year": 2025,
+      "id": "W085",
+      "requested_latitude": 38.94439888826915,
+      "requested_longitude": 8.601358411974477,
+      "returned_latitude": 38.910366,
+      "returned_longitude": 8.618331,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.054675445717997
+    },
+    {
+      "year": 2025,
+      "id": "W086",
+      "requested_latitude": 38.86635876371968,
+      "requested_longitude": 8.65339772990492,
+      "returned_latitude": 38.84007,
+      "returned_longitude": 8.606558,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.004871996916134
+    },
+    {
+      "year": 2025,
+      "id": "W087",
+      "requested_latitude": 38.89260735551828,
+      "requested_longitude": 8.779387700270904,
+      "returned_latitude": 38.910366,
+      "returned_longitude": 8.741449,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.83635246937276
+    },
+    {
+      "year": 2025,
+      "id": "W088",
+      "requested_latitude": 38.87605096352226,
+      "requested_longitude": 8.853217901224104,
+      "returned_latitude": 38.84007,
+      "returned_longitude": 8.852459,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 3.9948896976031114
+    },
+    {
+      "year": 2025,
+      "id": "W089",
+      "requested_latitude": 38.94791425222298,
+      "requested_longitude": 8.962252354072339,
+      "returned_latitude": 38.910366,
+      "returned_longitude": 8.987688,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 4.715940327381651
+    },
+    {
+      "year": 2025,
+      "id": "W090",
+      "requested_latitude": 38.97223063287869,
+      "requested_longitude": 9.002505791596889,
+      "returned_latitude": 38.980667,
+      "returned_longitude": 9.0,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 0.961405709873861
+    },
+    {
+      "year": 2025,
+      "id": "W091",
+      "requested_latitude": 39.057042233676604,
+      "requested_longitude": 9.070749985435079,
+      "returned_latitude": 39.050964,
+      "returned_longitude": 9.135802,
+      "elevation": 0.0,
+      "hours": 744,
+      "null_counts": {
+        "wind_speed_10m": 0,
+        "wind_direction_10m": 0,
+        "wind_gusts_10m": 0
+      },
+      "grid_offset_km": 5.671223149483159
+    }
+  ]
+}

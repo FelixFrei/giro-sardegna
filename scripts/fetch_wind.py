@@ -46,12 +46,12 @@ def prepare():
     return result
 
 
-def validate_row(row,year):
-    hours=row['hourly']; expected=int(datetime(year,9,1,tzinfo=timezone.utc).timestamp())
+def validate_row(row,year,month=9,days=61):
+    hours=row['hourly']; expected=int(datetime(year,month,1,tzinfo=timezone.utc).timestamp())
     assert row['utc_offset_seconds']==0
-    assert hours['time']==list(range(expected,expected+61*86400,3600))
+    assert hours['time']==list(range(expected,expected+days*86400,3600))
     for key in VARIABLES:
-        assert len(hours[key])==1464
+        assert len(hours[key])==days*24
         assert all(v is None or isinstance(v,(int,float)) and math.isfinite(v) for v in hours[key])
     assert row['hourly_units']['wind_speed_10m']=='kn'
     assert row['hourly_units']['wind_gusts_10m']=='kn'
@@ -60,8 +60,9 @@ def validate_row(row,year):
     assert all(v is None or v>=0 for v in hours['wind_speed_10m'])
 
 
-def fetch(years):
-    sampling=prepare(); points=sampling['points']; raw=DATA/'raw';raw.mkdir(exist_ok=True)
+def fetch(years,august=False):
+    month,days=(8,31) if august else (9,61)
+    sampling=prepare(); points=sampling['points']; raw=DATA/('raw-august' if august else 'raw');raw.mkdir(exist_ok=True)
     print(f'{len(points)} request points; {len(sampling["segments"])} route pieces',flush=True)
     for year in years:
         for i in range(0,len(points),5):
@@ -69,7 +70,7 @@ def fetch(years):
             target=raw/(name+'.json.gz'); manifest=raw/(name+'.request.json')
             params=dict(latitude=','.join(str(round(p['latitude'],6)) for p in batch),
                         longitude=','.join(str(round(p['longitude'],6)) for p in batch),
-                        start_date=f'{year}-09-01',end_date=f'{year}-10-31',
+                        start_date=f'{year}-{month:02d}-01',end_date=f'{year}-08-31' if august else f'{year}-10-31',
                         hourly=','.join(VARIABLES),models='ecmwf_ifs',cell_selection='sea',
                         elevation=','.join(['nan']*len(batch)),wind_speed_unit='kn',timezone='GMT',timeformat='unixtime')
             if target.exists() and manifest.exists():
@@ -84,23 +85,23 @@ def fetch(years):
                 response.raise_for_status(); payload=response.json()
                 rows=payload if isinstance(payload,list) else [payload]
                 assert len(rows)==len(batch)
-                for row in rows:validate_row(row,year)
+                for row in rows:validate_row(row,year,month,days)
                 content=gzip.compress(response.content,mtime=0);target.write_bytes(content)
                 manifest.write_text(json.dumps(dict(url=response.url,params=params,point_ids=[p['id'] for p in batch],
                     retrieved_at_utc=datetime.now(timezone.utc).isoformat(),http_status=response.status_code,
                     sha256=hashlib.sha256(content).hexdigest()),indent=2)+'\n')
                 time.sleep(3)
             rows=payload if isinstance(payload,list) else [payload]
-            for row in rows:validate_row(row,year)
+            for row in rows:validate_row(row,year,month,days)
             print(year,i+len(batch),'/',len(points),flush=True)
-    summarize(years,sampling)
+    summarize(years,sampling,august)
 
 
-def summarize(years,sampling):
+def summarize(years,sampling,august=False):
     records=[]
     for year in years:
         for i in range(0,len(sampling['points']),5):
-            stem=DATA/'raw'/f'ifs-{year}-{i//5:03d}'
+            stem=DATA/('raw-august' if august else 'raw')/f'ifs-{year}-{i//5:03d}'
             rows=json.loads(gzip.decompress(Path(str(stem)+'.json.gz').read_bytes()))
             rows=rows if isinstance(rows,list) else [rows]
             for point,row in zip(sampling['points'][i:i+5],rows):
@@ -108,18 +109,19 @@ def summarize(years,sampling):
                     returned_latitude=row['latitude'],returned_longitude=row['longitude'],elevation=row['elevation'],
                     hours=len(row['hourly']['time']),null_counts={k:row['hourly'][k].count(None) for k in VARIABLES},
                     grid_offset_km=GEOD.inv(point['longitude'],point['latitude'],row['longitude'],row['latitude'])[2]/1000))
-    report=dict(years=years,period='09-01 through 10-31 UTC',model='ecmwf_ifs',request_points=len(sampling['points']),
+    report=dict(years=years,period='08-01 through 08-31 UTC' if august else '09-01 through 10-31 UTC',model='ecmwf_ifs',request_points=len(sampling['points']),
                 route_segments=len(sampling['segments']),point_hours=sum(r['hours'] for r in records),
                 unique_returned_cells=len({(r['returned_latitude'],r['returned_longitude']) for r in records}),
                 total_nulls=sum(sum(r['null_counts'].values()) for r in records),
                 max_grid_offset_km=max(r['grid_offset_km'] for r in records),records=records)
-    (DATA/'coverage.json').write_text(json.dumps(report,indent=2)+'\n')
+    (DATA/('coverage-august.json' if august else 'coverage.json')).write_text(json.dumps(report,indent=2)+'\n')
     print({k:v for k,v in report.items() if k!='records'},flush=True)
 
 
 if __name__=='__main__':
     parser=argparse.ArgumentParser();parser.add_argument('--years',nargs='+',type=int,default=[2022,2023,2024,2025]);parser.add_argument('--prepare-only',action='store_true')
+    parser.add_argument('--august-only',action='store_true')
     args=parser.parse_args()
     if args.prepare_only:
         s=prepare();print(len(s['points']),'weather points,',len(s['segments']),'route pieces')
-    else:fetch(args.years)
+    else:fetch(args.years,args.august_only)

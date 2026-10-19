@@ -26,7 +26,7 @@ def compatible(u,v,bearing,config):
     return True,'ok'
 
 
-def load_weather(year):
+def load_weather(year,august=False):
     weather={};base=None
     for manifest in sorted((DATA/'raw').glob(f'ifs-{year}-*.request.json')):
         m=json.loads(manifest.read_text());name=manifest.name.replace('.request.json','.json.gz')
@@ -35,6 +35,20 @@ def load_weather(year):
         for ident,row in zip(m['point_ids'],rows):
             h=row['hourly'];base=h['time'][0]
             weather[ident]=[components(s,d) for s,d in zip(h['wind_speed_10m'],h['wind_direction_10m'])]
+    if august:
+        prefix={};august_base=None
+        for manifest in sorted((DATA/'raw-august').glob(f'ifs-{year}-*.request.json')):
+            m=json.loads(manifest.read_text())
+            rows=json.loads(gzip.decompress(manifest.with_name(manifest.name.replace('.request.json','.json.gz')).read_bytes()))
+            rows=rows if isinstance(rows,list) else [rows]
+            for ident,row in zip(m['point_ids'],rows):
+                h=row['hourly'];august_base=h['time'][0]
+                assert h['time'][-1]+3600==base, 'August/September discontinuity'
+                assert ident not in prefix
+                prefix[ident]=[components(s,d) for s,d in zip(h['wind_speed_10m'],h['wind_direction_10m'])]
+        assert set(prefix)==set(weather), 'Incomplete August data'
+        weather={ident:prefix[ident]+values for ident,values in weather.items()}
+        base=august_base
     return base,weather
 
 

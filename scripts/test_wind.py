@@ -38,6 +38,14 @@ class WindTests(unittest.TestCase):
             for speed,expected in [(11.9,False),(12,True),(20,True),(20.1,False),(25,False)]:
                 self.assertEqual(compatible(*components(speed,direction),0,cfg)[0],expected)
 
+    def test_august_half_circle_and_speed_limits(self):
+        cfg=json.loads((ROOT/'data/phase2/simulation-config-august-180-12-20kn.json').read_text())
+        for speed,expected in [(11.9,False),(12,True),(20,True),(20.1,False)]:
+            self.assertEqual(compatible(*components(speed,0),180,cfg)[0],expected)
+        self.assertFalse(compatible(*components(16,0),0,cfg)[0])
+        self.assertTrue(compatible(*components(16,0),90,cfg)[0])
+        self.assertTrue(compatible(*components(16,0),270,cfg)[0])
+
     def test_speed_boundaries(self):
         for speed,result in [(14.9,False),(15,True),(25,True),(25.1,False)]:
             self.assertEqual(compatible(*components(speed,270),90,CFG)[0],result)
