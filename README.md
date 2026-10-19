@@ -1,27 +1,62 @@
 # Sardinien mit dem Wingfoil umrunden
 
-Stand: 18.10.2026. Sprache: Deutsch. Reisezeit: September; Reisejahr noch offen.
+Stand: 19.10.2026 · Planung für einen Start im August · Reisejahr noch offen
 
-Der erste recherchierte Routenentwurf liegt vor: **rund 891 km, 58 Landeplatzkandidaten und eine Hotelkette rund um Sardinien**, mit Start/Ziel Cagliari/Poetto und Aussenumrundung von Sant’Antioco. Beides ist als Arbeitsumfang bestätigt.
+**Mit 33 strandnahen Hotelzielen sind vollständige Umrundungen im Basismodell möglich – allerdings mit vielen Wartetagen.** Im vorsichtigen Leistungsmodell gelingt bisher keine ganze Runde. Gegen den Uhrzeigersinn gibt es vollständige Reisen in drei der vier untersuchten Wetterjahre, im Uhrzeigersinn in einem.
 
-Die Route ist in **16 flexible Module** aufgeteilt und alternativ zu **neun Fahrtagen** gebündelt, jeweils mit 2–3 Pausen und in beiden Fahrtrichtungen. Alle Tage bleiben bei konstant 25 km/h unter fünf rechnerischen Fahrstunden. Ein erster historischer Windvergleich mit Wartetagen ist jetzt dokumentiert; die Fahrtgeschwindigkeit bleibt dabei konstant angesetzt. Die Dokumentation konzentriert sich auf Etappen, Pausen, Versorgung und strandnahe Hotels.
+Die Route umfasst **rund 891 km**, umrundet Sant’Antioco aussen und führt zum jeweils gewählten Startort zurück. Alle **33 Hotelorte** wurden als Start und Ziel geprüft. Cagliari/Poetto bleibt der ursprüngliche Referenzstart; ab dort gelingt unter den aktuellen Annahmen noch keine vollständige Runde.
 
-Zum Einstieg: [Routen und Etappen](docs/06-routenvarianten.md) · [Landeplätze](docs/05-landeplaetze-index.md).
+Zum Einstieg: **[Aktuelle Auswertung und Hotelquellen](docs/24-erweitertes-hotelnetz-simulation.md)** · [Tagesgenaue Beispielreisen](docs/25-reiseverlaeufe-erweitertes-hotelnetz.md) · [Landeplätze](docs/05-landeplaetze-index.md)
 
-![Routenübersicht](data/phase1/route-overview.png)
+## Aktuelle Ergebnisse
 
-## Historischer Windvergleich
+Historische Winddaten **2022–2025**, tägliche Starttermine im August, Reiseende spätestens **31. Oktober**. Je Modell und Richtung wurden 4.092 Kombinationen aus 33 Startorten, 31 Starttagen und vier Wetterjahren gerechnet.
 
-[API und Datenabruf](docs/11-wind-api-und-daten.md): September/Oktober 2022–2025, 91 Abfragepunkte, 63 Modellzellen, 532’896 Punktstunden ohne fehlende Werte.
+| Leistungsmodell | Richtung | Vollständige Läufe | Wetterjahre mit voller Runde | Schnellste volle Runde |
+|---|---|---:|---|---:|
+| Basis | Gegen Uhrzeigersinn | **605 / 4.092** | 2023, 2024, 2025 | **61 Tage** |
+| Basis | Im Uhrzeigersinn | **171 / 4.092** | 2023 | **60 Tage** |
+| Vorsichtig | Gegen Uhrzeigersinn | 0 / 4.092 | – | –; maximal 801 km |
+| Vorsichtig | Im Uhrzeigersinn | 0 / 4.092 | – | –; maximal 809 km |
 
-[Erster Vergleich beider Richtungen](docs/12-historischer-windvergleich.md): Unter euren Grenzen von 15–25 kn und seitlichem/rückwärtigem Wind findet sich für die festen Startetappen kein vollständiges Windfenster. Die Modellannahmen und alle 480 Reiseverläufe sind dokumentiert.
+Die Läufe überlappen zeitlich und sind **keine unabhängigen Reisen oder Erfolgswahrscheinlichkeiten**. Der Planer kennt den historischen Wetterverlauf. Die Reisedauern enthalten Start- und Ankunftstag sowie alle Wartetage.
 
-## Ziel und Phasen
+### Startorte und Wartezeiten
 
-1. **Phase 1:** Landeplätze recherchieren, nachvollziehbar bewerten und daraus eine zusammenhängende Umrundung mit Übernachtungszielen, 2–3 Pausen pro Tag und Alternativen entwerfen. Ausgangswert: ca. 25 km/h und bis ca. 5 Stunden täglich auf dem Wingfoil.
-2. **Phase 2:** Die Varianten mit historischen September-Winddaten und ergänzenden Seegangs-/Strömungsdaten simulieren. Fahrbarkeit und Reisedauer ergeben sich erst unter den gewählten Bedingungen.
+| Schnellste vollständige Beispielreise | Zeitraum | Fahrtage | Wartetage | Kalendertage |
+|---|---|---:|---:|---:|
+| Porto Istana → gegen Uhrzeigersinn → Porto Istana | 31.08.–30.10.2023 | 16 | 45 | 61 |
+| Torregrande → im Uhrzeigersinn → Torregrande | 28.08.–26.10.2023 | 15 | 45 | 60 |
 
-Hotelöffnungszeiten werden auf ausdrücklichen Wunsch nicht geprüft. Für Hotels werden Lage und Fussweg vom Landepunkt erfasst. Zugang und Regeln, Materiallogistik im Hotel sowie eine gesonderte Bewertung der Belegqualität sind nicht Teil der Planung. Quellenlinks bleiben Bestandteil der Dokumentation.
+Die meisten vollständigen Augustläufe gegen den Uhrzeigersinn liefern **Su Giudeu, Porto Pino und Porto Istana**. Im Uhrzeigersinn liegen **Alghero und Bosa Marina** nach Anzahl vollständiger Läufe vorn. Der schnellste Einzelverlauf und der über mehrere Starttermine günstigste Ort sind nicht zwingend identisch. [Vollständiger Startortvergleich](docs/24-erweitertes-hotelnetz-simulation.md#startorte-im-vergleich).
+
+**Die zusätzlichen Hotels helfen wesentlich:** Cala Gonone–La Cinta wird von einer 67-km-Hotelstrecke in **12,6 + 32,2 + 22,2 km** aufgeteilt. Bosa–Torregrande lässt sich statt 67,5 km am Stück in **21,6 + 15,8 + 30,1 km** teilen. Seltene Windfenster und ihre zeitliche Reihenfolge bleiben die entscheidenden Engpässe.
+
+## Karte: Route und 33 Hotelziele
+
+![Sardinienkarte mit der rund 891 km langen Route und 33 nummerierten Hotelorten; zwölf ergänzte Hotelziele sind orange Rauten, die bisherigen 21 grüne Kreise.](data/phase2/hotel-network-overview.png)
+
+[Vergrösserbare SVG-Karte](data/phase2/hotel-network-overview.svg) · [Hotelorte und Quellen](docs/24-erweitertes-hotelnetz-simulation.md#neu-belegte-hotelziele-und-quellen) · [Landeplatz-Steckbriefe](docs/05-landeplaetze-index.md)
+
+Die Nummern folgen der Route gegen den Uhrzeigersinn. Die Karte zeigt die Hotelkette und die geometrische Route, keine festen Tagesetappen oder tatsächlich gefahrenen Kreuzschläge. Die zwölf neuen Ziele liegen an bereits erfassten Landeplätzen; die Route bleibt für den Vergleich unverändert.
+
+## Aktuelle Modellannahmen
+
+- **Wind:** 12–25 kn, alle Windrichtungen. Aufkreuzen und Kurse vor dem Wind erhalten angepasste Geschwindigkeiten und Manöververluste.
+- **Leistung:** Basismodell und vorsichtiges Szenario. Bei direktem Gegenwind beträgt der Fortschritt im Basismodell je nach Windstärke rund 6,8–9,8 km/h. [Leistungsannahmen](docs/21-annahmen-aufkreuzen.md).
+- **Tagesplanung:** maximal fünf Stunden Wasserzeit, Fahrzeitfenster 09–17 Uhr Ortszeit, 25 Minuten Landpause zwischen Fahrstücken und Wartezeiten an Land. Jede Übernachtung erfolgt an einem Hotelort.
+- **Daten:** archivierte Open-Meteo/ECMWF-IFS-Winddaten August–Oktober 2022–2025. Auguststarts bilden den Hauptvergleich; Septemberstarts sind zusätzlich archiviert. [Wind-API](docs/11-wind-api-und-daten.md) · [August-Erweiterung](docs/17-ab-august-180-grad.md).
+- **Hotels:** 33 strandnahe Ziele, davon zwölf neu recherchiert. Entfernungen beziehen sich auf den benannten Strand. Öffnungszeiten und Verfügbarkeit werden wie vereinbart nicht berücksichtigt.
+
+Die Ergebnisse hängen von hypothetischen Leistungspolaren, einem groben Windraster und lokalen Kreuzschlägen ab. Seegang und Strömungen sind in dieser Rechnung nicht modelliert. Vollständige historische Läufe sind daher keine Zusage für eine zukünftige Reise.
+
+## Projektstand und frühere Varianten
+
+**Phase 1** dokumentiert 58 Landeplatzkandidaten, davon 57 entlang der Runde, sowie Versorgung und geometrische Etappen. Die damaligen 16 Module beziehungsweise neun Fahrtage beruhen auf konstant 25 km/h und sind ein früher Routenentwurf, keine aktuelle Reisedauer.
+
+**Phase 2** ergänzt historische Winddaten, variable Hotelziele, Wartezeiten, beide Fahrtrichtungen und kursabhängige Leistung. Der aktuelle Stand ist die Simulation mit dem erweiterten Hotelnetz. Frühere Windgrenzen und Richtungsfenster bleiben unten als Vergleich dokumentiert; massgeblich sind die aktuellen Annahmen oben.
+
+Die Dokumentation konzentriert sich auf Etappen, Pausen, Versorgung und strandnahe Hotels. Zugang und Regeln, Materiallogistik und eine gesonderte Bewertung der Belegqualität sind wie vereinbart nicht Bestandteil der Planung. Quellenlinks bleiben erhalten.
 
 ## Dokumente
 
@@ -32,7 +67,7 @@ Hotelöffnungszeiten werden auf ausdrücklichen Wunsch nicht geprüft. Für Hote
 | [Datenquellen und APIs](docs/03-datenquellen.md) | Quellen, Zugangswege, Grenzen und tatsächlich geprüfte Abrufe |
 | [Prompt für Phase 1](docs/04-prompt-phase-1.md) | Kopierbarer Arbeitsauftrag für die anschliessende Routenplanung |
 | [Landeplätze-Index](docs/05-landeplaetze-index.md) | 58 Steckbriefe mit Quellen, Bewertung und Versorgung |
-| [Routenvarianten](docs/06-routenvarianten.md) | 16 Module / 9 Fahrtage, CCW und CW, 50 Etappenblätter |
+| [Routenvarianten](docs/06-routenvarianten.md) | Früher geometrischer Entwurf bei konstant 25 km/h; 16 Module / 9 Fahrtage |
 | [Phase-2-Übergabe](docs/08-phase-2-uebergabe.md) | Datenstruktur und Auftrag für die historische Simulation |
 | [Methodik und Daten](docs/09-methodik-und-daten.md) | Wasserwegmodell, API-Abrufe, Reproduktion und Grenzen |
 | [Wind-API und Daten](docs/11-wind-api-und-daten.md) | Historische Winddaten, Abrufe und Simulationsregeln |
@@ -45,7 +80,7 @@ Hotelöffnungszeiten werden auf ausdrücklichen Wunsch nicht geprüft. Für Hote
 | [Ab August, 220°](docs/18-ab-august-220-grad.md) | 12–25 kn, Windfenster auf beiden Seiten um 20° erweitert |
 | [Ab August, 240°](docs/19-ab-august-240-grad.md) | Weitere 10° je Seite, Vergleich mit 220° bei 12–25 kn |
 | [Ab August, 260°](docs/20-ab-august-260-grad.md) | Weitere 10° je Seite, Vergleich mit 240° bei 12–25 kn |
-| [Annahmen fürs Aufkreuzen](docs/21-annahmen-aufkreuzen.md) | Vorschlag: alle Windrichtungen, kursabhängige Geschwindigkeit und Manöververluste |
+| [Annahmen fürs Aufkreuzen](docs/21-annahmen-aufkreuzen.md) | Verwendete Leistungspolaren, alle Windrichtungen und Manöververluste |
 | [Umrundung mit Aufkreuzen](docs/22-umrundung-mit-aufkreuzen.md) | Basis und vorsichtiges Modell, beide Richtungen, fünf Stunden Wasserzeit |
 | [Engpässe und Startorte](docs/23-engpaesse-und-startorte.md) | Konkrete blockierende Passagen und Vergleich aller 21 Hotelstartorte |
 | [Aktuell: Erweitertes Hotelnetz](docs/24-erweitertes-hotelnetz-simulation.md) | 33 Hotelziele, beide Richtungen und alle Startorte neu simuliert |
@@ -57,6 +92,10 @@ Hotelöffnungszeiten werden auf ausdrücklichen Wunsch nicht geprüft. Für Hote
 ## Daten und Nachvollziehbarkeit
 
 Unter [data/phase1](data/phase1/) liegen archivierte API-Daten, Rechercheinput und GeoJSON für Küste, Route und Landeplätze. [Methodik und Befehle](docs/09-methodik-und-daten.md) erklären den Wiederaufbau. Konsistenzprüfung offline: `python3 scripts/validate_plan.py`.
+
+Die aktuelle Simulation und ihre Tageskalender liegen unter [data/phase2/start-analysis-expanded](data/phase2/start-analysis-expanded/). Geprüft wurden 32.208 August-/Septemberläufe, 532 repräsentative Reisen und 4.187 unterschiedliche Fahrstücke; alle 20.496 bisherigen Startvarianten erreichen mindestens den früheren Fortschritt. [Prüfbericht](data/phase2/start-analysis-expanded/validation.json).
+
+Die aktuelle Karte lässt sich offline mit `python3 scripts/plot_hotel_network.py` aus den archivierten Daten neu erzeugen. Python-Abhängigkeiten: [scripts/requirements.txt](scripts/requirements.txt).
 
 Die fachlichen Ergebnisse werden in Markdown dokumentiert. Maschinenlesbare Rohdaten dürfen ergänzend als JSON/XML und später GeoJSON/GPX abgelegt werden; sie ersetzen die Markdown-Dokumentation nicht.
 

@@ -17,6 +17,12 @@ Ab dem ursprünglichen Start Poetto sind 0 von 496 Augustläufen vollständig. D
 
 ¹ Kalendertage inklusive Start- und Ankunftstag sowie Wartezeiten ab gewähltem Startdatum. Die Maxima vorher/jetzt dürfen aus unterschiedlichen Jahren stammen. Die zusätzlichen Startorte und die zusätzlichen Zwischenhotels werden gemeinsam verglichen.
 
+## Karte des erweiterten Hotelnetzes
+
+![Route und 33 Hotelorte](../data/phase2/hotel-network-overview.png)
+
+[SVG-Karte](../data/phase2/hotel-network-overview.svg) · [Zusammenfassung auf der Startseite](../README.md). Orange Rauten markieren die zwölf neuen Hotelorte. Nummern folgen der Route gegen den Uhrzeigersinn, keine festen Tagesetappen. Karte reproduzieren: `python3 scripts/plot_hotel_network.py`.
+
 ## Neu belegte Hotelziele und Quellen
 
 Entfernungen beziehen sich auf den genannten Strand, nicht auf einen vermessenen Fussweg ab dem mathematischen Routenpunkt. Die Simulation arbeitet wie bisher auf Strandort-Ebene. Hotelöffnungen und Verfügbarkeit bleiben auf Wunsch unberücksichtigt; das heutige Unterkunftsnetz wird für alle vier Wetterjahre verwendet.
