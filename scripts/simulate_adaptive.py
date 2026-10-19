@@ -47,9 +47,9 @@ def main():
     parser.add_argument('--max-wind', type=int, choices=[20,25], default=25)
     parser.add_argument('--august',action='store_true',help='August/September starts, side/tailwind, 12–20 kn')
     parser.add_argument('--wide-window',action='store_true',help='With --august: 12–25 kn and 220-degree window')
-    parser.add_argument('--window-degrees',type=int,choices=[220,240],default=220)
+    parser.add_argument('--window-degrees',type=int,choices=[220,240,260],default=220)
     args=parser.parse_args()
-    if args.window_degrees==240 and not args.wide_window:parser.error('--window-degrees 240 requires --august --wide-window')
+    if args.window_degrees!=220 and not args.wide_window:parser.error('--window-degrees requires --august --wide-window')
     if args.wide_window and not args.august:parser.error('--wide-window requires --august')
     if args.august and args.all_directions:parser.error('August scenario uses side/tailwind only')
     if not args.august and args.max_wind==20 and not (args.all_directions and args.min_wind==12):
