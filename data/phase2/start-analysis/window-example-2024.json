@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2024-09-09",
+    "departure": 1725865200,
+    "arrival": 1725883060.3767865,
+    "water_hours": 3.578584193388621,
+    "start_wind_kn": 15.599999999999998,
+    "start_wind_from_deg": 281.0
+  },
+  {
+    "date": "2024-09-13",
+    "departure": 1726210800,
+    "arrival": 1726227849.7674577,
+    "water_hours": 3.3206125136878755,
+    "start_wind_kn": 21.7,
+    "start_wind_from_deg": 286.0
+  },
+  {
+    "date": "2024-09-28",
+    "departure": 1727506800,
+    "arrival": 1727524019.5126543,
+    "water_hours": 3.427835218310356,
+    "start_wind_kn": 18.2,
+    "start_wind_from_deg": 286.0
+  },
+  {
+    "date": "2024-10-04",
+    "departure": 1728025200,
+    "arrival": 1728043386.6100085,
+    "water_hours": 3.6454222773181066,
+    "start_wind_kn": 13.8,
+    "start_wind_from_deg": 259.0
+  }
+]

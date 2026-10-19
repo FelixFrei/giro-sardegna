@@ -1,0 +1,11 @@
+{
+  "runs": 20496,
+  "best_routes_verified": 336,
+  "unique_selected_passages_replayed": 2992,
+  "checks": [
+    "All 976 Poetto references matched",
+    "No skipped gap or overshoot in rotated circuits",
+    "Representative full route reconstruction",
+    "Wind, coast and five-hour water budget replay"
+  ]
+}

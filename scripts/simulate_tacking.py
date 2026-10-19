@@ -170,7 +170,7 @@ def day_reachable(origin,nodes,hotels,opening,closing,engine,cache):
                 if best is None or ordered[idx]['water']<best['water']:best=ordered[idx]
                 idx+=1
             if best is None:continue
-            key=edge,dep
+            key=a,b,dep
             if key not in cache:
                 cache[key],why=engine.voyage(a,b,dep,closing)
                 engine.failures[why]+=1
