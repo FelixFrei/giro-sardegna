@@ -1,8 +1,8 @@
 # Porto Giunco
 
-Stand: 18.10.2026 · ID: `porto-giunco` · Gemeinde: Villasimius
+Stand: 19.10.2026 · ID: `porto-giunco` · Gemeinde: Villasimius
 
-**Rast + Getränke** · Planungsentwurf
+**Rast + Getränke + Hotel** · Planungsentwurf
 
 ## Lage und Strand
 
@@ -16,7 +16,9 @@ Stand: 18.10.2026 · ID: `porto-giunco` · Gemeinde: Villasimius
 
 ## Übernachtung
 
-Kein Hotel in dieser Recherche erfasst.
+[Almar Timi Ama](https://www.almarresorts.com/en/almar-resorts/almar-timi-ama-villasimius-sardinia.html). Privatstrand Porto Giunco laut Betreiber 500 m vom Hotel, zu Fuss erreichbar.
+
+Als Hotelziel im [erweiterten Phase-2-Netz](../docs/24-erweitertes-hotelnetz-simulation.md) berücksichtigt. Strandnähe bezieht sich auf den benannten Strand; die Phase-1-Routengeometrie bleibt unverändert.
 
 Entfernungsangaben stammen, soweit vorhanden, vom Anbieter.
 

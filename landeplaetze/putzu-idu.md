@@ -1,8 +1,8 @@
 # Putzu Idu
 
-Stand: 18.10.2026 · ID: `putzu-idu` · Gemeinde: San Vero Milis
+Stand: 19.10.2026 · ID: `putzu-idu` · Gemeinde: San Vero Milis
 
-**Rast** · Planungsentwurf
+**Rast + Hotel** · Planungsentwurf
 
 ## Lage und Strand
 
@@ -16,7 +16,9 @@ Keine Verkaufsstelle in dieser Recherche erfasst.
 
 ## Übernachtung
 
-Kein Hotel in dieser Recherche erfasst.
+[Hotel Maluentu](https://www.maluentu.net/). Direkt am Strand Putzu Idu laut Betreiber.
+
+Als Hotelziel im [erweiterten Phase-2-Netz](../docs/24-erweitertes-hotelnetz-simulation.md) berücksichtigt. Strandnähe bezieht sich auf den benannten Strand; die Phase-1-Routengeometrie bleibt unverändert.
 
 Entfernungsangaben stammen, soweit vorhanden, vom Anbieter.
 

@@ -1,8 +1,8 @@
 # Portoscuso – Portopaglietto
 
-Stand: 18.10.2026 · ID: `portoscuso` · Gemeinde: Portoscuso
+Stand: 19.10.2026 · ID: `portoscuso` · Gemeinde: Portoscuso
 
-**Rast** · Planungsentwurf
+**Rast + Hotel** · Planungsentwurf
 
 ## Lage und Strand
 
@@ -16,7 +16,9 @@ Keine Verkaufsstelle in dieser Recherche erfasst.
 
 ## Übernachtung
 
-Kein Hotel in dieser Recherche erfasst.
+[Hotel Lido degli Spagnoli](https://www.lidodeglispagnoli.com/en/). Am Meer bei Portopaglietto; ca. 4 Minuten zum Strand laut Google-Hotelprofil. [Distanzquelle](https://www.google.it/travel/hotels/entity/CgsIlY_zz7CavYOXARAB).
+
+Als Hotelziel im [erweiterten Phase-2-Netz](../docs/24-erweitertes-hotelnetz-simulation.md) berücksichtigt. Strandnähe bezieht sich auf den benannten Strand; die Phase-1-Routengeometrie bleibt unverändert.
 
 Entfernungsangaben stammen, soweit vorhanden, vom Anbieter.
 

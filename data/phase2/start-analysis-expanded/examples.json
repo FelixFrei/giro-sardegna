@@ -1,0 +1,3402 @@
+[
+  {
+    "summary": {
+      "year": 2023,
+      "model": "base",
+      "direction": "ccw",
+      "start_hotel": "porto-istana",
+      "start": "2023-08-31",
+      "completed": true,
+      "completed_km": 890.774,
+      "last_hotel": "porto-istana",
+      "finish": "2023-10-30",
+      "riding_days": 16,
+      "waiting_days": 45,
+      "first_ride": "2023-08-31"
+    },
+    "travel": [
+      {
+        "day": 30,
+        "route_km": 59.6154,
+        "water_hours": 4.779071868989202,
+        "physical_km": 80.72083441736615,
+        "legs": [
+          {
+            "departure": 1693468200,
+            "arrival": 1693472921.2500966,
+            "water_seconds": 4721.2500965595245,
+            "physical_km": 19.127479099880905,
+            "route_km": 13.0832,
+            "upwind_seconds": 4119.385121238664,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 617.9077681857998,
+            "start": "porto-istana",
+            "end": "cala-sassari",
+            "land_wait_minutes": 50.0
+          },
+          {
+            "departure": 1693474500,
+            "arrival": 1693481270.9710217,
+            "water_seconds": 6770.971021652222,
+            "physical_km": 32.58258816214384,
+            "route_km": 21.8896,
+            "upwind_seconds": 5161.15731068253,
+            "downwind_seconds": 1365.9371349633207,
+            "manoeuvre_seconds": 910.7673100987116,
+            "start": "cala-sassari",
+            "end": "liscia-ruja",
+            "land_wait_minutes": 1.312498390674591
+          },
+          {
+            "departure": 1693482900,
+            "arrival": 1693487072.6381752,
+            "water_seconds": 4172.6381752491,
+            "physical_km": 21.20766882175879,
+            "route_km": 17.5426,
+            "upwind_seconds": 2811.1191300300707,
+            "downwind_seconds": 408.796321030476,
+            "manoeuvre_seconds": 462.5475016075583,
+            "start": "liscia-ruja",
+            "end": "baja-sardinia",
+            "land_wait_minutes": 2.150482972462972
+          },
+          {
+            "departure": 1693488600,
+            "arrival": 1693490139.799435,
+            "water_seconds": 1539.7994349002838,
+            "physical_km": 7.803098333582614,
+            "route_km": 7.1,
+            "upwind_seconds": 405.39283886247756,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 60.80892582937164,
+            "start": "baja-sardinia",
+            "end": "cannigione",
+            "land_wait_minutes": 0.4560304125150045
+          }
+        ]
+      },
+      {
+        "day": 32,
+        "route_km": 19.2772,
+        "water_hours": 0.9992252480321461,
+        "physical_km": 19.90230768770529,
+        "legs": [
+          {
+            "departure": 1693660800,
+            "arrival": 1693664397.210893,
+            "water_seconds": 3597.2108929157257,
+            "physical_km": 19.90230768770529,
+            "route_km": 19.2772,
+            "upwind_seconds": 105.60805395015531,
+            "downwind_seconds": 1363.795697384562,
+            "manoeuvre_seconds": 152.22077783097944,
+            "start": "cannigione",
+            "end": "porto-pollo",
+            "land_wait_minutes": 380.0
+          }
+        ]
+      },
+      {
+        "day": 33,
+        "route_km": 68.8396,
+        "water_hours": 4.0400900726848175,
+        "physical_km": 77.96213377332548,
+        "legs": [
+          {
+            "departure": 1693728000,
+            "arrival": 1693731149.9795616,
+            "water_seconds": 3149.9795615673065,
+            "physical_km": 16.486955711164683,
+            "route_km": 15.752,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1023.1730717916605,
+            "manoeuvre_seconds": 102.31730717916605,
+            "start": "porto-pollo",
+            "end": "rena-bianca",
+            "land_wait_minutes": 60.0
+          },
+          {
+            "departure": 1693733400,
+            "arrival": 1693735671.119646,
+            "water_seconds": 2271.1196460723877,
+            "physical_km": 14.277659040318033,
+            "route_km": 13.5096,
+            "upwind_seconds": 0,
+            "downwind_seconds": 788.1669814174309,
+            "manoeuvre_seconds": 78.81669814174307,
+            "start": "rena-bianca",
+            "end": "rena-majori",
+            "land_wait_minutes": 12.500340640544891
+          },
+          {
+            "departure": 1693737300,
+            "arrival": 1693739623.170947,
+            "water_seconds": 2323.17094707489,
+            "physical_km": 12.777440207039877,
+            "route_km": 10.5459,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2323.170946734523,
+            "manoeuvre_seconds": 232.31709467345235,
+            "start": "rena-majori",
+            "end": "vignola-mare-aglientu",
+            "land_wait_minutes": 2.148005898793538
+          },
+          {
+            "departure": 1693741500,
+            "arrival": 1693746824.4257755,
+            "water_seconds": 5324.425775527954,
+            "physical_km": 27.779751323248657,
+            "route_km": 23.5562,
+            "upwind_seconds": 0,
+            "downwind_seconds": 4964.7677079051655,
+            "manoeuvre_seconds": 496.47677079051647,
+            "start": "vignola-mare-aglientu",
+            "end": "spiaggia-longa-isola-rossa",
+            "land_wait_minutes": 6.280484215418498
+          },
+          {
+            "departure": 1693748400,
+            "arrival": 1693749875.6283314,
+            "water_seconds": 1475.6283314228058,
+            "physical_km": 6.640327491554225,
+            "route_km": 5.4759,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1475.6283314564946,
+            "manoeuvre_seconds": 147.56283314564942,
+            "start": "spiaggia-longa-isola-rossa",
+            "end": "li-junchi",
+            "land_wait_minutes": 1.2595704078674317
+          }
+        ]
+      },
+      {
+        "day": 34,
+        "route_km": 63.6078,
+        "water_hours": 3.458919058640798,
+        "physical_km": 69.59566559200113,
+        "legs": [
+          {
+            "departure": 1693816800,
+            "arrival": 1693820852.780904,
+            "water_seconds": 4052.7809040546417,
+            "physical_km": 18.23751406712754,
+            "route_km": 15.1881,
+            "upwind_seconds": 0,
+            "downwind_seconds": 4052.7809038061237,
+            "manoeuvre_seconds": 405.2780903806124,
+            "start": "li-junchi",
+            "end": "lu-bagnu",
+            "land_wait_minutes": 100.0
+          },
+          {
+            "departure": 1693822500,
+            "arrival": 1693826970.7002776,
+            "water_seconds": 4470.70027756691,
+            "physical_km": 24.108851524873614,
+            "route_km": 21.1704,
+            "upwind_seconds": 0,
+            "downwind_seconds": 4470.700277249749,
+            "manoeuvre_seconds": 447.0700277249748,
+            "start": "lu-bagnu",
+            "end": "platamona",
+            "land_wait_minutes": 2.4536515990893046
+          },
+          {
+            "departure": 1693828500,
+            "arrival": 1693832428.6274295,
+            "water_seconds": 3928.627429485321,
+            "physical_km": 27.24929999999997,
+            "route_km": 27.2493,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "platamona",
+            "end": "la-pelosa",
+            "land_wait_minutes": 0.4883287072181702
+          }
+        ]
+      },
+      {
+        "day": 35,
+        "route_km": 65.2036,
+        "water_hours": 3.3905102129115,
+        "physical_km": 71.90052316597416,
+        "legs": [
+          {
+            "departure": 1693897200,
+            "arrival": 1693901524.0170357,
+            "water_seconds": 4324.0170357227325,
+            "physical_km": 28.297735383795647,
+            "route_km": 28.2111,
+            "upwind_seconds": 0,
+            "downwind_seconds": 134.37313101280927,
+            "manoeuvre_seconds": 13.437313101280923,
+            "start": "la-pelosa",
+            "end": "argentiera",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1693903200,
+            "arrival": 1693904980.4456015,
+            "water_seconds": 1780.4456014633179,
+            "physical_km": 10.662614092621862,
+            "route_km": 10.4574,
+            "upwind_seconds": 0,
+            "downwind_seconds": 369.1480823211125,
+            "manoeuvre_seconds": 36.914808232111234,
+            "start": "argentiera",
+            "end": "porto-ferro",
+            "land_wait_minutes": 2.933049404621124
+          },
+          {
+            "departure": 1693906500,
+            "arrival": 1693912162.7465088,
+            "water_seconds": 5662.746508836746,
+            "physical_km": 30.060873689556654,
+            "route_km": 23.6558,
+            "upwind_seconds": 2534.117109018094,
+            "downwind_seconds": 2344.167486598883,
+            "manoeuvre_seconds": 614.5343150126025,
+            "start": "porto-ferro",
+            "end": "mugoni",
+            "land_wait_minutes": 0.3259066422780355
+          },
+          {
+            "departure": 1693913700,
+            "arrival": 1693914138.6276205,
+            "water_seconds": 438.6276204586029,
+            "physical_km": 2.8793,
+            "route_km": 2.8793,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "mugoni",
+            "end": "porto-conte",
+            "land_wait_minutes": 0.620891519387563
+          }
+        ]
+      },
+      {
+        "day": 53,
+        "route_km": 75.1067,
+        "water_hours": 4.226327366895146,
+        "physical_km": 78.75360332882778,
+        "legs": [
+          {
+            "departure": 1695452400,
+            "arrival": 1695454519.6760695,
+            "water_seconds": 2119.676069498062,
+            "physical_km": 10.672576593217705,
+            "route_km": 10.2514,
+            "upwind_seconds": 388.0115692286196,
+            "downwind_seconds": 286.74085728612505,
+            "manoeuvre_seconds": 86.87582111290546,
+            "start": "porto-conte",
+            "end": "le-bombarde",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1695456300,
+            "arrival": 1695457585.6898792,
+            "water_seconds": 1285.6898791790009,
+            "physical_km": 5.78560445622204,
+            "route_km": 5.2458,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1285.689879160453,
+            "manoeuvre_seconds": 128.5689879160453,
+            "start": "le-bombarde",
+            "end": "lido-di-san-giovanni",
+            "land_wait_minutes": 4.672065508365631
+          },
+          {
+            "departure": 1695459300,
+            "arrival": 1695467375.7783751,
+            "water_seconds": 8075.778375148773,
+            "physical_km": 40.171876518160715,
+            "route_km": 37.985,
+            "upwind_seconds": 0,
+            "downwind_seconds": 3113.4211299040767,
+            "manoeuvre_seconds": 311.34211299040766,
+            "start": "lido-di-san-giovanni",
+            "end": "bosa-marina",
+            "land_wait_minutes": 3.5718353470166524
+          },
+          {
+            "departure": 1695468900,
+            "arrival": 1695472633.634197,
+            "water_seconds": 3733.634196996689,
+            "physical_km": 22.123545761227312,
+            "route_km": 21.6245,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1201.71752969784,
+            "manoeuvre_seconds": 120.17175296978397,
+            "start": "bosa-marina",
+            "end": "santa-caterina-di-pittinuri",
+            "land_wait_minutes": 0.4036937475204468
+          }
+        ]
+      },
+      {
+        "day": 55,
+        "route_km": 45.8741,
+        "water_hours": 2.34161323706309,
+        "physical_km": 47.371514313145894,
+        "legs": [
+          {
+            "departure": 1695640200,
+            "arrival": 1695643115.4337895,
+            "water_seconds": 2915.4337894916534,
+            "physical_km": 15.974471336824763,
+            "route_km": 15.7958,
+            "upwind_seconds": 0,
+            "downwind_seconds": 231.27984571825078,
+            "manoeuvre_seconds": 23.127984571825074,
+            "start": "santa-caterina-di-pittinuri",
+            "end": "putzu-idu",
+            "land_wait_minutes": 250.0
+          },
+          {
+            "departure": 1695644700,
+            "arrival": 1695648364.8519967,
+            "water_seconds": 3664.8519966602325,
+            "physical_km": 19.679753874633626,
+            "route_km": 18.4696,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2469.341905195482,
+            "manoeuvre_seconds": 246.9341905195481,
+            "start": "putzu-idu",
+            "end": "san-giovanni-di-sinis",
+            "land_wait_minutes": 1.4094368418057759
+          },
+          {
+            "departure": 1695650100,
+            "arrival": 1695651949.5218673,
+            "water_seconds": 1849.521867275238,
+            "physical_km": 11.717289101687506,
+            "route_km": 11.6087,
+            "upwind_seconds": 0,
+            "downwind_seconds": 125.33190575870248,
+            "manoeuvre_seconds": 12.533190575870243,
+            "start": "san-giovanni-di-sinis",
+            "end": "torregrande",
+            "land_wait_minutes": 3.919133388996124
+          }
+        ]
+      },
+      {
+        "day": 56,
+        "route_km": 43.2769,
+        "water_hours": 2.1701097978485957,
+        "physical_km": 44.232640064638055,
+        "legs": [
+          {
+            "departure": 1695728100,
+            "arrival": 1695732462.5558684,
+            "water_seconds": 4362.555868387222,
+            "physical_km": 26.685518836198835,
+            "route_km": 26.4714,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1636.98227711507,
+            "manoeuvre_seconds": 163.69822771150697,
+            "start": "torregrande",
+            "end": "torre-dei-corsari",
+            "land_wait_minutes": 275.0
+          },
+          {
+            "departure": 1695734100,
+            "arrival": 1695736378.9860451,
+            "water_seconds": 2278.9860451221466,
+            "physical_km": 10.673021228439218,
+            "route_km": 9.9314,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1736.8879179067264,
+            "manoeuvre_seconds": 173.68879179067264,
+            "start": "torre-dei-corsari",
+            "end": "marina-di-arbus",
+            "land_wait_minutes": 2.2907355268796286
+          },
+          {
+            "departure": 1695738000,
+            "arrival": 1695739170.8533587,
+            "water_seconds": 1170.853358745575,
+            "physical_km": 6.874099999999999,
+            "route_km": 6.8741,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "marina-di-arbus",
+            "end": "piscinas-costa-verde",
+            "land_wait_minutes": 2.0168992479642234
+          }
+        ]
+      },
+      {
+        "day": 79,
+        "route_km": 46.4312,
+        "water_hours": 4.616023023459647,
+        "physical_km": 71.75411170421384,
+        "legs": [
+          {
+            "departure": 1697698800,
+            "arrival": 1697703430.900419,
+            "water_seconds": 4630.900418996811,
+            "physical_km": 22.673793286372014,
+            "route_km": 14.7704,
+            "upwind_seconds": 4097.013560114132,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 614.5520340171199,
+            "start": "piscinas-costa-verde",
+            "end": "portixeddu",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1697705100,
+            "arrival": 1697711192.4504402,
+            "water_seconds": 6092.450440168381,
+            "physical_km": 26.685014330317987,
+            "route_km": 19.6253,
+            "upwind_seconds": 4489.704385150346,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 673.4556577725521,
+            "start": "portixeddu",
+            "end": "funtanamare",
+            "land_wait_minutes": 2.8183263500531512
+          },
+          {
+            "departure": 1697712900,
+            "arrival": 1697718794.3320253,
+            "water_seconds": 5894.3320252895355,
+            "physical_km": 22.395304087523844,
+            "route_km": 12.0355,
+            "upwind_seconds": 5706.535096426756,
+            "downwind_seconds": 47.3327113359253,
+            "manoeuvre_seconds": 860.713535597606,
+            "start": "funtanamare",
+            "end": "portoscuso",
+            "land_wait_minutes": 3.4591593305269877
+          }
+        ]
+      },
+      {
+        "day": 80,
+        "route_km": 50.7136,
+        "water_hours": 2.545778777798017,
+        "physical_km": 54.73487822303034,
+        "legs": [
+          {
+            "departure": 1697785200,
+            "arrival": 1697787470.7895987,
+            "water_seconds": 2270.7895987033844,
+            "physical_km": 14.252699999999995,
+            "route_km": 14.2527,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "portoscuso",
+            "end": "spiaggia-grande",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1697789100,
+            "arrival": 1697790738.188987,
+            "water_seconds": 1638.1889870166779,
+            "physical_km": 9.28159844128194,
+            "route_km": 8.5119,
+            "upwind_seconds": 408.1018797051219,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 61.215281955768305,
+            "start": "spiaggia-grande",
+            "end": "cala-lunga-santantioco",
+            "land_wait_minutes": 2.1535066882769267
+          },
+          {
+            "departure": 1697792400,
+            "arrival": 1697794512.004251,
+            "water_seconds": 2112.0042510032654,
+            "physical_km": 13.759781178251899,
+            "route_km": 13.4413,
+            "upwind_seconds": 0,
+            "downwind_seconds": 462.8477537957533,
+            "manoeuvre_seconds": 46.28477537957533,
+            "start": "cala-lunga-santantioco",
+            "end": "coaquaddus",
+            "land_wait_minutes": 2.6968502163887025
+          },
+          {
+            "departure": 1697796300,
+            "arrival": 1697799443.8207633,
+            "water_seconds": 3143.820763349533,
+            "physical_km": 17.440798603496507,
+            "route_km": 14.5077,
+            "upwind_seconds": 0,
+            "downwind_seconds": 3049.699455043346,
+            "manoeuvre_seconds": 304.96994550433453,
+            "start": "coaquaddus",
+            "end": "porto-pino",
+            "land_wait_minutes": 4.799929149945577
+          }
+        ]
+      },
+      {
+        "day": 81,
+        "route_km": 84.714,
+        "water_hours": 4.419966720607546,
+        "physical_km": 89.01033260950587,
+        "legs": [
+          {
+            "departure": 1697873400,
+            "arrival": 1697877177.6280217,
+            "water_seconds": 3777.6280217170715,
+            "physical_km": 21.759377660138483,
+            "route_km": 21.4193,
+            "upwind_seconds": 0,
+            "downwind_seconds": 420.4996392258222,
+            "manoeuvre_seconds": 42.0499639225822,
+            "start": "porto-pino",
+            "end": "porto-tramatzu",
+            "land_wait_minutes": 30.0
+          },
+          {
+            "departure": 1697878800,
+            "arrival": 1697881142.3897583,
+            "water_seconds": 2342.389758348465,
+            "physical_km": 10.881850326806397,
+            "route_km": 10.6224,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1925.0935599752413,
+            "manoeuvre_seconds": 192.5093559975241,
+            "start": "porto-tramatzu",
+            "end": "tuerredda",
+            "land_wait_minutes": 2.0395329713821413
+          },
+          {
+            "departure": 1697882700,
+            "arrival": 1697883770.753241,
+            "water_seconds": 1070.7532410621643,
+            "physical_km": 6.35182136509181,
+            "route_km": 5.9568,
+            "upwind_seconds": 0,
+            "downwind_seconds": 535.350293009516,
+            "manoeuvre_seconds": 53.535029300951585,
+            "start": "tuerredda",
+            "end": "su-giudeu",
+            "land_wait_minutes": 0.9601706941922505
+          },
+          {
+            "departure": 1697885400,
+            "arrival": 1697887098.2273128,
+            "water_seconds": 1698.2273128032684,
+            "physical_km": 8.430057484575448,
+            "route_km": 7.7486,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1249.731712744264,
+            "manoeuvre_seconds": 124.97317127442642,
+            "start": "su-giudeu",
+            "end": "santa-margherita-di-pula",
+            "land_wait_minutes": 2.1541126489639284
+          },
+          {
+            "departure": 1697888700,
+            "arrival": 1697891239.575264,
+            "water_seconds": 2539.575263977051,
+            "physical_km": 13.49901120781733,
+            "route_km": 11.514,
+            "upwind_seconds": 166.73892115007573,
+            "downwind_seconds": 2339.5427036024566,
+            "manoeuvre_seconds": 258.9651085327569,
+            "start": "santa-margherita-di-pula",
+            "end": "nora",
+            "land_wait_minutes": 1.6962114532788595
+          },
+          {
+            "departure": 1697892900,
+            "arrival": 1697897383.3065963,
+            "water_seconds": 4483.306596279144,
+            "physical_km": 28.088214565076395,
+            "route_km": 27.4529,
+            "upwind_seconds": 381.9192535135479,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 57.2878880270322,
+            "start": "nora",
+            "end": "poetto",
+            "land_wait_minutes": 2.673745600382487
+          }
+        ]
+      },
+      {
+        "day": 84,
+        "route_km": 37.3186,
+        "water_hours": 2.175124159256617,
+        "physical_km": 40.716384911051136,
+        "legs": [
+          {
+            "departure": 1698133200,
+            "arrival": 1698137075.7786021,
+            "water_seconds": 3875.7786021232605,
+            "physical_km": 19.385403990147196,
+            "route_km": 18.9242,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2683.2742226841374,
+            "manoeuvre_seconds": 268.32742226841367,
+            "start": "poetto",
+            "end": "geremeas",
+            "land_wait_minutes": 40.0
+          },
+          {
+            "departure": 1698138600,
+            "arrival": 1698142554.6683712,
+            "water_seconds": 3954.6683712005615,
+            "physical_km": 21.330980920903936,
+            "route_km": 18.3944,
+            "upwind_seconds": 129.32824640552008,
+            "downwind_seconds": 3498.185807074093,
+            "manoeuvre_seconds": 369.2178176682373,
+            "start": "geremeas",
+            "end": "porto-giunco",
+            "land_wait_minutes": 0.40368996461232504
+          }
+        ]
+      },
+      {
+        "day": 85,
+        "route_km": 87.4774,
+        "water_hours": 4.314753742350472,
+        "physical_km": 88.72592504251355,
+        "legs": [
+          {
+            "departure": 1698217200,
+            "arrival": 1698219281.789243,
+            "water_seconds": 2081.7892429828644,
+            "physical_km": 12.818567566201272,
+            "route_km": 12.1233,
+            "upwind_seconds": 0,
+            "downwind_seconds": 865.7614700734194,
+            "manoeuvre_seconds": 86.57614700734192,
+            "start": "porto-giunco",
+            "end": "cala-sinzias",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1698223800,
+            "arrival": 1698227939.5801687,
+            "water_seconds": 4139.58016872406,
+            "physical_km": 21.617324223853572,
+            "route_km": 21.3486,
+            "upwind_seconds": 20.40618309934151,
+            "downwind_seconds": 2026.872213425196,
+            "manoeuvre_seconds": 205.7481488074207,
+            "start": "cala-sinzias",
+            "end": "torre-salinas",
+            "land_wait_minutes": 50.30351261695226
+          },
+          {
+            "departure": 1698229500,
+            "arrival": 1698230936.2110832,
+            "water_seconds": 1436.2110831737518,
+            "physical_km": 8.0376,
+            "route_km": 8.0376,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "torre-salinas",
+            "end": "porto-corallo",
+            "land_wait_minutes": 1.0069971879323323
+          },
+          {
+            "departure": 1698232500,
+            "arrival": 1698234355.0328705,
+            "water_seconds": 1855.0328705310822,
+            "physical_km": 10.274349041176748,
+            "route_km": 10.0743,
+            "upwind_seconds": 0,
+            "downwind_seconds": 295.7600840082289,
+            "manoeuvre_seconds": 29.576008400822882,
+            "start": "porto-corallo",
+            "end": "murtas",
+            "land_wait_minutes": 1.0631486137708028
+          },
+          {
+            "departure": 1698236100,
+            "arrival": 1698242120.500107,
+            "water_seconds": 6020.500107049942,
+            "physical_km": 35.97808421128196,
+            "route_km": 35.8936,
+            "upwind_seconds": 56.2840115272749,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 8.442601729091237,
+            "start": "murtas",
+            "end": "torre-di-bari",
+            "land_wait_minutes": 4.0827854911486305
+          }
+        ]
+      },
+      {
+        "day": 86,
+        "route_km": 19.6404,
+        "water_hours": 1.0176051263014476,
+        "physical_km": 20.015251884447324,
+        "legs": [
+          {
+            "departure": 1698323100,
+            "arrival": 1698325218.6897035,
+            "water_seconds": 2118.689703464508,
+            "physical_km": 11.104113160565383,
+            "route_km": 10.8117,
+            "upwind_seconds": 0,
+            "downwind_seconds": 643.1103601777302,
+            "manoeuvre_seconds": 64.311036017773,
+            "start": "torre-di-bari",
+            "end": "porto-frailis",
+            "land_wait_minutes": 325.0
+          },
+          {
+            "departure": 1698327000,
+            "arrival": 1698328544.6887512,
+            "water_seconds": 1544.6887512207031,
+            "physical_km": 8.911138723881939,
+            "route_km": 8.8287,
+            "upwind_seconds": 0,
+            "downwind_seconds": 210.75382978675958,
+            "manoeuvre_seconds": 21.075382978675954,
+            "start": "porto-frailis",
+            "end": "santa-maria-navarrese",
+            "land_wait_minutes": 4.6885049422581995
+          }
+        ]
+      },
+      {
+        "day": 89,
+        "route_km": 49.911500000000004,
+        "water_hours": 2.675988004936112,
+        "physical_km": 53.456280446078736,
+        "legs": [
+          {
+            "departure": 1698578700,
+            "arrival": 1698582530.9425263,
+            "water_seconds": 3830.9425263404846,
+            "physical_km": 19.08619445540429,
+            "route_km": 18.469,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1288.810685714929,
+            "manoeuvre_seconds": 128.88106857149285,
+            "start": "santa-maria-navarrese",
+            "end": "cala-mariolu",
+            "land_wait_minutes": 205.0
+          },
+          {
+            "departure": 1698584100,
+            "arrival": 1698586740.066643,
+            "water_seconds": 2640.066642999649,
+            "physical_km": 14.54103880788256,
+            "route_km": 12.4534,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2620.032237774762,
+            "manoeuvre_seconds": 262.0032237774761,
+            "start": "cala-mariolu",
+            "end": "cala-luna",
+            "land_wait_minutes": 1.1509578943252563
+          },
+          {
+            "departure": 1698588300,
+            "arrival": 1698589622.7358515,
+            "water_seconds": 1322.7358515262604,
+            "physical_km": 7.275047182791888,
+            "route_km": 6.4351,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1322.7358514167072,
+            "manoeuvre_seconds": 132.27358514167065,
+            "start": "cala-luna",
+            "end": "cala-gonone",
+            "land_wait_minutes": 0.9988892833391826
+          },
+          {
+            "departure": 1698591300,
+            "arrival": 1698593139.811797,
+            "water_seconds": 1839.8117969036102,
+            "physical_km": 12.554000000000002,
+            "route_km": 12.554,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "cala-gonone",
+            "end": "marina-di-orosei",
+            "land_wait_minutes": 2.954402474562327
+          }
+        ]
+      },
+      {
+        "day": 90,
+        "route_km": 73.766,
+        "water_hours": 4.079257868329684,
+        "physical_km": 78.85812112246079,
+        "legs": [
+          {
+            "departure": 1698653100,
+            "arrival": 1698655953.5029778,
+            "water_seconds": 2853.502977848053,
+            "physical_km": 15.194524988741987,
+            "route_km": 15.1944,
+            "upwind_seconds": 0,
+            "downwind_seconds": 112.66022541750976,
+            "manoeuvre_seconds": 11.266022541750974,
+            "start": "marina-di-orosei",
+            "end": "berchida",
+            "land_wait_minutes": 5.0
+          },
+          {
+            "departure": 1698657600,
+            "arrival": 1698661087.657191,
+            "water_seconds": 3487.6571910381317,
+            "physical_km": 18.096307769889513,
+            "route_km": 16.9706,
+            "upwind_seconds": 0,
+            "downwind_seconds": 3170.7192519471178,
+            "manoeuvre_seconds": 317.0719251947117,
+            "start": "berchida",
+            "end": "la-caletta",
+            "land_wait_minutes": 2.4416170358657836
+          },
+          {
+            "departure": 1698662700,
+            "arrival": 1698667876.4485888,
+            "water_seconds": 5176.448588848114,
+            "physical_km": 26.09637315456534,
+            "route_km": 22.2473,
+            "upwind_seconds": 0,
+            "downwind_seconds": 5031.312340865932,
+            "manoeuvre_seconds": 503.13123408659345,
+            "start": "la-caletta",
+            "end": "la-cinta",
+            "land_wait_minutes": 1.8723801493644714
+          },
+          {
+            "departure": 1698671700,
+            "arrival": 1698674867.7195683,
+            "water_seconds": 3167.7195682525635,
+            "physical_km": 19.470915209263946,
+            "route_km": 19.3537,
+            "upwind_seconds": 0,
+            "downwind_seconds": 331.1522356204031,
+            "manoeuvre_seconds": 33.1152235620403,
+            "start": "la-cinta",
+            "end": "porto-istana",
+            "land_wait_minutes": 38.725856852531436
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "summary": {
+      "year": 2023,
+      "model": "base",
+      "direction": "cw",
+      "start_hotel": "torregrande",
+      "start": "2023-08-28",
+      "completed": true,
+      "completed_km": 890.774,
+      "last_hotel": "torregrande",
+      "finish": "2023-10-26",
+      "riding_days": 15,
+      "waiting_days": 45,
+      "first_ride": "2023-08-28"
+    },
+    "travel": [
+      {
+        "day": 27,
+        "route_km": 30.0783,
+        "water_hours": 1.812941372593244,
+        "physical_km": 32.973670317894744,
+        "legs": [
+          {
+            "departure": 1693210500,
+            "arrival": 1693212843.9963942,
+            "water_seconds": 2343.9963941574097,
+            "physical_km": 11.930120810381627,
+            "route_km": 11.6087,
+            "upwind_seconds": 212.27228008634995,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 31.8408420129525,
+            "start": "torregrande",
+            "end": "san-giovanni-di-sinis",
+            "land_wait_minutes": 75.0
+          },
+          {
+            "departure": 1693215000,
+            "arrival": 1693219182.5925472,
+            "water_seconds": 4182.592547178268,
+            "physical_km": 21.043549507513113,
+            "route_km": 18.4696,
+            "upwind_seconds": 1743.3376401985586,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 261.5006460297838,
+            "start": "san-giovanni-di-sinis",
+            "end": "putzu-idu",
+            "land_wait_minutes": 10.933393430709838
+          }
+        ]
+      },
+      {
+        "day": 28,
+        "route_km": 37.4203,
+        "water_hours": 2.33075397113959,
+        "physical_km": 42.2697223319514,
+        "legs": [
+          {
+            "departure": 1693292700,
+            "arrival": 1693295716.3094869,
+            "water_seconds": 3016.3094868659973,
+            "physical_km": 17.231268025582136,
+            "route_km": 15.7958,
+            "upwind_seconds": 1112.477282686542,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 166.87159240298126,
+            "start": "putzu-idu",
+            "end": "santa-caterina-di-pittinuri",
+            "land_wait_minutes": 5.0
+          },
+          {
+            "departure": 1693300800,
+            "arrival": 1693306174.4048092,
+            "water_seconds": 5374.4048092365265,
+            "physical_km": 25.038454306369264,
+            "route_km": 21.6245,
+            "upwind_seconds": 2899.2451502854274,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 434.8867725428141,
+            "start": "santa-caterina-di-pittinuri",
+            "end": "bosa-marina",
+            "land_wait_minutes": 59.72817521890004
+          }
+        ]
+      },
+      {
+        "day": 29,
+        "route_km": 53.482200000000006,
+        "water_hours": 4.385343109965325,
+        "physical_km": 70.17974344854679,
+        "legs": [
+          {
+            "departure": 1693378800,
+            "arrival": 1693389348.2928188,
+            "water_seconds": 10548.292818784714,
+            "physical_km": 46.75291727731548,
+            "route_km": 37.985,
+            "upwind_seconds": 6649.169176984411,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 997.3753765476617,
+            "start": "bosa-marina",
+            "end": "lido-di-san-giovanni",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1693391100,
+            "arrival": 1693392996.2809265,
+            "water_seconds": 1896.2809264659882,
+            "physical_km": 8.954659930516563,
+            "route_km": 5.2458,
+            "upwind_seconds": 1896.2809264623313,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 284.44213896934974,
+            "start": "lido-di-san-giovanni",
+            "end": "le-bombarde",
+            "land_wait_minutes": 4.195119686921438
+          },
+          {
+            "departure": 1693394700,
+            "arrival": 1693398042.6614506,
+            "water_seconds": 3342.661450624466,
+            "physical_km": 14.472166240714749,
+            "route_km": 10.2514,
+            "upwind_seconds": 2151.125267336914,
+            "downwind_seconds": 319.4735762312686,
+            "manoeuvre_seconds": 354.6161477236641,
+            "start": "le-bombarde",
+            "end": "porto-conte",
+            "land_wait_minutes": 3.3953178922335305
+          }
+        ]
+      },
+      {
+        "day": 35,
+        "route_km": 65.2036,
+        "water_hours": 4.138209398521317,
+        "physical_km": 76.44855387072134,
+        "legs": [
+          {
+            "departure": 1693899000,
+            "arrival": 1693899548.1204734,
+            "water_seconds": 548.1204733848572,
+            "physical_km": 2.8793,
+            "route_km": 2.8793,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "porto-conte",
+            "end": "mugoni",
+            "land_wait_minutes": 30.0
+          },
+          {
+            "departure": 1693901100,
+            "arrival": 1693907557.5315723,
+            "water_seconds": 6457.531572341919,
+            "physical_km": 30.804829658810334,
+            "route_km": 23.6558,
+            "upwind_seconds": 4043.3223859057466,
+            "downwind_seconds": 1336.75322871496,
+            "manoeuvre_seconds": 740.1736807573579,
+            "start": "mugoni",
+            "end": "porto-ferro",
+            "land_wait_minutes": 0.864658776919047
+          },
+          {
+            "departure": 1693909200,
+            "arrival": 1693911039.0095804,
+            "water_seconds": 1839.009580373764,
+            "physical_km": 11.509249937920977,
+            "route_km": 10.4574,
+            "upwind_seconds": 609.2365337079324,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 91.38548005618986,
+            "start": "porto-ferro",
+            "end": "argentiera",
+            "land_wait_minutes": 2.374473794301351
+          },
+          {
+            "departure": 1693912800,
+            "arrival": 1693918852.8922086,
+            "water_seconds": 6052.892208576202,
+            "physical_km": 31.255174273990026,
+            "route_km": 28.2111,
+            "upwind_seconds": 3058.2801880778984,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 458.74202821168484,
+            "start": "argentiera",
+            "end": "la-pelosa",
+            "land_wait_minutes": 4.349840327103933
+          }
+        ]
+      },
+      {
+        "day": 36,
+        "route_km": 48.419700000000006,
+        "water_hours": 3.9684655288855235,
+        "physical_km": 63.733118556722154,
+        "legs": [
+          {
+            "departure": 1693993200,
+            "arrival": 1693999644.8300648,
+            "water_seconds": 6444.83006477356,
+            "physical_km": 29.11575426703154,
+            "route_km": 27.2493,
+            "upwind_seconds": 2145.0231565727463,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 321.753473485912,
+            "start": "la-pelosa",
+            "end": "platamona",
+            "land_wait_minutes": 160.0
+          },
+          {
+            "departure": 1694001300,
+            "arrival": 1694009141.6458392,
+            "water_seconds": 7841.645839214325,
+            "physical_km": 34.61736428969061,
+            "route_km": 21.1704,
+            "upwind_seconds": 7841.645839034412,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 1176.246875855162,
+            "start": "platamona",
+            "end": "lu-bagnu",
+            "land_wait_minutes": 2.5861655871073403
+          }
+        ]
+      },
+      {
+        "day": 52,
+        "route_km": 84.02770000000001,
+        "water_hours": 4.839437807665931,
+        "physical_km": 93.52877650930108,
+        "legs": [
+          {
+            "departure": 1695367500,
+            "arrival": 1695370700.6455216,
+            "water_seconds": 3200.6455216407776,
+            "physical_km": 16.098225989158095,
+            "route_km": 15.1881,
+            "upwind_seconds": 0,
+            "downwind_seconds": 3200.645521758623,
+            "manoeuvre_seconds": 320.06455217586233,
+            "start": "lu-bagnu",
+            "end": "li-junchi",
+            "land_wait_minutes": 25.0
+          },
+          {
+            "departure": 1695372300,
+            "arrival": 1695373734.8548834,
+            "water_seconds": 1434.8548834323883,
+            "physical_km": 6.45684697596606,
+            "route_km": 5.4759,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1434.8548835480133,
+            "manoeuvre_seconds": 143.4854883548013,
+            "start": "li-junchi",
+            "end": "spiaggia-longa-isola-rossa",
+            "land_wait_minutes": 1.655907972653707
+          },
+          {
+            "departure": 1695375300,
+            "arrival": 1695380527.556553,
+            "water_seconds": 5227.556552886963,
+            "physical_km": 27.43789689575238,
+            "route_km": 23.5562,
+            "upwind_seconds": 117.36617643465061,
+            "downwind_seconds": 4816.634897437497,
+            "manoeuvre_seconds": 499.268416208947,
+            "start": "spiaggia-longa-isola-rossa",
+            "end": "vignola-mare-aglientu",
+            "land_wait_minutes": 1.0857519427935283
+          },
+          {
+            "departure": 1695382200,
+            "arrival": 1695384767.1064236,
+            "water_seconds": 2567.1064236164093,
+            "physical_km": 12.835532118082758,
+            "route_km": 10.5459,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2567.1064236165525,
+            "manoeuvre_seconds": 256.71064236165523,
+            "start": "vignola-mare-aglientu",
+            "end": "rena-majori",
+            "land_wait_minutes": 2.8740574518839517
+          },
+          {
+            "departure": 1695386400,
+            "arrival": 1695388645.478231,
+            "water_seconds": 2245.4782309532166,
+            "physical_km": 14.171352750081212,
+            "route_km": 13.5096,
+            "upwind_seconds": 0,
+            "downwind_seconds": 903.500818319194,
+            "manoeuvre_seconds": 90.3500818319194,
+            "start": "rena-majori",
+            "end": "rena-bianca",
+            "land_wait_minutes": 2.2148929397265116
+          },
+          {
+            "departure": 1695390300,
+            "arrival": 1695393046.334495,
+            "water_seconds": 2746.3344950675964,
+            "physical_km": 16.528921780260575,
+            "route_km": 15.752,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1525.7462394107113,
+            "manoeuvre_seconds": 152.5746239410711,
+            "start": "rena-bianca",
+            "end": "porto-pollo",
+            "land_wait_minutes": 2.5753628174463907
+          }
+        ]
+      },
+      {
+        "day": 53,
+        "route_km": 78.89260000000002,
+        "water_hours": 4.617333637939559,
+        "physical_km": 88.04439536528002,
+        "legs": [
+          {
+            "departure": 1695452400,
+            "arrival": 1695456041.364736,
+            "water_seconds": 3641.3647360801697,
+            "physical_km": 20.74222089739569,
+            "route_km": 19.2772,
+            "upwind_seconds": 95.68494702931756,
+            "downwind_seconds": 1657.5009816817187,
+            "manoeuvre_seconds": 180.10284022256948,
+            "start": "porto-pollo",
+            "end": "cannigione",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1695457800,
+            "arrival": 1695458969.9747977,
+            "water_seconds": 1169.9747977256775,
+            "physical_km": 7.1885831275628265,
+            "route_km": 7.1,
+            "upwind_seconds": 0,
+            "downwind_seconds": 221.6808718291486,
+            "manoeuvre_seconds": 22.168087182914853,
+            "start": "cannigione",
+            "end": "baja-sardinia",
+            "land_wait_minutes": 4.310587731997172
+          },
+          {
+            "departure": 1695460500,
+            "arrival": 1695464072.622412,
+            "water_seconds": 3572.622411966324,
+            "physical_km": 18.759579916303217,
+            "route_km": 17.5426,
+            "upwind_seconds": 710.0823782855344,
+            "downwind_seconds": 1496.1068937592306,
+            "manoeuvre_seconds": 256.1230461187532,
+            "start": "baja-sardinia",
+            "end": "liscia-ruja",
+            "land_wait_minutes": 0.5004200379053751
+          },
+          {
+            "departure": 1695465600,
+            "arrival": 1695471427.322748,
+            "water_seconds": 5827.3227479457855,
+            "physical_km": 28.198369358017832,
+            "route_km": 21.8896,
+            "upwind_seconds": 2181.349937322332,
+            "downwind_seconds": 3220.997621180983,
+            "manoeuvre_seconds": 649.302252716448,
+            "start": "liscia-ruja",
+            "end": "cala-sassari",
+            "land_wait_minutes": 0.45629313389460247
+          },
+          {
+            "departure": 1695473100,
+            "arrival": 1695475511.1164029,
+            "water_seconds": 2411.116402864456,
+            "physical_km": 13.155642066000453,
+            "route_km": 13.0832,
+            "upwind_seconds": 112.72586159615926,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 16.908879239423893,
+            "start": "cala-sassari",
+            "end": "porto-istana",
+            "land_wait_minutes": 2.8779542009035746
+          }
+        ]
+      },
+      {
+        "day": 54,
+        "route_km": 41.601,
+        "water_hours": 2.1162496557500625,
+        "physical_km": 44.39632066052427,
+        "legs": [
+          {
+            "departure": 1695556500,
+            "arrival": 1695560018.8088393,
+            "water_seconds": 3518.8088393211365,
+            "physical_km": 20.548060395749346,
+            "route_km": 19.3537,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1794.6637995253095,
+            "manoeuvre_seconds": 179.46637995253093,
+            "start": "porto-istana",
+            "end": "la-cinta",
+            "land_wait_minutes": 295.0
+          },
+          {
+            "departure": 1695561600,
+            "arrival": 1695565699.6899214,
+            "water_seconds": 4099.689921379089,
+            "physical_km": 23.848260264774922,
+            "route_km": 22.2473,
+            "upwind_seconds": 0,
+            "downwind_seconds": 3272.1754003245633,
+            "manoeuvre_seconds": 327.2175400324563,
+            "start": "la-cinta",
+            "end": "la-caletta",
+            "land_wait_minutes": 1.353186011314392
+          }
+        ]
+      },
+      {
+        "day": 55,
+        "route_km": 82.07650000000001,
+        "water_hours": 4.602206144399113,
+        "physical_km": 90.92869607806662,
+        "legs": [
+          {
+            "departure": 1695625800,
+            "arrival": 1695629670.5123415,
+            "water_seconds": 3870.5123414993286,
+            "physical_km": 19.41706636181428,
+            "route_km": 16.9706,
+            "upwind_seconds": 0,
+            "downwind_seconds": 3469.5314888805483,
+            "manoeuvre_seconds": 346.95314888805484,
+            "start": "la-caletta",
+            "end": "berchida",
+            "land_wait_minutes": 10.0
+          },
+          {
+            "departure": 1695631200,
+            "arrival": 1695633983.8529243,
+            "water_seconds": 2783.852924346924,
+            "physical_km": 16.27401244303724,
+            "route_km": 15.1944,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2074.073243347494,
+            "manoeuvre_seconds": 207.40732433474935,
+            "start": "berchida",
+            "end": "marina-di-orosei",
+            "land_wait_minutes": 0.4914609750111898
+          },
+          {
+            "departure": 1695635700,
+            "arrival": 1695638026.4706938,
+            "water_seconds": 2326.4706938266754,
+            "physical_km": 12.822401149364637,
+            "route_km": 12.554,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2281.0049145450334,
+            "manoeuvre_seconds": 228.1004914545033,
+            "start": "marina-di-orosei",
+            "end": "cala-gonone",
+            "land_wait_minutes": 3.6024512608846027
+          },
+          {
+            "departure": 1695639600,
+            "arrival": 1695641091.9107354,
+            "water_seconds": 1491.9107353687286,
+            "physical_km": 7.8148274106941225,
+            "route_km": 6.4351,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1491.9107355397975,
+            "manoeuvre_seconds": 149.19107355397972,
+            "start": "cala-gonone",
+            "end": "cala-luna",
+            "land_wait_minutes": 1.2254884362220764
+          },
+          {
+            "departure": 1695642600,
+            "arrival": 1695645152.958317,
+            "water_seconds": 2552.958317041397,
+            "physical_km": 14.049885708228391,
+            "route_km": 12.4534,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2530.7316742012777,
+            "manoeuvre_seconds": 253.07316742012762,
+            "start": "cala-luna",
+            "end": "cala-mariolu",
+            "land_wait_minutes": 0.13482107718785605
+          },
+          {
+            "departure": 1695646800,
+            "arrival": 1695650342.2371078,
+            "water_seconds": 3542.2371077537537,
+            "physical_km": 20.550503004927954,
+            "route_km": 18.469,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2552.5903976070917,
+            "manoeuvre_seconds": 255.25903976070924,
+            "start": "cala-mariolu",
+            "end": "santa-maria-navarrese",
+            "land_wait_minutes": 2.450694715976715
+          }
+        ]
+      },
+      {
+        "day": 56,
+        "route_km": 73.6459,
+        "water_hours": 4.3507501908143364,
+        "physical_km": 86.65140994143425,
+        "legs": [
+          {
+            "departure": 1695711600,
+            "arrival": 1695713494.951641,
+            "water_seconds": 1894.9516410827637,
+            "physical_km": 10.36776792189258,
+            "route_km": 8.8287,
+            "upwind_seconds": 145.48511474353683,
+            "downwind_seconds": 1714.6527495939433,
+            "manoeuvre_seconds": 193.28804217092485,
+            "start": "santa-maria-navarrese",
+            "end": "porto-frailis",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1695715200,
+            "arrival": 1695717524.8435793,
+            "water_seconds": 2324.8435792922974,
+            "physical_km": 12.786639686292531,
+            "route_km": 10.8117,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2324.8435793259146,
+            "manoeuvre_seconds": 232.48435793259142,
+            "start": "porto-frailis",
+            "end": "torre-di-bari",
+            "land_wait_minutes": 3.4174726486206053
+          },
+          {
+            "departure": 1695719100,
+            "arrival": 1695726978.582714,
+            "water_seconds": 7878.582714080811,
+            "physical_km": 43.359099292273314,
+            "route_km": 35.8936,
+            "upwind_seconds": 0,
+            "downwind_seconds": 7860.173639193333,
+            "manoeuvre_seconds": 786.0173639193335,
+            "start": "torre-di-bari",
+            "end": "murtas",
+            "land_wait_minutes": 1.2526070117950439
+          },
+          {
+            "departure": 1695728700,
+            "arrival": 1695730522.8739848,
+            "water_seconds": 1822.8739848136902,
+            "physical_km": 10.559934820465054,
+            "route_km": 10.0743,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1401.0073864405292,
+            "manoeuvre_seconds": 140.10073864405288,
+            "start": "murtas",
+            "end": "porto-corallo",
+            "land_wait_minutes": 3.6902880986531574
+          },
+          {
+            "departure": 1695732300,
+            "arrival": 1695734041.4487677,
+            "water_seconds": 1741.4487676620483,
+            "physical_km": 9.57796822051077,
+            "route_km": 8.0376,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1741.4487673655944,
+            "manoeuvre_seconds": 174.14487673655944,
+            "start": "porto-corallo",
+            "end": "torre-salinas",
+            "land_wait_minutes": 4.61876691977183
+          }
+        ]
+      },
+      {
+        "day": 79,
+        "route_km": 51.86630000000001,
+        "water_hours": 3.9997486793994903,
+        "physical_km": 70.36230777392915,
+        "legs": [
+          {
+            "departure": 1697706600,
+            "arrival": 1697714069.6623182,
+            "water_seconds": 7469.662318229675,
+            "physical_km": 33.39581620837777,
+            "route_km": 21.3486,
+            "upwind_seconds": 7458.330905802896,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 1118.7496358704345,
+            "start": "torre-salinas",
+            "end": "cala-sinzias",
+            "land_wait_minutes": 130.0
+          },
+          {
+            "departure": 1697715600,
+            "arrival": 1697719318.946914,
+            "water_seconds": 3718.946913957596,
+            "physical_km": 18.213376075215837,
+            "route_km": 12.1233,
+            "upwind_seconds": 3331.9731265628525,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 499.7959689844279,
+            "start": "cala-sinzias",
+            "end": "porto-giunco",
+            "land_wait_minutes": 0.5056280295054117
+          },
+          {
+            "departure": 1697721000,
+            "arrival": 1697724210.4860137,
+            "water_seconds": 3210.486013650894,
+            "physical_km": 18.753115490335542,
+            "route_km": 18.3944,
+            "upwind_seconds": 503.6383331787241,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 75.54574997680862,
+            "start": "porto-giunco",
+            "end": "geremeas",
+            "land_wait_minutes": 3.0175514340400698
+          }
+        ]
+      },
+      {
+        "day": 80,
+        "route_km": 46.3771,
+        "water_hours": 4.652878655791283,
+        "physical_km": 69.37412049275738,
+        "legs": [
+          {
+            "departure": 1697789700,
+            "arrival": 1697798887.2971745,
+            "water_seconds": 9187.297174453735,
+            "physical_km": 35.72756710314264,
+            "route_km": 18.9242,
+            "upwind_seconds": 9187.297174361292,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 1378.094576154194,
+            "start": "geremeas",
+            "end": "poetto",
+            "land_wait_minutes": 75.0
+          },
+          {
+            "departure": 1697805900,
+            "arrival": 1697813463.0659864,
+            "water_seconds": 7563.065986394882,
+            "physical_km": 33.64655338961474,
+            "route_km": 27.4529,
+            "upwind_seconds": 5570.345509715402,
+            "downwind_seconds": 271.84817544118897,
+            "manoeuvre_seconds": 862.7366440014293,
+            "start": "poetto",
+            "end": "nora",
+            "land_wait_minutes": 91.87838042577108
+          }
+        ]
+      },
+      {
+        "day": 84,
+        "route_km": 57.2611,
+        "water_hours": 4.059349092377556,
+        "physical_km": 71.3794125611453,
+        "legs": [
+          {
+            "departure": 1698130800,
+            "arrival": 1698134194.5341678,
+            "water_seconds": 3394.534167766571,
+            "physical_km": 14.505279031308435,
+            "route_km": 11.514,
+            "upwind_seconds": 3193.129763967523,
+            "downwind_seconds": 164.36376178792875,
+            "manoeuvre_seconds": 495.40584077392134,
+            "start": "nora",
+            "end": "santa-margherita-di-pula",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1698135900,
+            "arrival": 1698137259.338308,
+            "water_seconds": 1359.338308095932,
+            "physical_km": 7.7486,
+            "route_km": 7.7486,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "santa-margherita-di-pula",
+            "end": "su-giudeu",
+            "land_wait_minutes": 3.4244305372238157
+          },
+          {
+            "departure": 1698138900,
+            "arrival": 1698140722.3279057,
+            "water_seconds": 1822.3279056549072,
+            "physical_km": 8.826734109391708,
+            "route_km": 5.9568,
+            "upwind_seconds": 1727.1874851630316,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 259.07812277445476,
+            "start": "su-giudeu",
+            "end": "tuerredda",
+            "land_wait_minutes": 2.3443615317344664
+          },
+          {
+            "departure": 1698142500,
+            "arrival": 1698146077.660657,
+            "water_seconds": 3577.660656929016,
+            "physical_km": 17.24199962404414,
+            "route_km": 10.6224,
+            "upwind_seconds": 3331.7002494536323,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 499.7550374180448,
+            "start": "tuerredda",
+            "end": "porto-tramatzu",
+            "land_wait_minutes": 4.627868239084879
+          },
+          {
+            "departure": 1698147600,
+            "arrival": 1698152059.795694,
+            "water_seconds": 4459.795694112778,
+            "physical_km": 23.056799796401016,
+            "route_km": 21.4193,
+            "upwind_seconds": 1865.0921291389272,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 279.76381937083914,
+            "start": "porto-tramatzu",
+            "end": "porto-pino",
+            "land_wait_minutes": 0.3723223845163981
+          }
+        ]
+      },
+      {
+        "day": 85,
+        "route_km": 50.7136,
+        "water_hours": 3.1202463644080694,
+        "physical_km": 61.6222418135892,
+        "legs": [
+          {
+            "departure": 1698217200,
+            "arrival": 1698222056.0801573,
+            "water_seconds": 4856.080157279968,
+            "physical_km": 23.031607372884565,
+            "route_km": 14.5077,
+            "upwind_seconds": 4735.938869391487,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 710.3908304087232,
+            "start": "porto-pino",
+            "end": "coaquaddus",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1698223800,
+            "arrival": 1698226671.2464938,
+            "water_seconds": 2871.2464938163757,
+            "physical_km": 15.65645377818288,
+            "route_km": 13.4413,
+            "upwind_seconds": 1292.1459045258723,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 193.82188567888085,
+            "start": "coaquaddus",
+            "end": "cala-lunga-santantioco",
+            "land_wait_minutes": 4.065330712000529
+          },
+          {
+            "departure": 1698228300,
+            "arrival": 1698229759.5567455,
+            "water_seconds": 1459.5567455291748,
+            "physical_km": 8.68148066252176,
+            "route_km": 8.5119,
+            "upwind_seconds": 0,
+            "downwind_seconds": 171.20007881075787,
+            "manoeuvre_seconds": 17.120007881075786,
+            "start": "cala-lunga-santantioco",
+            "end": "spiaggia-grande",
+            "land_wait_minutes": 2.145891769727071
+          },
+          {
+            "departure": 1698231300,
+            "arrival": 1698233346.0035152,
+            "water_seconds": 2046.0035152435303,
+            "physical_km": 14.252699999999995,
+            "route_km": 14.2527,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "spiaggia-grande",
+            "end": "portoscuso",
+            "land_wait_minutes": 0.6740542411804199
+          }
+        ]
+      },
+      {
+        "day": 86,
+        "route_km": 89.7081,
+        "water_hours": 4.457414538926549,
+        "physical_km": 92.51687032284758,
+        "legs": [
+          {
+            "departure": 1698303600,
+            "arrival": 1698305851.0285099,
+            "water_seconds": 2251.0285098552704,
+            "physical_km": 12.14863517154632,
+            "route_km": 12.0355,
+            "upwind_seconds": 78.77361686003202,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 11.816042529004806,
+            "start": "portoscuso",
+            "end": "funtanamare",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1698308700,
+            "arrival": 1698313047.1973672,
+            "water_seconds": 4347.197367191315,
+            "physical_km": 20.82169317029906,
+            "route_km": 19.6253,
+            "upwind_seconds": 895.7347341872471,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 134.36021012808706,
+            "start": "funtanamare",
+            "end": "portixeddu",
+            "land_wait_minutes": 22.482858169078828
+          },
+          {
+            "departure": 1698314700,
+            "arrival": 1698317619.0959978,
+            "water_seconds": 2919.0959978103638,
+            "physical_km": 16.1505307265207,
+            "route_km": 14.7704,
+            "upwind_seconds": 463.8678090420832,
+            "downwind_seconds": 1842.5140089337417,
+            "manoeuvre_seconds": 253.8315722496866,
+            "start": "portixeddu",
+            "end": "piscinas-costa-verde",
+            "land_wait_minutes": 2.5467105468114215
+          },
+          {
+            "departure": 1698319200,
+            "arrival": 1698320279.5159938,
+            "water_seconds": 1079.5159938335419,
+            "physical_km": 6.926708869284424,
+            "route_km": 6.8741,
+            "upwind_seconds": 0,
+            "downwind_seconds": 185.67545948063932,
+            "manoeuvre_seconds": 18.567545948063927,
+            "start": "piscinas-costa-verde",
+            "end": "marina-di-arbus",
+            "land_wait_minutes": 1.3484000364939372
+          },
+          {
+            "departure": 1698321900,
+            "arrival": 1698323339.8658297,
+            "water_seconds": 1439.865829706192,
+            "physical_km": 9.93755159284774,
+            "route_km": 9.9314,
+            "upwind_seconds": 0,
+            "downwind_seconds": 77.54739701585414,
+            "manoeuvre_seconds": 7.754739701585413,
+            "start": "marina-di-arbus",
+            "end": "torre-dei-corsari",
+            "land_wait_minutes": 2.0080667694409686
+          },
+          {
+            "departure": 1698324900,
+            "arrival": 1698328909.9886417,
+            "water_seconds": 4009.9886417388916,
+            "physical_km": 26.531750792349342,
+            "route_km": 26.4714,
+            "upwind_seconds": 89.7191031305065,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 13.457865469575976,
+            "start": "torre-dei-corsari",
+            "end": "torregrande",
+            "land_wait_minutes": 1.0022361715634664
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "summary": {
+      "year": 2023,
+      "model": "cautious",
+      "direction": "ccw",
+      "start_hotel": "portoscuso",
+      "start": "2023-08-01",
+      "completed": false,
+      "completed_km": 801.066,
+      "last_hotel": "torregrande",
+      "finish": "2023-10-31",
+      "riding_days": 18,
+      "waiting_days": 74,
+      "first_ride": "2023-08-01"
+    },
+    "travel": [
+      {
+        "day": 0,
+        "route_km": 50.7136,
+        "water_hours": 3.3478812802500193,
+        "physical_km": 54.464172530540026,
+        "legs": [
+          {
+            "departure": 1690873200,
+            "arrival": 1690876657.6502857,
+            "water_seconds": 3457.650285720825,
+            "physical_km": 14.555009199815554,
+            "route_km": 14.2527,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1506.168638128446,
+            "manoeuvre_seconds": 150.6168638128446,
+            "start": "portoscuso",
+            "end": "spiaggia-grande",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1690878300,
+            "arrival": 1690880475.9898884,
+            "water_seconds": 2175.9898884296417,
+            "physical_km": 9.354630078649176,
+            "route_km": 8.5119,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1842.0273021211967,
+            "manoeuvre_seconds": 184.20273021211963,
+            "start": "spiaggia-grande",
+            "end": "cala-lunga-santantioco",
+            "land_wait_minutes": 2.372495237986247
+          },
+          {
+            "departure": 1690882200,
+            "arrival": 1690885478.4445,
+            "water_seconds": 3278.4444999694824,
+            "physical_km": 15.628559953270303,
+            "route_km": 13.4413,
+            "upwind_seconds": 521.8088514863697,
+            "downwind_seconds": 2018.2080095230306,
+            "manoeuvre_seconds": 306.182571249577,
+            "start": "cala-lunga-santantioco",
+            "end": "coaquaddus",
+            "land_wait_minutes": 3.7335018595059712
+          },
+          {
+            "departure": 1690887000,
+            "arrival": 1690890140.2879348,
+            "water_seconds": 3140.287934780121,
+            "physical_km": 14.925973298804992,
+            "route_km": 14.5077,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2896.4758739202075,
+            "manoeuvre_seconds": 289.64758739202074,
+            "start": "coaquaddus",
+            "end": "porto-pino",
+            "land_wait_minutes": 0.35925833384195965
+          }
+        ]
+      },
+      {
+        "day": 1,
+        "route_km": 37.9985,
+        "water_hours": 2.4822845169570713,
+        "physical_km": 39.89495697213572,
+        "legs": [
+          {
+            "departure": 1690969500,
+            "arrival": 1690974218.7159984,
+            "water_seconds": 4718.715998411179,
+            "physical_km": 21.94440845145353,
+            "route_km": 21.4193,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1414.13911613374,
+            "manoeuvre_seconds": 141.41391161337398,
+            "start": "porto-pino",
+            "end": "porto-tramatzu",
+            "land_wait_minutes": 165.0
+          },
+          {
+            "departure": 1690975800,
+            "arrival": 1690978706.2733638,
+            "water_seconds": 2906.273363828659,
+            "physical_km": 11.440020361191172,
+            "route_km": 10.6224,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2596.352860888965,
+            "manoeuvre_seconds": 259.6352860888965,
+            "start": "porto-tramatzu",
+            "end": "tuerredda",
+            "land_wait_minutes": 1.3547333598136901
+          },
+          {
+            "departure": 1690980300,
+            "arrival": 1690981611.2348988,
+            "water_seconds": 1311.2348988056183,
+            "physical_km": 6.510528159491013,
+            "route_km": 5.9568,
+            "upwind_seconds": 0,
+            "downwind_seconds": 852.6111297112398,
+            "manoeuvre_seconds": 85.26111297112396,
+            "start": "tuerredda",
+            "end": "su-giudeu",
+            "land_wait_minutes": 1.5621106028556824
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "route_km": 46.7155,
+        "water_hours": 2.9760653109020656,
+        "physical_km": 48.902883496004804,
+        "legs": [
+          {
+            "departure": 1691220300,
+            "arrival": 1691221671.7797894,
+            "water_seconds": 1371.7797894477844,
+            "physical_km": 7.7486000000000015,
+            "route_km": 7.7486,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "su-giudeu",
+            "end": "santa-margherita-di-pula",
+            "land_wait_minutes": 25.0
+          },
+          {
+            "departure": 1691223300,
+            "arrival": 1691226025.4257247,
+            "water_seconds": 2725.4257247447968,
+            "physical_km": 12.557824170653562,
+            "route_km": 11.514,
+            "upwind_seconds": 617.5857767750076,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 123.51715535500149,
+            "start": "santa-margherita-di-pula",
+            "end": "nora",
+            "land_wait_minutes": 2.137003509203593
+          },
+          {
+            "departure": 1691227800,
+            "arrival": 1691234416.629605,
+            "water_seconds": 6616.629605054855,
+            "physical_km": 28.596459325351244,
+            "route_km": 27.4529,
+            "upwind_seconds": 679.9271606797178,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 135.9854321359435,
+            "start": "nora",
+            "end": "poetto",
+            "land_wait_minutes": 4.576237920920054
+          }
+        ]
+      },
+      {
+        "day": 27,
+        "route_km": 70.79050000000001,
+        "water_hours": 4.788044455912378,
+        "physical_km": 78.28490864582982,
+        "legs": [
+          {
+            "departure": 1693209300,
+            "arrival": 1693214559.3210974,
+            "water_seconds": 5259.321097373962,
+            "physical_km": 22.352114664487033,
+            "route_km": 18.9242,
+            "upwind_seconds": 0,
+            "downwind_seconds": 5259.321097526357,
+            "manoeuvre_seconds": 525.9321097526357,
+            "start": "poetto",
+            "end": "geremeas",
+            "land_wait_minutes": 55.0
+          },
+          {
+            "departure": 1693216200,
+            "arrival": 1693221131.1679504,
+            "water_seconds": 4931.167950391769,
+            "physical_km": 21.36099201735821,
+            "route_km": 18.3944,
+            "upwind_seconds": 211.12817375841033,
+            "downwind_seconds": 3638.7393911051586,
+            "manoeuvre_seconds": 406.0995738621979,
+            "start": "geremeas",
+            "end": "porto-giunco",
+            "land_wait_minutes": 2.3446483771006266
+          },
+          {
+            "departure": 1693222800,
+            "arrival": 1693225628.5331798,
+            "water_seconds": 2828.5331797599792,
+            "physical_km": 13.0821430267862,
+            "route_km": 12.1233,
+            "upwind_seconds": 763.6416618084144,
+            "downwind_seconds": 119.40511364382706,
+            "manoeuvre_seconds": 164.66884372606555,
+            "start": "porto-giunco",
+            "end": "cala-sinzias",
+            "land_wait_minutes": 2.81386749347051
+          },
+          {
+            "departure": 1693227300,
+            "arrival": 1693231517.9378138,
+            "water_seconds": 4217.93781375885,
+            "physical_km": 21.489658937198367,
+            "route_km": 21.3486,
+            "upwind_seconds": 1221.0443837977798,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 244.20887675955592,
+            "start": "cala-sinzias",
+            "end": "torre-salinas",
+            "land_wait_minutes": 2.857780337333679
+          }
+        ]
+      },
+      {
+        "day": 28,
+        "route_km": 73.6459,
+        "water_hours": 3.743515183329582,
+        "physical_km": 73.80044052741191,
+        "legs": [
+          {
+            "departure": 1693294800,
+            "arrival": 1693296289.7120862,
+            "water_seconds": 1489.712086200714,
+            "physical_km": 8.0376,
+            "route_km": 8.0376,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "torre-salinas",
+            "end": "porto-corallo",
+            "land_wait_minutes": 40.0
+          },
+          {
+            "departure": 1693297800,
+            "arrival": 1693299728.7178452,
+            "water_seconds": 1928.7178452014923,
+            "physical_km": 10.074299999999997,
+            "route_km": 10.0743,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "porto-corallo",
+            "end": "murtas",
+            "land_wait_minutes": 0.17146522998809816
+          },
+          {
+            "departure": 1693301400,
+            "arrival": 1693307495.049111,
+            "water_seconds": 6095.049110889435,
+            "physical_km": 36.020255903836464,
+            "route_km": 35.8936,
+            "upwind_seconds": 67.44710661523263,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 13.489421323046523,
+            "start": "murtas",
+            "end": "torre-di-bari",
+            "land_wait_minutes": 2.854702579975128
+          },
+          {
+            "departure": 1693309200,
+            "arrival": 1693311408.2394753,
+            "water_seconds": 2208.239475250244,
+            "physical_km": 10.811700000000005,
+            "route_km": 10.8117,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "torre-di-bari",
+            "end": "porto-frailis",
+            "land_wait_minutes": 3.415848151842753
+          },
+          {
+            "departure": 1693313100,
+            "arrival": 1693314854.9361424,
+            "water_seconds": 1754.9361424446106,
+            "physical_km": 8.856584623575445,
+            "route_km": 8.8287,
+            "upwind_seconds": 0,
+            "downwind_seconds": 178.55087690584241,
+            "manoeuvre_seconds": 17.855087690584234,
+            "start": "porto-frailis",
+            "end": "santa-maria-navarrese",
+            "land_wait_minutes": 3.1960087458292645
+          }
+        ]
+      },
+      {
+        "day": 35,
+        "route_km": 37.3575,
+        "water_hours": 4.6460835121737585,
+        "physical_km": 62.695155121292785,
+        "legs": [
+          {
+            "departure": 1693897200,
+            "arrival": 1693905267.8191981,
+            "water_seconds": 8067.819198131561,
+            "physical_km": 29.936820313217954,
+            "route_km": 18.469,
+            "upwind_seconds": 7929.984944850866,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 1585.9969889701729,
+            "start": "santa-maria-navarrese",
+            "end": "cala-mariolu",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1693906800,
+            "arrival": 1693912140.275038,
+            "water_seconds": 5340.2750380039215,
+            "physical_km": 20.22439949076334,
+            "route_km": 12.4534,
+            "upwind_seconds": 5318.87770340523,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 1063.7755406810456,
+            "start": "cala-mariolu",
+            "end": "cala-luna",
+            "land_wait_minutes": 0.536346697807312
+          },
+          {
+            "departure": 1693913700,
+            "arrival": 1693917017.8064077,
+            "water_seconds": 3317.806407690048,
+            "physical_km": 12.533935317311496,
+            "route_km": 6.4351,
+            "upwind_seconds": 3317.806407523632,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 663.5612815047263,
+            "start": "cala-luna",
+            "end": "cala-gonone",
+            "land_wait_minutes": 0.9954160332679749
+          }
+        ]
+      },
+      {
+        "day": 53,
+        "route_km": 44.719,
+        "water_hours": 3.7575209969944425,
+        "physical_km": 54.80100645651292,
+        "legs": [
+          {
+            "departure": 1695461100,
+            "arrival": 1695463659.4246075,
+            "water_seconds": 2559.424607515335,
+            "physical_km": 12.608657968307444,
+            "route_km": 12.554,
+            "upwind_seconds": 0,
+            "downwind_seconds": 86.67505560115063,
+            "manoeuvre_seconds": 8.667505560115062,
+            "start": "cala-gonone",
+            "end": "marina-di-orosei",
+            "land_wait_minutes": 145.0
+          },
+          {
+            "departure": 1695465600,
+            "arrival": 1695468595.1448677,
+            "water_seconds": 2995.144867658615,
+            "physical_km": 15.194400000000005,
+            "route_km": 15.1944,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "marina-di-orosei",
+            "end": "berchida",
+            "land_wait_minutes": 7.342923208077749
+          },
+          {
+            "departure": 1695470100,
+            "arrival": 1695478072.506114,
+            "water_seconds": 7972.5061140060425,
+            "physical_km": 26.99794848820547,
+            "route_km": 16.9706,
+            "upwind_seconds": 6801.002618438071,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 1360.2005236876141,
+            "start": "berchida",
+            "end": "la-caletta",
+            "land_wait_minutes": 0.08091887235641479
+          }
+        ]
+      },
+      {
+        "day": 55,
+        "route_km": 41.601,
+        "water_hours": 4.854744658668836,
+        "physical_km": 64.95861786445224,
+        "legs": [
+          {
+            "departure": 1695625200,
+            "arrival": 1695636164.5651994,
+            "water_seconds": 10964.565199375153,
+            "physical_km": 39.8755364388335,
+            "route_km": 22.2473,
+            "upwind_seconds": 10764.738655614972,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 2152.9477311229944,
+            "start": "la-caletta",
+            "end": "la-cinta",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1695637800,
+            "arrival": 1695644312.5155718,
+            "water_seconds": 6512.515571832657,
+            "physical_km": 25.08308142561874,
+            "route_km": 19.3537,
+            "upwind_seconds": 5118.378482673672,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 1023.6756965347344,
+            "start": "la-cinta",
+            "end": "porto-istana",
+            "land_wait_minutes": 2.2572466770807904
+          }
+        ]
+      },
+      {
+        "day": 78,
+        "route_km": 52.5154,
+        "water_hours": 3.5664550367328856,
+        "physical_km": 59.58948543816605,
+        "legs": [
+          {
+            "departure": 1697621400,
+            "arrival": 1697624784.4523382,
+            "water_seconds": 3384.452338218689,
+            "physical_km": 15.179685940244504,
+            "route_km": 13.0832,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2658.8937774304686,
+            "manoeuvre_seconds": 265.8893777430468,
+            "start": "porto-istana",
+            "end": "cala-sassari",
+            "land_wait_minutes": 150.0
+          },
+          {
+            "departure": 1697626500,
+            "arrival": 1697632234.9351468,
+            "water_seconds": 5734.935146808624,
+            "physical_km": 25.445472540323426,
+            "route_km": 21.8896,
+            "upwind_seconds": 1958.8330386669168,
+            "downwind_seconds": 3490.1283861979477,
+            "manoeuvre_seconds": 740.779446353178,
+            "start": "cala-sassari",
+            "end": "liscia-ruja",
+            "land_wait_minutes": 3.592461029688517
+          },
+          {
+            "departure": 1697634000,
+            "arrival": 1697637719.8506472,
+            "water_seconds": 3719.850647211075,
+            "physical_km": 18.96432695759812,
+            "route_km": 17.5426,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2033.3948485332278,
+            "manoeuvre_seconds": 203.33948485332272,
+            "start": "liscia-ruja",
+            "end": "baja-sardinia",
+            "land_wait_minutes": 4.417747553189596
+          }
+        ]
+      },
+      {
+        "day": 80,
+        "route_km": 26.377200000000002,
+        "water_hours": 2.386745054655605,
+        "physical_km": 33.94845286373504,
+        "legs": [
+          {
+            "departure": 1697796000,
+            "arrival": 1697798345.396596,
+            "water_seconds": 2345.396595954895,
+            "physical_km": 8.865963928561493,
+            "route_km": 7.1,
+            "upwind_seconds": 2161.0944888897848,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 432.2188977779569,
+            "start": "baja-sardinia",
+            "end": "cannigione",
+            "land_wait_minutes": 180.0
+          },
+          {
+            "departure": 1697804100,
+            "arrival": 1697810346.8856008,
+            "water_seconds": 6246.885600805283,
+            "physical_km": 25.082488935173547,
+            "route_km": 19.2772,
+            "upwind_seconds": 4253.679540868751,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 850.7359081737501,
+            "start": "cannigione",
+            "end": "porto-pollo",
+            "land_wait_minutes": 70.91005673408509
+          }
+        ]
+      },
+      {
+        "day": 81,
+        "route_km": 39.807500000000005,
+        "water_hours": 4.418873685664601,
+        "physical_km": 59.40278454586591,
+        "legs": [
+          {
+            "departure": 1697876400,
+            "arrival": 1697881773.6736546,
+            "water_seconds": 5373.673654556274,
+            "physical_km": 20.427645782048316,
+            "route_km": 15.752,
+            "upwind_seconds": 3349.3222019682325,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 669.8644403936465,
+            "start": "porto-pollo",
+            "end": "rena-bianca",
+            "land_wait_minutes": 80.0
+          },
+          {
+            "departure": 1697883300,
+            "arrival": 1697887276.1575868,
+            "water_seconds": 3976.157586812973,
+            "physical_km": 17.341727482454793,
+            "route_km": 13.5096,
+            "upwind_seconds": 2287.341931312493,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 457.4683862624986,
+            "start": "rena-bianca",
+            "end": "rena-majori",
+            "land_wait_minutes": 0.4387724240620931
+          },
+          {
+            "departure": 1697889000,
+            "arrival": 1697895558.114027,
+            "water_seconds": 6558.114027023315,
+            "physical_km": 21.6334112813628,
+            "route_km": 10.5459,
+            "upwind_seconds": 6558.114026921523,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 1311.6228053843045,
+            "start": "rena-majori",
+            "end": "vignola-mare-aglientu",
+            "land_wait_minutes": 3.7307068864504496
+          }
+        ]
+      },
+      {
+        "day": 84,
+        "route_km": 29.0321,
+        "water_hours": 4.140636372831133,
+        "physical_km": 54.26431872780567,
+        "legs": [
+          {
+            "departure": 1698132900,
+            "arrival": 1698144996.8650625,
+            "water_seconds": 12096.865062475204,
+            "physical_km": 44.20941848742738,
+            "route_km": 23.5562,
+            "upwind_seconds": 11630.670726198856,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 2326.134145239771,
+            "start": "vignola-mare-aglientu",
+            "end": "spiaggia-longa-isola-rossa",
+            "land_wait_minutes": 35.0
+          },
+          {
+            "departure": 1698146700,
+            "arrival": 1698149509.4258797,
+            "water_seconds": 2809.425879716873,
+            "physical_km": 10.054900240378293,
+            "route_km": 5.4759,
+            "upwind_seconds": 2809.425879615343,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 561.8851759230685,
+            "start": "spiaggia-longa-isola-rossa",
+            "end": "li-junchi",
+            "land_wait_minutes": 3.3855822920799254
+          }
+        ]
+      },
+      {
+        "day": 85,
+        "route_km": 15.1881,
+        "water_hours": 2.28362069606781,
+        "physical_km": 29.334574799549216,
+        "legs": [
+          {
+            "departure": 1698217200,
+            "arrival": 1698225421.0345058,
+            "water_seconds": 8221.034505844116,
+            "physical_km": 29.334574799549216,
+            "route_km": 15.1881,
+            "upwind_seconds": 8221.03450576303,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 1644.2069011526057,
+            "start": "li-junchi",
+            "end": "lu-bagnu",
+            "land_wait_minutes": 0.0
+          }
+        ]
+      },
+      {
+        "day": 86,
+        "route_km": 48.419700000000006,
+        "water_hours": 4.8688970297575,
+        "physical_km": 69.41894163693883,
+        "legs": [
+          {
+            "departure": 1698306600,
+            "arrival": 1698318565.9452055,
+            "water_seconds": 11965.945205450058,
+            "physical_km": 42.16964163693885,
+            "route_km": 21.1704,
+            "upwind_seconds": 11965.94520541361,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 2393.1890410827214,
+            "start": "lu-bagnu",
+            "end": "platamona",
+            "land_wait_minutes": 50.0
+          },
+          {
+            "departure": 1698320100,
+            "arrival": 1698325662.0841017,
+            "water_seconds": 5562.084101676941,
+            "physical_km": 27.24929999999997,
+            "route_km": 27.2493,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "platamona",
+            "end": "la-pelosa",
+            "land_wait_minutes": 0.5675799091657002
+          }
+        ]
+      },
+      {
+        "day": 87,
+        "route_km": 65.2036,
+        "water_hours": 4.731774621804555,
+        "physical_km": 73.36983497050096,
+        "legs": [
+          {
+            "departure": 1698393900,
+            "arrival": 1698399300.5041156,
+            "water_seconds": 5400.504115581512,
+            "physical_km": 29.096497746490357,
+            "route_km": 28.2111,
+            "upwind_seconds": 581.2856465798294,
+            "downwind_seconds": 72.92684934940647,
+            "manoeuvre_seconds": 123.54981425090651,
+            "start": "la-pelosa",
+            "end": "argentiera",
+            "land_wait_minutes": 65.0
+          },
+          {
+            "departure": 1698401100,
+            "arrival": 1698404155.6941662,
+            "water_seconds": 3055.6941661834717,
+            "physical_km": 11.93849894282015,
+            "route_km": 10.4574,
+            "upwind_seconds": 685.5529291816192,
+            "downwind_seconds": 802.5381143071687,
+            "manoeuvre_seconds": 217.36439726704066,
+            "start": "argentiera",
+            "end": "porto-ferro",
+            "land_wait_minutes": 4.991598073641459
+          },
+          {
+            "departure": 1698405900,
+            "arrival": 1698413888.985667,
+            "water_seconds": 7988.98566699028,
+            "physical_km": 29.455538281190456,
+            "route_km": 23.6558,
+            "upwind_seconds": 4729.588712437864,
+            "downwind_seconds": 103.23511699184384,
+            "manoeuvre_seconds": 956.2412541867571,
+            "start": "porto-ferro",
+            "end": "mugoni",
+            "land_wait_minutes": 4.071763896942139
+          },
+          {
+            "departure": 1698415500,
+            "arrival": 1698416089.2046897,
+            "water_seconds": 589.2046897411346,
+            "physical_km": 2.8793,
+            "route_km": 2.8793,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "mugoni",
+            "end": "porto-conte",
+            "land_wait_minutes": 1.8502388834953307
+          }
+        ]
+      },
+      {
+        "day": 88,
+        "route_km": 15.4972,
+        "water_hours": 1.2188986257712047,
+        "physical_km": 17.90989808372538,
+        "legs": [
+          {
+            "departure": 1698476400,
+            "arrival": 1698479741.3439624,
+            "water_seconds": 3341.343962430954,
+            "physical_km": 12.664098083725381,
+            "route_km": 10.2514,
+            "upwind_seconds": 934.6746930910654,
+            "downwind_seconds": 1141.1623708260806,
+            "manoeuvre_seconds": 301.0511757008211,
+            "start": "porto-conte",
+            "end": "le-bombarde",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1698488400,
+            "arrival": 1698489446.6910903,
+            "water_seconds": 1046.6910903453827,
+            "physical_km": 5.2458,
+            "route_km": 5.2458,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "le-bombarde",
+            "end": "lido-di-san-giovanni",
+            "land_wait_minutes": 119.3109339594841
+          }
+        ]
+      },
+      {
+        "day": 90,
+        "route_km": 37.985,
+        "water_hours": 4.9706397754616205,
+        "physical_km": 65.8596970304556,
+        "legs": [
+          {
+            "departure": 1698656100,
+            "arrival": 1698673994.3031917,
+            "water_seconds": 17894.303191661835,
+            "physical_km": 65.8596970304556,
+            "route_km": 37.985,
+            "upwind_seconds": 16824.362926066096,
+            "downwind_seconds": 135.11053363206565,
+            "manoeuvre_seconds": 3378.3836385764253,
+            "start": "lido-di-san-giovanni",
+            "end": "bosa-marina",
+            "land_wait_minutes": 55.0
+          }
+        ]
+      },
+      {
+        "day": 91,
+        "route_km": 67.4986,
+        "water_hours": 3.667284829881456,
+        "physical_km": 68.5450029899533,
+        "legs": [
+          {
+            "departure": 1698739200,
+            "arrival": 1698743032.629334,
+            "water_seconds": 3832.629333972931,
+            "physical_km": 21.688217108041044,
+            "route_km": 21.6245,
+            "upwind_seconds": 0,
+            "downwind_seconds": 93.53655340567246,
+            "manoeuvre_seconds": 9.353655340567244,
+            "start": "bosa-marina",
+            "end": "santa-caterina-di-pittinuri",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1698744600,
+            "arrival": 1698748158.6085036,
+            "water_seconds": 3558.6085035800934,
+            "physical_km": 15.795799999999993,
+            "route_km": 15.7958,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "santa-caterina-di-pittinuri",
+            "end": "putzu-idu",
+            "land_wait_minutes": 1.122844433784485
+          },
+          {
+            "departure": 1698749700,
+            "arrival": 1698753220.251916,
+            "water_seconds": 3520.2519159317017,
+            "physical_km": 19.34281552000274,
+            "route_km": 18.4696,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1221.05903386813,
+            "manoeuvre_seconds": 122.10590338681298,
+            "start": "putzu-idu",
+            "end": "san-giovanni-di-sinis",
+            "land_wait_minutes": 0.6898582736651103
+          },
+          {
+            "departure": 1698754800,
+            "arrival": 1698757090.735634,
+            "water_seconds": 2290.7356340885162,
+            "physical_km": 11.718170361909522,
+            "route_km": 11.6087,
+            "upwind_seconds": 0,
+            "downwind_seconds": 180.44620703134092,
+            "manoeuvre_seconds": 18.044620703134086,
+            "start": "san-giovanni-di-sinis",
+            "end": "torregrande",
+            "land_wait_minutes": 1.329134734471639
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "summary": {
+      "year": 2023,
+      "model": "cautious",
+      "direction": "cw",
+      "start_hotel": "santa-maria-navarrese",
+      "start": "2023-08-01",
+      "completed": false,
+      "completed_km": 808.697,
+      "last_hotel": "la-caletta",
+      "finish": "2023-10-31",
+      "riding_days": 16,
+      "waiting_days": 76,
+      "first_ride": "2023-08-18"
+    },
+    "travel": [
+      {
+        "day": 17,
+        "route_km": 19.6404,
+        "water_hours": 3.5717694736851584,
+        "physical_km": 39.09535336650664,
+        "legs": [
+          {
+            "departure": 1692355800,
+            "arrival": 1692362094.9824827,
+            "water_seconds": 6294.982482671738,
+            "physical_km": 19.259337440590972,
+            "route_km": 8.8287,
+            "upwind_seconds": 6055.222666130711,
+            "downwind_seconds": 185.34488398056266,
+            "manoeuvre_seconds": 1229.5790216241985,
+            "start": "santa-maria-navarrese",
+            "end": "porto-frailis",
+            "land_wait_minutes": 230.0
+          },
+          {
+            "departure": 1692363600,
+            "arrival": 1692370163.3876226,
+            "water_seconds": 6563.387622594833,
+            "physical_km": 19.83601592591567,
+            "route_km": 10.8117,
+            "upwind_seconds": 6563.387622545633,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 1312.6775245091264,
+            "start": "porto-frailis",
+            "end": "torre-di-bari",
+            "land_wait_minutes": 0.08362528880437216
+          }
+        ]
+      },
+      {
+        "day": 27,
+        "route_km": 75.3541,
+        "water_hours": 4.236956925524606,
+        "physical_km": 76.19018820941075,
+        "legs": [
+          {
+            "departure": 1693212900,
+            "arrival": 1693220328.898852,
+            "water_seconds": 7428.898852109909,
+            "physical_km": 35.92140443900095,
+            "route_km": 35.8936,
+            "upwind_seconds": 0,
+            "downwind_seconds": 40.7709060682158,
+            "manoeuvre_seconds": 4.077090606821579,
+            "start": "torre-di-bari",
+            "end": "murtas",
+            "land_wait_minutes": 115.0
+          },
+          {
+            "departure": 1693221900,
+            "arrival": 1693223932.5957966,
+            "water_seconds": 2032.595796585083,
+            "physical_km": 10.872360250765118,
+            "route_km": 10.0743,
+            "upwind_seconds": 510.59953790084126,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 102.11990758016822,
+            "start": "murtas",
+            "end": "porto-corallo",
+            "land_wait_minutes": 1.1850191315015157
+          },
+          {
+            "departure": 1693225500,
+            "arrival": 1693227103.9817321,
+            "water_seconds": 1603.9817321300507,
+            "physical_km": 8.0376,
+            "route_km": 8.0376,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "porto-corallo",
+            "end": "torre-salinas",
+            "land_wait_minutes": 1.1234033902486165
+          },
+          {
+            "departure": 1693228800,
+            "arrival": 1693232987.568551,
+            "water_seconds": 4187.568551063538,
+            "physical_km": 21.358823519644684,
+            "route_km": 21.3486,
+            "upwind_seconds": 0,
+            "downwind_seconds": 15.178627242101683,
+            "manoeuvre_seconds": 1.5178627242101679,
+            "start": "torre-salinas",
+            "end": "cala-sinzias",
+            "land_wait_minutes": 3.2669711311658225
+          }
+        ]
+      },
+      {
+        "day": 28,
+        "route_km": 30.5177,
+        "water_hours": 3.331681385901239,
+        "physical_km": 46.66816287292571,
+        "legs": [
+          {
+            "departure": 1693292400,
+            "arrival": 1693295720.6082783,
+            "water_seconds": 3320.608278274536,
+            "physical_km": 14.631565929800956,
+            "route_km": 12.1233,
+            "upwind_seconds": 1740.358177677397,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 348.07163553547934,
+            "start": "cala-sinzias",
+            "end": "porto-giunco",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1693297500,
+            "arrival": 1693306173.444711,
+            "water_seconds": 8673.444710969925,
+            "physical_km": 32.036596943124756,
+            "route_km": 18.3944,
+            "upwind_seconds": 8243.736852543834,
+            "downwind_seconds": 91.96151934884797,
+            "manoeuvre_seconds": 1657.9435224436518,
+            "start": "porto-giunco",
+            "end": "geremeas",
+            "land_wait_minutes": 4.656528695424398
+          }
+        ]
+      },
+      {
+        "day": 32,
+        "route_km": 65.63969999999999,
+        "water_hours": 4.307613873945342,
+        "physical_km": 72.85391019991776,
+        "legs": [
+          {
+            "departure": 1693642500,
+            "arrival": 1693647828.9474413,
+            "water_seconds": 5328.947441339493,
+            "physical_km": 22.428131565102223,
+            "route_km": 18.9242,
+            "upwind_seconds": 0,
+            "downwind_seconds": 5328.947441292022,
+            "manoeuvre_seconds": 532.8947441292021,
+            "start": "geremeas",
+            "end": "poetto",
+            "land_wait_minutes": 75.0
+          },
+          {
+            "departure": 1693649400,
+            "arrival": 1693654568.8395634,
+            "water_seconds": 5168.839563369751,
+            "physical_km": 28.5131810126508,
+            "route_km": 27.4529,
+            "upwind_seconds": 589.8901853675137,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 117.97803707350272,
+            "start": "poetto",
+            "end": "nora",
+            "land_wait_minutes": 1.1842093110084533
+          },
+          {
+            "departure": 1693656300,
+            "arrival": 1693659595.335584,
+            "water_seconds": 3295.335583925247,
+            "physical_km": 13.583543321817999,
+            "route_km": 11.514,
+            "upwind_seconds": 400.93113900976397,
+            "downwind_seconds": 2840.3652421862216,
+            "manoeuvre_seconds": 364.2227520205749,
+            "start": "nora",
+            "end": "santa-margherita-di-pula",
+            "land_wait_minutes": 3.8526739438374835
+          },
+          {
+            "departure": 1693661100,
+            "arrival": 1693662814.2873576,
+            "water_seconds": 1714.2873575687408,
+            "physical_km": 8.329054300346739,
+            "route_km": 7.7486,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1181.4517987110312,
+            "manoeuvre_seconds": 118.14517987110308,
+            "start": "santa-margherita-di-pula",
+            "end": "su-giudeu",
+            "land_wait_minutes": 0.07774026791254679
+          }
+        ]
+      },
+      {
+        "day": 46,
+        "route_km": 74.4594,
+        "water_hours": 4.611992241806454,
+        "physical_km": 78.72805748756852,
+        "legs": [
+          {
+            "departure": 1694847600,
+            "arrival": 1694849119.1808255,
+            "water_seconds": 1519.180825471878,
+            "physical_km": 6.4528699946722945,
+            "route_km": 5.9568,
+            "upwind_seconds": 0,
+            "downwind_seconds": 981.6879949495917,
+            "manoeuvre_seconds": 98.16879949495915,
+            "start": "su-giudeu",
+            "end": "tuerredda",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1694850900,
+            "arrival": 1694853752.2084026,
+            "water_seconds": 2852.208402633667,
+            "physical_km": 11.224810784726058,
+            "route_km": 10.6224,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2540.0889193294593,
+            "manoeuvre_seconds": 254.0088919329459,
+            "start": "tuerredda",
+            "end": "porto-tramatzu",
+            "land_wait_minutes": 4.680319575468699
+          },
+          {
+            "departure": 1694855400,
+            "arrival": 1694859143.1567085,
+            "water_seconds": 3743.1567084789276,
+            "physical_km": 21.5441696457292,
+            "route_km": 21.4193,
+            "upwind_seconds": 0,
+            "downwind_seconds": 148.1009447382531,
+            "manoeuvre_seconds": 14.810094473825307,
+            "start": "porto-tramatzu",
+            "end": "porto-pino",
+            "land_wait_minutes": 2.4631932894388835
+          },
+          {
+            "departure": 1694860800,
+            "arrival": 1694864231.9765785,
+            "water_seconds": 3431.976578474045,
+            "physical_km": 16.27429666921865,
+            "route_km": 14.5077,
+            "upwind_seconds": 0,
+            "downwind_seconds": 3184.887290051472,
+            "manoeuvre_seconds": 318.4887290051471,
+            "start": "porto-pino",
+            "end": "coaquaddus",
+            "land_wait_minutes": 2.61405485868454
+          },
+          {
+            "departure": 1694865900,
+            "arrival": 1694868945.3597255,
+            "water_seconds": 3045.3597254753113,
+            "physical_km": 14.324163171357641,
+            "route_km": 13.4413,
+            "upwind_seconds": 423.0946502571806,
+            "downwind_seconds": 1591.3877019677516,
+            "manoeuvre_seconds": 243.75770024821125,
+            "start": "coaquaddus",
+            "end": "cala-lunga-santantioco",
+            "land_wait_minutes": 2.80039035876592
+          },
+          {
+            "departure": 1694870700,
+            "arrival": 1694872711.28983,
+            "water_seconds": 2011.2898299694061,
+            "physical_km": 8.907747221864684,
+            "route_km": 8.5119,
+            "upwind_seconds": 303.10295216051156,
+            "downwind_seconds": 996.7498484017648,
+            "manoeuvre_seconds": 160.2955752722788,
+            "start": "cala-lunga-santantioco",
+            "end": "spiaggia-grande",
+            "land_wait_minutes": 4.244004575411479
+          }
+        ]
+      },
+      {
+        "day": 47,
+        "route_km": 60.6839,
+        "water_hours": 4.351915339628856,
+        "physical_km": 66.15347884024057,
+        "legs": [
+          {
+            "departure": 1694940600,
+            "arrival": 1694943675.814093,
+            "water_seconds": 3075.8140931129456,
+            "physical_km": 14.439918752538675,
+            "route_km": 14.2527,
+            "upwind_seconds": 0,
+            "downwind_seconds": 402.5971503609917,
+            "manoeuvre_seconds": 40.25971503609916,
+            "start": "spiaggia-grande",
+            "end": "portoscuso",
+            "land_wait_minutes": 110.0
+          },
+          {
+            "departure": 1694945400,
+            "arrival": 1694948009.860842,
+            "water_seconds": 2609.860841989517,
+            "physical_km": 12.414166562407964,
+            "route_km": 12.0355,
+            "upwind_seconds": 0,
+            "downwind_seconds": 707.0872002421224,
+            "manoeuvre_seconds": 70.70872002421224,
+            "start": "portoscuso",
+            "end": "funtanamare",
+            "land_wait_minutes": 3.7364317814509076
+          },
+          {
+            "departure": 1694949600,
+            "arrival": 1694955204.8795025,
+            "water_seconds": 5604.879502534866,
+            "physical_km": 22.09265380544627,
+            "route_km": 19.6253,
+            "upwind_seconds": 0,
+            "downwind_seconds": 5090.5660220216405,
+            "manoeuvre_seconds": 509.05660220216396,
+            "start": "funtanamare",
+            "end": "portixeddu",
+            "land_wait_minutes": 1.502319300174713
+          },
+          {
+            "departure": 1694956800,
+            "arrival": 1694961176.340785,
+            "water_seconds": 4376.34078502655,
+            "physical_km": 17.206739719847658,
+            "route_km": 14.7704,
+            "upwind_seconds": 0,
+            "downwind_seconds": 3628.746382167946,
+            "manoeuvre_seconds": 362.8746382167946,
+            "start": "portixeddu",
+            "end": "piscinas-costa-verde",
+            "land_wait_minutes": 1.5853416244188945
+          }
+        ]
+      },
+      {
+        "day": 53,
+        "route_km": 43.2769,
+        "water_hours": 4.946151892410384,
+        "physical_km": 63.01116556983876,
+        "legs": [
+          {
+            "departure": 1695452400,
+            "arrival": 1695456124.7589216,
+            "water_seconds": 3724.75892162323,
+            "physical_km": 11.257049184878152,
+            "route_km": 6.8741,
+            "upwind_seconds": 3724.758921467037,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 744.9517842934073,
+            "start": "piscinas-costa-verde",
+            "end": "marina-di-arbus",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1695457800,
+            "arrival": 1695464724.8968635,
+            "water_seconds": 6924.896863460541,
+            "physical_km": 21.012649005691948,
+            "route_km": 9.9314,
+            "upwind_seconds": 6813.625339506348,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 1362.7250679012695,
+            "start": "marina-di-arbus",
+            "end": "torre-dei-corsari",
+            "land_wait_minutes": 2.920684639612834
+          },
+          {
+            "departure": 1695466500,
+            "arrival": 1695473656.4910276,
+            "water_seconds": 7156.491027593613,
+            "physical_km": 30.74146737926866,
+            "route_km": 26.4714,
+            "upwind_seconds": 3456.887047200726,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 691.3774094401451,
+            "start": "torre-dei-corsari",
+            "end": "torregrande",
+            "land_wait_minutes": 4.585052275657654
+          }
+        ]
+      },
+      {
+        "day": 55,
+        "route_km": 30.0783,
+        "water_hours": 3.4883872109651564,
+        "physical_km": 46.92438764218272,
+        "legs": [
+          {
+            "departure": 1695639300,
+            "arrival": 1695642862.1448839,
+            "water_seconds": 3562.1448838710785,
+            "physical_km": 14.027313357095004,
+            "route_km": 11.6087,
+            "upwind_seconds": 1714.2615802796854,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 342.85231605593697,
+            "start": "torregrande",
+            "end": "san-giovanni-di-sinis",
+            "land_wait_minutes": 235.0
+          },
+          {
+            "departure": 1695644400,
+            "arrival": 1695653396.0490756,
+            "water_seconds": 8996.049075603485,
+            "physical_km": 32.89707428508772,
+            "route_km": 18.4696,
+            "upwind_seconds": 8996.049075464398,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 1799.2098150928798,
+            "start": "san-giovanni-di-sinis",
+            "end": "putzu-idu",
+            "land_wait_minutes": 0.6309186021486918
+          }
+        ]
+      },
+      {
+        "day": 56,
+        "route_km": 15.7958,
+        "water_hours": 1.2040741179386776,
+        "physical_km": 17.490670017158493,
+        "legs": [
+          {
+            "departure": 1695722700,
+            "arrival": 1695727034.6668246,
+            "water_seconds": 4334.666824579239,
+            "physical_km": 17.490670017158493,
+            "route_km": 15.7958,
+            "upwind_seconds": 1211.447644614076,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 242.28952892281515,
+            "start": "putzu-idu",
+            "end": "santa-caterina-di-pittinuri",
+            "land_wait_minutes": 185.0
+          }
+        ]
+      },
+      {
+        "day": 79,
+        "route_km": 75.1067,
+        "water_hours": 4.4389973348379135,
+        "physical_km": 81.00501012764133,
+        "legs": [
+          {
+            "departure": 1697698800,
+            "arrival": 1697703881.0510812,
+            "water_seconds": 5081.0510811805725,
+            "physical_km": 24.5257378265456,
+            "route_km": 21.6245,
+            "upwind_seconds": 0,
+            "downwind_seconds": 3939.1095560288327,
+            "manoeuvre_seconds": 393.91095560288323,
+            "start": "santa-caterina-di-pittinuri",
+            "end": "bosa-marina",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1697705400,
+            "arrival": 1697712470.5675788,
+            "water_seconds": 7070.567578792572,
+            "physical_km": 38.54876882097959,
+            "route_km": 37.985,
+            "upwind_seconds": 230.6506202027524,
+            "downwind_seconds": 303.2833859957406,
+            "manoeuvre_seconds": 76.45846264012454,
+            "start": "bosa-marina",
+            "end": "lido-di-san-giovanni",
+            "land_wait_minutes": 0.31581531365712484
+          },
+          {
+            "departure": 1697714100,
+            "arrival": 1697715127.0331798,
+            "water_seconds": 1027.0331797599792,
+            "physical_km": 5.2458,
+            "route_km": 5.2458,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "lido-di-san-giovanni",
+            "end": "le-bombarde",
+            "land_wait_minutes": 2.1572070201237996
+          },
+          {
+            "departure": 1697716800,
+            "arrival": 1697719601.7385657,
+            "water_seconds": 2801.738565683365,
+            "physical_km": 12.684703480116138,
+            "route_km": 10.2514,
+            "upwind_seconds": 1031.7000989801936,
+            "downwind_seconds": 613.7992199443072,
+            "manoeuvre_seconds": 267.7199417904694,
+            "start": "le-bombarde",
+            "end": "porto-conte",
+            "land_wait_minutes": 2.882780337333679
+          }
+        ]
+      },
+      {
+        "day": 80,
+        "route_km": 65.2036,
+        "water_hours": 4.6590706900093295,
+        "physical_km": 74.92150297355815,
+        "legs": [
+          {
+            "departure": 1697785200,
+            "arrival": 1697785765.6684778,
+            "water_seconds": 565.6684777736664,
+            "physical_km": 2.8793,
+            "route_km": 2.8793,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "porto-conte",
+            "end": "mugoni",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1697787300,
+            "arrival": 1697794925.5796316,
+            "water_seconds": 7625.579631567001,
+            "physical_km": 32.0692321752396,
+            "route_km": 23.6558,
+            "upwind_seconds": 3950.985976646997,
+            "downwind_seconds": 2256.306746928597,
+            "manoeuvre_seconds": 1015.827870022259,
+            "start": "mugoni",
+            "end": "porto-ferro",
+            "land_wait_minutes": 0.5721920371055603
+          },
+          {
+            "departure": 1697796600,
+            "arrival": 1697798883.5662181,
+            "water_seconds": 2283.566218137741,
+            "physical_km": 10.765804962662395,
+            "route_km": 10.4574,
+            "upwind_seconds": 739.2948330581386,
+            "downwind_seconds": 433.8148792417471,
+            "manoeuvre_seconds": 191.2404545358024,
+            "start": "porto-ferro",
+            "end": "argentiera",
+            "land_wait_minutes": 2.9070061405499774
+          },
+          {
+            "departure": 1697800500,
+            "arrival": 1697806797.8401566,
+            "water_seconds": 6297.840156555176,
+            "physical_km": 29.207165835656152,
+            "route_km": 28.2111,
+            "upwind_seconds": 0,
+            "downwind_seconds": 3479.245748564933,
+            "manoeuvre_seconds": 347.9245748564932,
+            "start": "argentiera",
+            "end": "la-pelosa",
+            "land_wait_minutes": 1.9405630310376485
+          }
+        ]
+      },
+      {
+        "day": 81,
+        "route_km": 48.419700000000006,
+        "water_hours": 3.1776041122939853,
+        "physical_km": 52.626729884211585,
+        "legs": [
+          {
+            "departure": 1697871600,
+            "arrival": 1697877458.3202834,
+            "water_seconds": 5858.320283412933,
+            "physical_km": 27.24929999999997,
+            "route_km": 27.2493,
+            "upwind_seconds": 0,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 0.0,
+            "start": "la-pelosa",
+            "end": "platamona",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1697879100,
+            "arrival": 1697884681.0545208,
+            "water_seconds": 5581.054520845413,
+            "physical_km": 25.37742988421162,
+            "route_km": 21.1704,
+            "upwind_seconds": 0,
+            "downwind_seconds": 5581.054520686977,
+            "manoeuvre_seconds": 558.1054520686977,
+            "start": "platamona",
+            "end": "lu-bagnu",
+            "land_wait_minutes": 2.361328609784444
+          }
+        ]
+      },
+      {
+        "day": 84,
+        "route_km": 44.220200000000006,
+        "water_hours": 3.1260723776287502,
+        "physical_km": 50.39350540759007,
+        "legs": [
+          {
+            "departure": 1698130800,
+            "arrival": 1698134321.951917,
+            "water_seconds": 3521.9519169330597,
+            "physical_km": 16.661953213832852,
+            "route_km": 15.1881,
+            "upwind_seconds": 0,
+            "downwind_seconds": 3044.1710666767053,
+            "manoeuvre_seconds": 304.4171066676705,
+            "start": "lu-bagnu",
+            "end": "li-junchi",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1698135900,
+            "arrival": 1698137326.1494746,
+            "water_seconds": 1426.149474620819,
+            "physical_km": 6.115047602174996,
+            "route_km": 5.4759,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1426.1494745913049,
+            "manoeuvre_seconds": 142.61494745913046,
+            "start": "li-junchi",
+            "end": "spiaggia-longa-isola-rossa",
+            "land_wait_minutes": 1.3008013844490052
+          },
+          {
+            "departure": 1698138900,
+            "arrival": 1698145205.759168,
+            "water_seconds": 6305.759167909622,
+            "physical_km": 27.616504591582224,
+            "route_km": 23.5562,
+            "upwind_seconds": 191.36506320515417,
+            "downwind_seconds": 5762.271785760342,
+            "manoeuvre_seconds": 614.5001912170651,
+            "start": "spiaggia-longa-isola-rossa",
+            "end": "vignola-mare-aglientu",
+            "land_wait_minutes": 1.2308420896530152
+          }
+        ]
+      },
+      {
+        "day": 85,
+        "route_km": 66.1847,
+        "water_hours": 3.8869179460075167,
+        "physical_km": 70.54409055807191,
+        "legs": [
+          {
+            "departure": 1698217200,
+            "arrival": 1698219924.7281473,
+            "water_seconds": 2724.7281472682953,
+            "physical_km": 12.73810408771968,
+            "route_km": 10.5459,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2724.7281471058145,
+            "manoeuvre_seconds": 272.4728147105814,
+            "start": "vignola-mare-aglientu",
+            "end": "rena-majori",
+            "land_wait_minutes": 0.0
+          },
+          {
+            "departure": 1698221700,
+            "arrival": 1698224525.6975536,
+            "water_seconds": 2825.6975536346436,
+            "physical_km": 14.11544368524678,
+            "route_km": 13.5096,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1156.0812790402674,
+            "manoeuvre_seconds": 115.60812790402672,
+            "start": "rena-majori",
+            "end": "rena-bianca",
+            "land_wait_minutes": 4.587864212195078
+          },
+          {
+            "departure": 1698226200,
+            "arrival": 1698229476.2890701,
+            "water_seconds": 3276.2890701293945,
+            "physical_km": 16.62412220056506,
+            "route_km": 15.752,
+            "upwind_seconds": 0,
+            "downwind_seconds": 1209.4200622012027,
+            "manoeuvre_seconds": 120.94200622012025,
+            "start": "rena-bianca",
+            "end": "porto-pollo",
+            "land_wait_minutes": 2.9050407727559406
+          },
+          {
+            "departure": 1698231000,
+            "arrival": 1698234879.1063695,
+            "water_seconds": 3879.106369495392,
+            "physical_km": 19.74309544919706,
+            "route_km": 19.2772,
+            "upwind_seconds": 83.23953471303523,
+            "downwind_seconds": 663.278361195955,
+            "manoeuvre_seconds": 82.97574306220251,
+            "start": "porto-pollo",
+            "end": "cannigione",
+            "land_wait_minutes": 0.39518216451009114
+          },
+          {
+            "departure": 1698236400,
+            "arrival": 1698237687.083465,
+            "water_seconds": 1287.0834650993347,
+            "physical_km": 7.3233251353433335,
+            "route_km": 7.1,
+            "upwind_seconds": 0,
+            "downwind_seconds": 287.73184319278084,
+            "manoeuvre_seconds": 28.773184319278077,
+            "start": "cannigione",
+            "end": "baja-sardinia",
+            "land_wait_minutes": 0.34822717507680256
+          }
+        ]
+      },
+      {
+        "day": 88,
+        "route_km": 52.5154,
+        "water_hours": 4.979477311637666,
+        "physical_km": 68.1047635539409,
+        "legs": [
+          {
+            "departure": 1698483300,
+            "arrival": 1698487992.5759752,
+            "water_seconds": 4692.575975179672,
+            "physical_km": 20.766878853131185,
+            "route_km": 17.5426,
+            "upwind_seconds": 1550.3777887437138,
+            "downwind_seconds": 1307.4294864934318,
+            "manoeuvre_seconds": 440.81850639808596,
+            "start": "baja-sardinia",
+            "end": "liscia-ruja",
+            "land_wait_minutes": 115.0
+          },
+          {
+            "departure": 1698489600,
+            "arrival": 1698498486.9975448,
+            "water_seconds": 8886.997544765472,
+            "physical_km": 30.442717197703384,
+            "route_km": 21.8896,
+            "upwind_seconds": 5106.522328846289,
+            "downwind_seconds": 3491.7954916287454,
+            "manoeuvre_seconds": 1370.4840149321324,
+            "start": "liscia-ruja",
+            "end": "cala-sassari",
+            "land_wait_minutes": 1.7904004136721292
+          },
+          {
+            "departure": 1698500100,
+            "arrival": 1698504446.544802,
+            "water_seconds": 4346.544801950455,
+            "physical_km": 16.895167503106336,
+            "route_km": 13.0832,
+            "upwind_seconds": 2441.0266656165677,
+            "downwind_seconds": 0,
+            "manoeuvre_seconds": 488.2053331233135,
+            "start": "cala-sassari",
+            "end": "porto-istana",
+            "land_wait_minutes": 1.8833742539087932
+          }
+        ]
+      },
+      {
+        "day": 91,
+        "route_km": 41.601,
+        "water_hours": 2.554816330406401,
+        "physical_km": 44.68148440449772,
+        "legs": [
+          {
+            "departure": 1698752100,
+            "arrival": 1698756389.124355,
+            "water_seconds": 4289.1243550777435,
+            "physical_km": 21.44283837967312,
+            "route_km": 19.3537,
+            "upwind_seconds": 0,
+            "downwind_seconds": 2742.956806845339,
+            "manoeuvre_seconds": 274.295680684534,
+            "start": "porto-istana",
+            "end": "la-cinta",
+            "land_wait_minutes": 215.0
+          },
+          {
+            "departure": 1698758100,
+            "arrival": 1698763008.2144344,
+            "water_seconds": 4908.2144343853,
+            "physical_km": 23.2386460248246,
+            "route_km": 22.2473,
+            "upwind_seconds": 216.4592491848673,
+            "downwind_seconds": 1323.7333978015806,
+            "manoeuvre_seconds": 175.6651896171315,
+            "start": "la-cinta",
+            "end": "la-caletta",
+            "land_wait_minutes": 3.514594082037608
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "runs": 32208,
+  "best_routes_verified": 532,
+  "unique_selected_passages_replayed": 4187,
+  "checks": [
+    "All 20496 baseline runs matched or improved",
+    "No skipped gap or overshoot in rotated circuits",
+    "Representative full route reconstruction",
+    "Wind, coast and five-hour water budget replay"
+  ]
+}

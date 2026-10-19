@@ -1,8 +1,8 @@
 # Marina di Orosei
 
-Stand: 18.10.2026 · ID: `marina-di-orosei` · Gemeinde: Orosei
+Stand: 19.10.2026 · ID: `marina-di-orosei` · Gemeinde: Orosei
 
-**Rast** · Planungsentwurf
+**Rast + Hotel** · Planungsentwurf
 
 ## Lage und Strand
 
@@ -16,7 +16,9 @@ Keine Verkaufsstelle in dieser Recherche erfasst.
 
 ## Übernachtung
 
-Kein Hotel in dieser Recherche erfasst.
+[Club Hotel Marina Beach](https://www.marinabeach.it/hotel/). 150 m vom Strand Marina di Orosei laut Betreiber.
+
+Als Hotelziel im [erweiterten Phase-2-Netz](../docs/24-erweitertes-hotelnetz-simulation.md) berücksichtigt. Strandnähe bezieht sich auf den benannten Strand; die Phase-1-Routengeometrie bleibt unverändert.
 
 Entfernungsangaben stammen, soweit vorhanden, vom Anbieter.
 

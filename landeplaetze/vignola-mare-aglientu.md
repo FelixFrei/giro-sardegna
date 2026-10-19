@@ -1,8 +1,8 @@
 # Vignola Mare
 
-Stand: 18.10.2026 · ID: `vignola-mare-aglientu` · Gemeinde: Aglientu
+Stand: 19.10.2026 · ID: `vignola-mare-aglientu` · Gemeinde: Aglientu
 
-**Rast** · Planungsentwurf
+**Rast + Hotel** · Planungsentwurf
 
 ## Lage und Strand
 
@@ -16,7 +16,9 @@ Keine Verkaufsstelle in dieser Recherche erfasst.
 
 ## Übernachtung
 
-Kein Hotel in dieser Recherche erfasst.
+[Hotel Petri Marini](https://www.petrimarinihotel.com/en/). Ca. 250 m vom Strand Vignola Mare laut Booking; Standort beim Betreiber bestätigt. [Distanzquelle](https://www.booking.com/hotel/it/petri-marini.html).
+
+Als Hotelziel im [erweiterten Phase-2-Netz](../docs/24-erweitertes-hotelnetz-simulation.md) berücksichtigt. Strandnähe bezieht sich auf den benannten Strand; die Phase-1-Routengeometrie bleibt unverändert.
 
 Entfernungsangaben stammen, soweit vorhanden, vom Anbieter.
 

@@ -1,8 +1,8 @@
 # Santa Maria Navarrese
 
-Stand: 18.10.2026 · ID: `santa-maria-navarrese` · Gemeinde: Baunei
+Stand: 19.10.2026 · ID: `santa-maria-navarrese` · Gemeinde: Baunei
 
-**Rast + Getränke** · Planungsentwurf
+**Rast + Getränke + Hotel** · Planungsentwurf
 
 ## Lage und Strand
 
@@ -16,7 +16,9 @@ Stand: 18.10.2026 · ID: `santa-maria-navarrese` · Gemeinde: Baunei
 
 ## Übernachtung
 
-Kein Hotel in dieser Recherche erfasst.
+[Lanthia Resort](https://www.lanthiaresort.com/en/luxury-resort-in-santa-maria-navarrese-ogliastra-sardinia/). Strandhotel mit eigenem Strand in Santa Maria Navarrese laut Betreiber.
+
+Als Hotelziel im [erweiterten Phase-2-Netz](../docs/24-erweitertes-hotelnetz-simulation.md) berücksichtigt. Strandnähe bezieht sich auf den benannten Strand; die Phase-1-Routengeometrie bleibt unverändert.
 
 Entfernungsangaben stammen, soweit vorhanden, vom Anbieter.
 

@@ -1,0 +1,102 @@
+{
+  "checked_on": "2026-10-19",
+  "basis": "Existing hotels in data/phase1/route-plan.json plus these hotels at existing landing beaches. Current hotel network applied equally to all historical weather years; openings and availability not modelled. Expanded network: 12 additional existing route beaches. Beach proximity refers to the named beach, not a surveyed walk from the model coordinate. No vehicle transfers assumed.",
+  "additional_hotels": {
+    "geremeas": {
+      "name": "Calaserena Resort",
+      "proximity": "Am Strand von Geremeas laut Betreiber",
+      "url": "https://www.bluserena.it/en/hotels-and-resorts/calaserena-resort/"
+    },
+    "nora": {
+      "name": "Hotel Baia di Nora",
+      "proximity": "Hotel am Meer mit eigenem Strand in Nora laut Betreiber",
+      "url": "https://www.hotelbaiadinora.com/en/hotel/"
+    },
+    "porto-giunco": {
+      "name": "Almar Timi Ama",
+      "proximity": "Privatstrand Porto Giunco laut Betreiber 500 m vom Hotel, zu Fuss erreichbar",
+      "url": "https://www.almarresorts.com/en/almar-resorts/almar-timi-ama-villasimius-sardinia.html"
+    },
+    "santa-maria-navarrese": {
+      "name": "Lanthia Resort",
+      "proximity": "Strandhotel mit eigenem Strand in Santa Maria Navarrese laut Betreiber",
+      "url": "https://www.lanthiaresort.com/en/luxury-resort-in-santa-maria-navarrese-ogliastra-sardinia/"
+    },
+    "cala-sinzias": {
+      "name": "Cala Sinzias Resort",
+      "proximity": "200 m vom Strand über internen Fussweg laut Betreiber",
+      "url": "https://www.calasinziasresort.it/en/services/beach/cala-sinzias.html",
+      "checked_on": "2026-10-19"
+    },
+    "marina-di-orosei": {
+      "name": "Club Hotel Marina Beach",
+      "proximity": "150 m vom Strand Marina di Orosei laut Betreiber",
+      "url": "https://www.marinabeach.it/hotel/",
+      "checked_on": "2026-10-19"
+    },
+    "la-caletta": {
+      "name": "Cala della Torre Resort",
+      "proximity": "500 m vom öffentlichen Strand; Lage beim Hafen laut Betreiber, Distanz laut Veranstalter",
+      "url": "https://caladellatorrevillage.com/",
+      "checked_on": "2026-10-19",
+      "distance_source": "https://www.lavacanzaitaliana.it/wp-content/uploads/2024/04/CALA-DELLA-TORRE-ESTATE-2024-1-1.pdf"
+    },
+    "porto-istana": {
+      "name": "Park Hotel Porto Istana",
+      "proximity": "250 m vom Strand Porto Istana laut Betreiber",
+      "url": "https://www.parkhotelportoistana.it/en/",
+      "checked_on": "2026-10-19"
+    },
+    "cannigione": {
+      "name": "Hotel Cala di Falco",
+      "proximity": "Wenige Dutzend Meter vom Hotelpool zum Ortsstrand, über die Strasse laut Betreiber",
+      "url": "https://www.hotelcaladifalco.com/",
+      "checked_on": "2026-10-19"
+    },
+    "porto-pollo": {
+      "name": "Il Nido dei Gabbiani – Hotel & Residence",
+      "proximity": "600 m zum nächsten Strand laut Betreiber; Hotel-/Residence-Unterkunft",
+      "url": "https://ilnidodeigabbiani.it/en/welcome-to-il-nido-dei-gabbiani/",
+      "checked_on": "2026-10-19"
+    },
+    "vignola-mare-aglientu": {
+      "name": "Hotel Petri Marini",
+      "proximity": "Ca. 250 m vom Strand Vignola Mare laut Booking; Standort beim Betreiber bestätigt",
+      "url": "https://www.petrimarinihotel.com/en/",
+      "checked_on": "2026-10-19",
+      "distance_source": "https://www.booking.com/hotel/it/petri-marini.html"
+    },
+    "lu-bagnu": {
+      "name": "Hotel Residence Ampurias",
+      "proximity": "10 m von der Bucht Sacro Cuore / Lu Bagnu laut Betreiber; Hotelzimmer verfügbar",
+      "url": "https://www.ampurias.net/",
+      "checked_on": "2026-10-19"
+    },
+    "lido-di-san-giovanni": {
+      "name": "Hotel Riviera Alghero",
+      "proximity": "Wenige Schritte vom Lido di Alghero laut Betreiber",
+      "url": "https://hotelriviera-alghero.com/",
+      "checked_on": "2026-10-19"
+    },
+    "santa-caterina-di-pittinuri": {
+      "name": "Hotel La Baja",
+      "proximity": "Über der gleichnamigen Strandbucht, strandnah laut Betreiber",
+      "url": "https://www.felixhotels.it/en/hotel-la-baja-santa-caterina-di-pittinuri/",
+      "checked_on": "2026-10-19"
+    },
+    "putzu-idu": {
+      "name": "Hotel Maluentu",
+      "proximity": "Direkt am Strand Putzu Idu laut Betreiber",
+      "url": "https://www.maluentu.net/",
+      "checked_on": "2026-10-19"
+    },
+    "portoscuso": {
+      "name": "Hotel Lido degli Spagnoli",
+      "proximity": "Am Meer bei Portopaglietto; ca. 4 Minuten zum Strand laut Google-Hotelprofil",
+      "url": "https://www.lidodeglispagnoli.com/en/",
+      "checked_on": "2026-10-19",
+      "distance_source": "https://www.google.it/travel/hotels/entity/CgsIlY_zz7CavYOXARAB"
+    }
+  },
+  "previous_network": "hotel-network.json"
+}

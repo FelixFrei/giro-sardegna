@@ -20,6 +20,15 @@ class StartingHotelTests(unittest.TestCase):
         nodes=['a','b','c','a'];days=[{0:{2:{'route_km':20}}},{2:{4:{'route_km':20}}}]
         self.assertEqual(evaluate(nodes,range(3),days,0,0)[0],2)
 
+    def test_intermediate_hotel_unlocks_multiday_crossing(self):
+        # a→b→c cannot fit in one day. With no hotel at b there is no
+        # overnight transition; adding b lets the same ring finish in 3 days.
+        nodes=['a','b','c','a']
+        old=[{0:{},2:{3:{'route_km':10}}}]*3
+        new=[{0:{1:{'route_km':10}},1:{2:{'route_km':10}},2:{3:{'route_km':10}}}]*3
+        self.assertEqual(evaluate(nodes,[0,2],old,0,0)[0],0)
+        self.assertEqual(evaluate(nodes,[0,1,2],new,0,0)[0],3)
+
     def test_wait_for_later_window(self):
         nodes=['a','b','a'];days=[{0:{1:{'route_km':10}}},{1:{}},{1:{2:{'route_km':10}}}]
         progress,history,last=evaluate(nodes,range(2),days,0,0)

@@ -1,8 +1,8 @@
 # Porto Pollo – Ostbucht
 
-Stand: 18.10.2026 · ID: `porto-pollo` · Gemeinde: Palau
+Stand: 19.10.2026 · ID: `porto-pollo` · Gemeinde: Palau
 
-**Rast + Getränke** · Planungsentwurf
+**Rast + Getränke + Hotel** · Planungsentwurf
 
 ## Lage und Strand
 
@@ -16,7 +16,9 @@ Stand: 18.10.2026 · ID: `porto-pollo` · Gemeinde: Palau
 
 ## Übernachtung
 
-Kein Hotel in dieser Recherche erfasst.
+[Il Nido dei Gabbiani – Hotel & Residence](https://ilnidodeigabbiani.it/en/welcome-to-il-nido-dei-gabbiani/). 600 m zum nächsten Strand laut Betreiber; Hotel-/Residence-Unterkunft.
+
+Als Hotelziel im [erweiterten Phase-2-Netz](../docs/24-erweitertes-hotelnetz-simulation.md) berücksichtigt. Strandnähe bezieht sich auf den benannten Strand; die Phase-1-Routengeometrie bleibt unverändert.
 
 Entfernungsangaben stammen, soweit vorhanden, vom Anbieter.
 

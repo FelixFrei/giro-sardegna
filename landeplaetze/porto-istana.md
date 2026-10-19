@@ -1,8 +1,8 @@
 # Porto Istana
 
-Stand: 18.10.2026 · ID: `porto-istana` · Gemeinde: Olbia
+Stand: 19.10.2026 · ID: `porto-istana` · Gemeinde: Olbia
 
-**Rast** · Planungsentwurf
+**Rast + Hotel** · Planungsentwurf
 
 ## Lage und Strand
 
@@ -16,7 +16,9 @@ Keine Verkaufsstelle in dieser Recherche erfasst.
 
 ## Übernachtung
 
-Kein Hotel in dieser Recherche erfasst.
+[Park Hotel Porto Istana](https://www.parkhotelportoistana.it/en/). 250 m vom Strand Porto Istana laut Betreiber.
+
+Als Hotelziel im [erweiterten Phase-2-Netz](../docs/24-erweitertes-hotelnetz-simulation.md) berücksichtigt. Strandnähe bezieht sich auf den benannten Strand; die Phase-1-Routengeometrie bleibt unverändert.
 
 Entfernungsangaben stammen, soweit vorhanden, vom Anbieter.
 

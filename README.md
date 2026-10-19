@@ -47,7 +47,9 @@ Hotelöffnungszeiten werden auf ausdrücklichen Wunsch nicht geprüft. Für Hote
 | [Ab August, 260°](docs/20-ab-august-260-grad.md) | Weitere 10° je Seite, Vergleich mit 240° bei 12–25 kn |
 | [Annahmen fürs Aufkreuzen](docs/21-annahmen-aufkreuzen.md) | Vorschlag: alle Windrichtungen, kursabhängige Geschwindigkeit und Manöververluste |
 | [Umrundung mit Aufkreuzen](docs/22-umrundung-mit-aufkreuzen.md) | Basis und vorsichtiges Modell, beide Richtungen, fünf Stunden Wasserzeit |
-| [Aktuell: Engpässe und Startorte](docs/23-engpaesse-und-startorte.md) | Konkrete blockierende Passagen und Vergleich aller 21 Hotelstartorte |
+| [Engpässe und Startorte](docs/23-engpaesse-und-startorte.md) | Konkrete blockierende Passagen und Vergleich aller 21 Hotelstartorte |
+| [Aktuell: Erweitertes Hotelnetz](docs/24-erweitertes-hotelnetz-simulation.md) | 33 Hotelziele, beide Richtungen und alle Startorte neu simuliert |
+| [Beispielreisen](docs/25-reiseverlaeufe-erweitertes-hotelnetz.md) | Tagesetappen, Hotelziele, Wasserzeit und Wartepausen im erweiterten Netz |
 | [Quellenregister](docs/10-quellenregister.md) | Quellen je Landeplatz |
 | [Vorlage Landeplatz](templates/landeplatz.md) | Steckbrief mit Quellen je Aussage |
 | [Vorlage Etappe](templates/etappe.md) | Teilstrecken, Pausen, Hotels, Alternativen und Nachweise |

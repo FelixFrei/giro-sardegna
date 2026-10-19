@@ -1,8 +1,8 @@
 # Lu Bagnu
 
-Stand: 18.10.2026 · ID: `lu-bagnu` · Gemeinde: Castelsardo
+Stand: 19.10.2026 · ID: `lu-bagnu` · Gemeinde: Castelsardo
 
-**Rast** · Planungsentwurf
+**Rast + Hotel** · Planungsentwurf
 
 ## Lage und Strand
 
@@ -16,7 +16,9 @@ Keine Verkaufsstelle in dieser Recherche erfasst.
 
 ## Übernachtung
 
-Kein Hotel in dieser Recherche erfasst.
+[Hotel Residence Ampurias](https://www.ampurias.net/). 10 m von der Bucht Sacro Cuore / Lu Bagnu laut Betreiber; Hotelzimmer verfügbar.
+
+Als Hotelziel im [erweiterten Phase-2-Netz](../docs/24-erweitertes-hotelnetz-simulation.md) berücksichtigt. Strandnähe bezieht sich auf den benannten Strand; die Phase-1-Routengeometrie bleibt unverändert.
 
 Entfernungsangaben stammen, soweit vorhanden, vom Anbieter.
 

@@ -1,8 +1,8 @@
 # La Caletta – südlich Hafen
 
-Stand: 18.10.2026 · ID: `la-caletta` · Gemeinde: Siniscola
+Stand: 19.10.2026 · ID: `la-caletta` · Gemeinde: Siniscola
 
-**Rast** · Planungsentwurf
+**Rast + Hotel** · Planungsentwurf
 
 ## Lage und Strand
 
@@ -16,7 +16,9 @@ Keine Verkaufsstelle in dieser Recherche erfasst.
 
 ## Übernachtung
 
-Kein Hotel in dieser Recherche erfasst.
+[Cala della Torre Resort](https://caladellatorrevillage.com/). 500 m vom öffentlichen Strand; Lage beim Hafen laut Betreiber, Distanz laut Veranstalter. [Distanzquelle](https://www.lavacanzaitaliana.it/wp-content/uploads/2024/04/CALA-DELLA-TORRE-ESTATE-2024-1-1.pdf).
+
+Als Hotelziel im [erweiterten Phase-2-Netz](../docs/24-erweitertes-hotelnetz-simulation.md) berücksichtigt. Strandnähe bezieht sich auf den benannten Strand; die Phase-1-Routengeometrie bleibt unverändert.
 
 Entfernungsangaben stammen, soweit vorhanden, vom Anbieter.
 

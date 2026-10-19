@@ -1,8 +1,8 @@
 # Alghero – Lido San Giovanni
 
-Stand: 18.10.2026 · ID: `lido-di-san-giovanni` · Gemeinde: Alghero
+Stand: 19.10.2026 · ID: `lido-di-san-giovanni` · Gemeinde: Alghero
 
-**Rast** · Planungsentwurf
+**Rast + Hotel** · Planungsentwurf
 
 ## Lage und Strand
 
@@ -16,7 +16,9 @@ Keine Verkaufsstelle in dieser Recherche erfasst.
 
 ## Übernachtung
 
-Kein Hotel in dieser Recherche erfasst.
+[Hotel Riviera Alghero](https://hotelriviera-alghero.com/). Wenige Schritte vom Lido di Alghero laut Betreiber.
+
+Als Hotelziel im [erweiterten Phase-2-Netz](../docs/24-erweitertes-hotelnetz-simulation.md) berücksichtigt. Strandnähe bezieht sich auf den benannten Strand; die Phase-1-Routengeometrie bleibt unverändert.
 
 Entfernungsangaben stammen, soweit vorhanden, vom Anbieter.
 
