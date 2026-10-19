@@ -32,6 +32,12 @@ class WindTests(unittest.TestCase):
             for speed,expected in [(11.9,False),(12,True),(14.9,True),(25,True),(25.1,False)]:
                 self.assertEqual(compatible(*components(speed,direction),0,cfg)[0],expected)
 
+    def test_twelve_to_twenty_knot_boundaries(self):
+        cfg=json.loads((ROOT/'data/phase2/simulation-config-360-12-20kn.json').read_text())
+        for direction in range(360):
+            for speed,expected in [(11.9,False),(12,True),(20,True),(20.1,False),(25,False)]:
+                self.assertEqual(compatible(*components(speed,direction),0,cfg)[0],expected)
+
     def test_speed_boundaries(self):
         for speed,result in [(14.9,False),(15,True),(25,True),(25.1,False)]:
             self.assertEqual(compatible(*components(speed,270),90,CFG)[0],result)
