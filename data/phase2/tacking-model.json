@@ -1,0 +1,72 @@
+{
+  "settings": {
+    "wind_min_kn": 12,
+    "wind_max_kn": 25,
+    "water_hours": 5,
+    "land_pause_minutes": 25,
+    "departure_grid_minutes": 5,
+    "integration_seconds": 120,
+    "max_progress_step_m": 500,
+    "min_coastal_step_m": 25,
+    "land_buffer_m": 25,
+    "day_local": "09:00–17:00",
+    "start_dates": "08-01 through 09-30",
+    "last_day": "10-31",
+    "model_note": "Local triangular tacks, both orders tested; shorten up to 25 m progress near land. Wind frozen for geometry over <=120 s; range checked along actual strokes. No global offshore rerouting."
+  },
+  "wind_bands_kn": [
+    "12 <= wind < 15",
+    "15 <= wind < 20",
+    "20 <= wind <= 25"
+  ],
+  "base": {
+    "upwind_angles_deg": [
+      60,
+      55,
+      55
+    ],
+    "upwind_speeds_kmh": [
+      16,
+      20,
+      18
+    ],
+    "reaching_angles_deg": [
+      70,
+      90,
+      120,
+      145
+    ],
+    "reaching_speeds_kmh": [
+      [
+        16,
+        20,
+        18
+      ],
+      [
+        20,
+        25,
+        23
+      ],
+      [
+        22,
+        26,
+        24
+      ],
+      [
+        18,
+        22,
+        20
+      ]
+    ],
+    "upwind_efficiency": 0.85,
+    "downwind_efficiency": 0.9,
+    "downwind_heading_deg": 145
+  },
+  "cautious": {
+    "upwind_angle_increment_deg": 5,
+    "all_speeds_multiplier": 0.85,
+    "upwind_efficiency": 0.8,
+    "downwind_efficiency": 0.9
+  },
+  "assumptions_document": "docs/21-annahmen-aufkreuzen.md"
+}

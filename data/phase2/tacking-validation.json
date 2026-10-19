@@ -1,0 +1,14 @@
+{
+  "runs": 976,
+  "recorded_passages": 16784,
+  "unique_passages_replayed": 839,
+  "checks": [
+    "Wind and land geometry replay",
+    "hotel nights",
+    "five-hour water budget including manoeuvres",
+    "land pauses",
+    "daylight",
+    "physical and route distances",
+    "calendar"
+  ]
+}

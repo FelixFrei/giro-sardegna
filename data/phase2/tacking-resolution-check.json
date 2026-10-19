@@ -1,0 +1,649 @@
+{
+  "sample": "Eight longest distinct selected upwind passages per year/scenario; not a full rerun or independent sample.",
+  "passages": 64,
+  "valid_at_60s": 64,
+  "median_absolute_duration_change_percent": 0.042083707499501743,
+  "max_absolute_duration_change_percent": 0.8366951454134686,
+  "records": [
+    {
+      "year": 2022,
+      "scenario": "base",
+      "start": "bosa-marina",
+      "end": "lido-di-san-giovanni",
+      "departure": 1664607900,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.03690345500488856
+    },
+    {
+      "year": 2022,
+      "scenario": "base",
+      "start": "poetto",
+      "end": "nora",
+      "departure": 1664002800,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.21889219228282686
+    },
+    {
+      "year": 2022,
+      "scenario": "base",
+      "start": "porto-pino",
+      "end": "coaquaddus",
+      "departure": 1664607600,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.09222892028193375
+    },
+    {
+      "year": 2022,
+      "scenario": "base",
+      "start": "poetto",
+      "end": "nora",
+      "departure": 1664272200,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.4157229772245641
+    },
+    {
+      "year": 2022,
+      "scenario": "base",
+      "start": "funtanamare",
+      "end": "portixeddu",
+      "departure": 1665746400,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.008973466240325134
+    },
+    {
+      "year": 2022,
+      "scenario": "base",
+      "start": "spiaggia-grande",
+      "end": "portoscuso",
+      "departure": 1665735000,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.01647217438722759
+    },
+    {
+      "year": 2022,
+      "scenario": "base",
+      "start": "tuerredda",
+      "end": "porto-tramatzu",
+      "departure": 1664352000,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.006297249496123314
+    },
+    {
+      "year": 2022,
+      "scenario": "base",
+      "start": "nora",
+      "end": "santa-margherita-di-pula",
+      "departure": 1661428200,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.0009097681061831508
+    },
+    {
+      "year": 2022,
+      "scenario": "cautious",
+      "start": "poetto",
+      "end": "nora",
+      "departure": 1664003100,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.0013930078479718055
+    },
+    {
+      "year": 2022,
+      "scenario": "cautious",
+      "start": "poetto",
+      "end": "nora",
+      "departure": 1664271900,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.10090296669875709
+    },
+    {
+      "year": 2022,
+      "scenario": "cautious",
+      "start": "geremeas",
+      "end": "porto-giunco",
+      "departure": 1664010300,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.017695625189895203
+    },
+    {
+      "year": 2022,
+      "scenario": "cautious",
+      "start": "nora",
+      "end": "santa-margherita-di-pula",
+      "departure": 1660908300,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.09708470851726991
+    },
+    {
+      "year": 2022,
+      "scenario": "cautious",
+      "start": "cala-sinzias",
+      "end": "torre-salinas",
+      "departure": 1660914900,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.25164096258315505
+    },
+    {
+      "year": 2022,
+      "scenario": "cautious",
+      "start": "poetto",
+      "end": "nora",
+      "departure": 1664970300,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.14596751853167556
+    },
+    {
+      "year": 2022,
+      "scenario": "cautious",
+      "start": "porto-giunco",
+      "end": "cala-sinzias",
+      "departure": 1663410000,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.0003530032412601969
+    },
+    {
+      "year": 2022,
+      "scenario": "cautious",
+      "start": "porto-giunco",
+      "end": "cala-sinzias",
+      "departure": 1660910400,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.001432513167420879
+    },
+    {
+      "year": 2023,
+      "scenario": "base",
+      "start": "murtas",
+      "end": "torre-di-bari",
+      "departure": 1693997100,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.0141431242909551
+    },
+    {
+      "year": 2023,
+      "scenario": "base",
+      "start": "poetto",
+      "end": "geremeas",
+      "departure": 1693640100,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.030450433982576186
+    },
+    {
+      "year": 2023,
+      "scenario": "base",
+      "start": "poetto",
+      "end": "geremeas",
+      "departure": 1694859900,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.021938607512206332
+    },
+    {
+      "year": 2023,
+      "scenario": "base",
+      "start": "poetto",
+      "end": "geremeas",
+      "departure": 1694949300,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.8366951454134686
+    },
+    {
+      "year": 2023,
+      "scenario": "base",
+      "start": "san-giovanni-di-sinis",
+      "end": "putzu-idu",
+      "departure": 1695456900,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.003570553777232366
+    },
+    {
+      "year": 2023,
+      "scenario": "base",
+      "start": "poetto",
+      "end": "nora",
+      "departure": 1697805900,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.14095432772811556
+    },
+    {
+      "year": 2023,
+      "scenario": "base",
+      "start": "porto-pino",
+      "end": "coaquaddus",
+      "departure": 1698217200,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.0040103788084611125
+    },
+    {
+      "year": 2023,
+      "scenario": "base",
+      "start": "marina-di-arbus",
+      "end": "torre-dei-corsari",
+      "departure": 1695456600,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.00924995903964776
+    },
+    {
+      "year": 2023,
+      "scenario": "cautious",
+      "start": "santa-maria-navarrese",
+      "end": "cala-mariolu",
+      "departure": 1693897200,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.1696000702668954
+    },
+    {
+      "year": 2023,
+      "scenario": "cautious",
+      "start": "marina-di-arbus",
+      "end": "torre-dei-corsari",
+      "departure": 1695457800,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.01453660931686196
+    },
+    {
+      "year": 2023,
+      "scenario": "cautious",
+      "start": "nora",
+      "end": "santa-margherita-di-pula",
+      "departure": 1698218700,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.012762988751779947
+    },
+    {
+      "year": 2023,
+      "scenario": "cautious",
+      "start": "funtanamare",
+      "end": "portixeddu",
+      "departure": 1693301700,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.002076860892241683
+    },
+    {
+      "year": 2023,
+      "scenario": "cautious",
+      "start": "marina-di-arbus",
+      "end": "torre-dei-corsari",
+      "departure": 1698742500,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.5034619046079825
+    },
+    {
+      "year": 2023,
+      "scenario": "cautious",
+      "start": "cala-mariolu",
+      "end": "cala-luna",
+      "departure": 1693906800,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.03542831016164483
+    },
+    {
+      "year": 2023,
+      "scenario": "cautious",
+      "start": "marina-di-arbus",
+      "end": "torre-dei-corsari",
+      "departure": 1693381800,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.0043055433010974475
+    },
+    {
+      "year": 2023,
+      "scenario": "cautious",
+      "start": "porto-tramatzu",
+      "end": "porto-pino",
+      "departure": 1698314400,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.047263959994114924
+    },
+    {
+      "year": 2024,
+      "scenario": "base",
+      "start": "funtanamare",
+      "end": "portixeddu",
+      "departure": 1727953800,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.39263686196215897
+    },
+    {
+      "year": 2024,
+      "scenario": "base",
+      "start": "santa-caterina-di-pittinuri",
+      "end": "bosa-marina",
+      "departure": 1726057800,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.2549374222760026
+    },
+    {
+      "year": 2024,
+      "scenario": "base",
+      "start": "san-giovanni-di-sinis",
+      "end": "putzu-idu",
+      "departure": 1726046400,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.752352350026575
+    },
+    {
+      "year": 2024,
+      "scenario": "base",
+      "start": "rena-bianca",
+      "end": "porto-pollo",
+      "departure": 1728983400,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.006304365253506639
+    },
+    {
+      "year": 2024,
+      "scenario": "base",
+      "start": "nora",
+      "end": "santa-margherita-di-pula",
+      "departure": 1727431500,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.0042354488256735046
+    },
+    {
+      "year": 2024,
+      "scenario": "base",
+      "start": "coaquaddus",
+      "end": "cala-lunga-santantioco",
+      "departure": 1727599500,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.00016604871071468352
+    },
+    {
+      "year": 2024,
+      "scenario": "base",
+      "start": "porto-tramatzu",
+      "end": "porto-pino",
+      "departure": 1727529300,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.08159689882327736
+    },
+    {
+      "year": 2024,
+      "scenario": "base",
+      "start": "porto-pollo",
+      "end": "cannigione",
+      "departure": 1728990600,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.24938453171261532
+    },
+    {
+      "year": 2024,
+      "scenario": "cautious",
+      "start": "poetto",
+      "end": "geremeas",
+      "departure": 1726916400,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.12302211229076043
+    },
+    {
+      "year": 2024,
+      "scenario": "cautious",
+      "start": "nora",
+      "end": "santa-margherita-di-pula",
+      "departure": 1727431200,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.00635671059299181
+    },
+    {
+      "year": 2024,
+      "scenario": "cautious",
+      "start": "nora",
+      "end": "santa-margherita-di-pula",
+      "departure": 1724058000,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.0027292675256695986
+    },
+    {
+      "year": 2024,
+      "scenario": "cautious",
+      "start": "santa-margherita-di-pula",
+      "end": "su-giudeu",
+      "departure": 1727439900,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.09151991925684388
+    },
+    {
+      "year": 2024,
+      "scenario": "cautious",
+      "start": "cala-sinzias",
+      "end": "torre-salinas",
+      "departure": 1728123900,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.17981206835637753
+    },
+    {
+      "year": 2024,
+      "scenario": "cautious",
+      "start": "cala-sinzias",
+      "end": "torre-salinas",
+      "departure": 1724073000,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.0001656652801718117
+    },
+    {
+      "year": 2024,
+      "scenario": "cautious",
+      "start": "cala-sinzias",
+      "end": "torre-salinas",
+      "departure": 1725881400,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.1784579332916314
+    },
+    {
+      "year": 2024,
+      "scenario": "cautious",
+      "start": "santa-margherita-di-pula",
+      "end": "su-giudeu",
+      "departure": 1724064600,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.38372139909174097
+    },
+    {
+      "year": 2025,
+      "scenario": "base",
+      "start": "poetto",
+      "end": "nora",
+      "departure": 1756639500,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.14993283875065488
+    },
+    {
+      "year": 2025,
+      "scenario": "base",
+      "start": "poetto",
+      "end": "nora",
+      "departure": 1754307000,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.013897635058079949
+    },
+    {
+      "year": 2025,
+      "scenario": "base",
+      "start": "poetto",
+      "end": "geremeas",
+      "departure": 1756290300,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.1336298991292395
+    },
+    {
+      "year": 2025,
+      "scenario": "base",
+      "start": "torre-dei-corsari",
+      "end": "torregrande",
+      "departure": 1758712200,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.20217697110487265
+    },
+    {
+      "year": 2025,
+      "scenario": "base",
+      "start": "porto-pino",
+      "end": "coaquaddus",
+      "departure": 1755851700,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.00344633702274999
+    },
+    {
+      "year": 2025,
+      "scenario": "base",
+      "start": "funtanamare",
+      "end": "portixeddu",
+      "departure": 1759663200,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.08266149310455218
+    },
+    {
+      "year": 2025,
+      "scenario": "base",
+      "start": "spiaggia-grande",
+      "end": "portoscuso",
+      "departure": 1759651500,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.2790913212740054
+    },
+    {
+      "year": 2025,
+      "scenario": "base",
+      "start": "san-giovanni-di-sinis",
+      "end": "putzu-idu",
+      "departure": 1759651500,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.019211951977204933
+    },
+    {
+      "year": 2025,
+      "scenario": "cautious",
+      "start": "marina-di-arbus",
+      "end": "torre-dei-corsari",
+      "departure": 1761293700,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.04843646065564311
+    },
+    {
+      "year": 2025,
+      "scenario": "cautious",
+      "start": "torre-dei-corsari",
+      "end": "torregrande",
+      "departure": 1761301800,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.050790985092374896
+    },
+    {
+      "year": 2025,
+      "scenario": "cautious",
+      "start": "cala-sinzias",
+      "end": "torre-salinas",
+      "departure": 1761569100,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.0852002532961027
+    },
+    {
+      "year": 2025,
+      "scenario": "cautious",
+      "start": "piscinas-costa-verde",
+      "end": "marina-di-arbus",
+      "departure": 1761289200,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.0669499543502261
+    },
+    {
+      "year": 2025,
+      "scenario": "cautious",
+      "start": "porto-giunco",
+      "end": "cala-sinzias",
+      "departure": 1761564600,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": -0.0006246489374084341
+    },
+    {
+      "year": 2025,
+      "scenario": "cautious",
+      "start": "coaquaddus",
+      "end": "cala-lunga-santantioco",
+      "departure": 1760952300,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.00215475828000411
+    },
+    {
+      "year": 2025,
+      "scenario": "cautious",
+      "start": "poetto",
+      "end": "nora",
+      "departure": 1756290300,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.07807271162132423
+    },
+    {
+      "year": 2025,
+      "scenario": "cautious",
+      "start": "portixeddu",
+      "end": "piscinas-costa-verde",
+      "departure": 1761218400,
+      "valid_at_60s": true,
+      "reason": "ok",
+      "duration_change_percent": 0.0132112294046971
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Annahmen für Aufkreuzen und Wind aus allen Richtungen
 
-Stand: 19.10.2026. Vorschlag für das nächste Modell, noch keine neue Umrundungssimulation. Weiterhin 12–25 kn, historische August–Oktober-Daten 2022–2025, beide Fahrtrichtungen, Hotelziele und Land-Wartepausen.
+Stand: 19.10.2026. Grundlage für die [Umrundungssimulation mit Aufkreuzen](22-umrundung-mit-aufkreuzen.md). Weiterhin 12–25 kn, historische August–Oktober-Daten 2022–2025, beide Fahrtrichtungen, Hotelziele und Land-Wartepausen.
 
 ## Grundidee
 
@@ -77,4 +77,4 @@ Quellen gelesen am 19.10.2026:
 - [Wingfoil Playa Blanca: How to Ride Upwind](https://wingfoilplayablanca.com/guides/ride-upwind): Schulungsquelle zur Amwindtechnik; nennt als Orientierung engere fahrbare Winkel. Für diese Langstreckenplanung werden bewusst weniger ambitionierte Winkel von 55–60° gewählt. Daraus lässt sich keine garantierte Geschwindigkeit ableiten.
 - [Duotone: Wings, Auswahl und Einflussfaktoren](https://www.duotonesports.com/en/uk/wing-foiling/wings): Herstellerinformationen zur Abhängigkeit von Können, Material, Körpergewicht und Windbedingungen. Keine daraus abgeleitete numerische Leistungszusage.
 
-Die vorgeschlagenen Geschwindigkeiten, Winkel, 15-%-Manöverabschläge und Szenariospannen sind eigene Planungsannahmen. Es wurde keine allgemein gültige, empirisch abgesicherte Wingfoil-Tourenpolare für eure konkrete Ausrüstung gefunden. Noch keine neue Reiseauswertung mit diesen Parametern durchgeführt.
+Die vorgeschlagenen Geschwindigkeiten, Winkel, 15-%-Manöverabschläge und Szenariospannen sind eigene Planungsannahmen. Es wurde keine allgemein gültige, empirisch abgesicherte Wingfoil-Tourenpolare für eure konkrete Ausrüstung gefunden. Die Umsetzung und neue Reiseauswertung sind im [Ergebnisbericht](22-umrundung-mit-aufkreuzen.md) beschrieben.
