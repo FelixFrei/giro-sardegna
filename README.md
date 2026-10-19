@@ -58,6 +58,31 @@ Die Ergebnisse hängen von hypothetischen Leistungspolaren, einem groben Windras
 
 Die Dokumentation konzentriert sich auf Etappen, Pausen, Versorgung und strandnahe Hotels. Zugang und Regeln, Materiallogistik und eine gesonderte Bewertung der Belegqualität sind wie vereinbart nicht Bestandteil der Planung. Quellenlinks bleiben erhalten.
 
+## Roadmap: So gehen wir weiter vor
+
+Ziel ist eine vollständige Umrundung mit Hotelübernachtungen und einer realistisch planbaren Reisedauer. **12–25 kn, maximal fünf Stunden Wasserzeit und beide Leistungsmodelle bleiben die Vergleichsbasis.** Die folgenden Schritte sind geplant; sie sind noch nicht umgesetzt.
+
+| Priorität | Nächster Schritt | Ergebnis / Entscheidung |
+|---|---|---|
+| 1 | **Weitere strandnahe Hotels an den Engpässen recherchieren.** Auch neue Landeplätze zwischen den bisherigen Punkten aufnehmen, sofern ein Hotel in Strandnähe belegt ist. | Kürzere Hotelabstände und mehr Möglichkeiten, ein kurzes Windfenster zu nutzen. Neue Orte mit Koordinaten und Quellen dokumentieren. |
+| 2 | **Erweitertes Netz erneut simulieren.** Für neue Landeplätze die Wasserwege und Windzuordnung ergänzen; beide Richtungen und alle Startorte neu rechnen. | Vorher/nachher vergleichen: vollständige Runden, Reisedauer, Fahrtage, Wartetage und verbleibende Engpässe. Den Nutzen der Ergänzungen auch bei identischem Startort und Startdatum ausweisen. |
+| 3 | **Leistungsannahmen mit eigenen Fahrdaten abgleichen.** GPS-Tracks und zugehörigen Wind aus Testfahrten auswerten: Geschwindigkeit je Windwinkel, Fortschritt beim Aufkreuzen und Manöververluste. | Basis- und vorsichtiges Modell durch nachvollziehbare Werte für unser Material und Können ersetzen beziehungsweise bestätigen. |
+| 4 | **Wind- und Routenmodell verfeinern.** Kritische Passagen mit weiteren historischen Daten oder lokalen Messungen vergleichen; alternative Kreuzkurse sowie Seegang und Strömungen schrittweise ergänzen, soweit geeignete Daten verfügbar sind. | Prüfen, welche Engpässe bestehen bleiben und welche durch grobe Wetterdaten oder die bisher nur lokalen Kreuzschläge entstehen. APIs und archivierte Abrufe bevorzugen. |
+| 5 | **Ein festes Reisezeitbudget vergleichen.** Gemeinsam die verfügbare Reisedauer festlegen; zunächst beispielsweise 30, 45 und 60 Kalendertage gegenüberstellen. Startort, Richtung und Startfenster über mehrere Wetterjahre vergleichen. | Eine Auswahl, die sich auf mehrere Wetterverläufe stützt. Zusätzlich eine Planung mit begrenztem Vorhersagehorizont testen, statt den gesamten historischen Wetterverlauf vorauszusetzen. |
+| 6 | **Konkreten Reiseplan ableiten.** Für die bevorzugte Variante Hotelziele, Pausen, kürzere Tagesalternativen und Warteorte zusammenstellen. Kurz vor Abreise Startort und ersten Abschnitt anhand der aktuellen Vorhersage wählen. | Etappenplan mit Karte und Alternativen; keine starre Tagesfolge, die nur bei einem bestimmten historischen Wetterverlauf funktioniert. |
+
+### Wo zusätzliche Hotelziele zuerst helfen könnten
+
+Die Priorisierung folgt den [verbleibenden Engpässen der aktuellen Simulation](docs/24-erweitertes-hotelnetz-simulation.md#verbleibende-engpässe). Sie ist ein Rechercheauftrag, keine Aussage, dass dort bereits weitere Hotels gefunden wurden.
+
+- **Torre Salinas ↔ Torre di Bari, rund 54 km:** lange Hotelstrecke mit wenigen vollständigen Windfenstern; im vorsichtigen Modell 2025 gegen den Uhrzeigersinn kein einziges.
+- **Porto Istana ↔ Baja Sardinia, rund 52,5 km:** zusätzliche Übernachtungsorte entlang der Nordostküste könnten die verbleibende lange Tagesstrecke aufteilen.
+- **La Pelosa ↔ Porto Conte, rund 65,2 km:** gezielt nach strandnahen Übernachtungsorten an der Nordwestküste suchen und bei Bedarf neue Landeplätze ergänzen.
+- **Santa Maria Navarrese ↔ Cala Gonone, rund 37,4 km:** trotz kürzerer Distanz seltene Fahrfenster. Prüfen, ob überhaupt geeignete Zwischenhotels vorhanden sind; andernfalls die gesamte Passage als wetterabhängigen Schlüsselabschnitt planen.
+- **Nora ↔ Poetto, rund 27,5 km:** ebenfalls wenige passende Fenster. Zusätzliche Hotelziele und die lokale Windzuordnung gemeinsam prüfen, statt allein die Entfernung zu betrachten.
+
+Nach jedem Rechenlauf werden **Zusammenfassung, Karte, Quellen und Vergleichstabellen** aktualisiert. Hotelöffnungszeiten, Zugang und Regeln, Materiallogistik sowie eine gesonderte Bewertung der Belegqualität bleiben wie vereinbart ausserhalb des Arbeitsumfangs.
+
 ## Dokumente
 
 | Datei | Inhalt |
