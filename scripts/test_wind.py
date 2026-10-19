@@ -46,6 +46,14 @@ class WindTests(unittest.TestCase):
         self.assertTrue(compatible(*components(16,0),90,cfg)[0])
         self.assertTrue(compatible(*components(16,0),270,cfg)[0])
 
+    def test_extended_window_both_sides(self):
+        cfg=json.loads((ROOT/'data/phase2/simulation-config-august-220-12-25kn.json').read_text())
+        for course in [0,90,180,270]:
+            for offset,expected in [(0,False),(69.9,False),(70,True),(90,True),(180,True),(270,True),(290,True),(290.1,False)]:
+                self.assertEqual(compatible(*components(18,(course+offset)%360),course,cfg)[0],expected)
+        for speed,expected in [(11.9,False),(12,True),(25,True),(25.1,False)]:
+            self.assertEqual(compatible(*components(speed,70),0,cfg)[0],expected)
+
     def test_speed_boundaries(self):
         for speed,result in [(14.9,False),(15,True),(25,True),(25.1,False)]:
             self.assertEqual(compatible(*components(speed,270),90,CFG)[0],result)

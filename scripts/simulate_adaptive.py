@@ -46,7 +46,9 @@ def main():
     parser.add_argument('--min-wind', type=int, choices=[12,15], default=15)
     parser.add_argument('--max-wind', type=int, choices=[20,25], default=25)
     parser.add_argument('--august',action='store_true',help='August/September starts, side/tailwind, 12–20 kn')
+    parser.add_argument('--wide-window',action='store_true',help='With --august: 12–25 kn and 220-degree window')
     args=parser.parse_args()
+    if args.wide_window and not args.august:parser.error('--wide-window requires --august')
     if args.august and args.all_directions:parser.error('August scenario uses side/tailwind only')
     if not args.august and args.max_wind==20 and not (args.all_directions and args.min_wind==12):
         parser.error('--max-wind 20 requires --all-directions --min-wind 12')
@@ -62,6 +64,9 @@ def main():
     if args.august:
         config_name='simulation-config-august-180-12-20kn.json'
         output_name='adaptive-results-august-180-12-20kn.json'
+    if args.wide_window:
+        config_name='simulation-config-august-220-12-25kn.json'
+        output_name='adaptive-results-august-220-12-25kn.json'
     cfg=json.loads((DATA/config_name).read_text()); zone=ZoneInfo(cfg['local_timezone'])
     plan=json.loads((ROOT/'data/phase1/route-plan.json').read_text())
     sampling=json.loads((DATA/'sampling.json').read_text())

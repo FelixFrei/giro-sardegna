@@ -41,7 +41,8 @@ Hotelöffnungszeiten werden auf ausdrücklichen Wunsch nicht geprüft. Für Hote
 | [Windfenster 360°](docs/14-windfenster-360-grad.md) | Alle Windrichtungen bei 15–25 kn, neu berechneter Richtungsvergleich |
 | [12–25 kn und 360°](docs/15-windfenster-12-knoten.md) | Vergleich mit 15 kn Mindestwind, erfolgreiche Runden und Wartezeiten |
 | [12–20 kn und 360°](docs/16-windfenster-12-bis-20-knoten.md) | Engeres Windfenster im Vergleich mit 12–25 kn |
-| [Aktuell: ab August, 180°](docs/17-ab-august-180-grad.md) | August- und Septemberstarts bei 12–20 kn und Seiten-/Rückenwind |
+| [Ab August, 180°](docs/17-ab-august-180-grad.md) | August- und Septemberstarts bei 12–20 kn und Seiten-/Rückenwind |
+| [Aktuell: ab August, 220°](docs/18-ab-august-220-grad.md) | 12–25 kn, Windfenster auf beiden Seiten um 20° erweitert |
 | [Quellenregister](docs/10-quellenregister.md) | Quellen je Landeplatz |
 | [Vorlage Landeplatz](templates/landeplatz.md) | Steckbrief mit Quellen je Aussage |
 | [Vorlage Etappe](templates/etappe.md) | Teilstrecken, Pausen, Hotels, Alternativen und Nachweise |
